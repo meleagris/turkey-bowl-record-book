@@ -17,6 +17,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: python sleeper_pull.py
+      - run: python records.py
       - name: Commit new data
         run: |
           git config user.name "record-book-bot"
