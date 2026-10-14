@@ -1,0 +1,26 @@
+name: Weekly Sleeper pull
+
+on:
+  schedule:
+    - cron: "0 13 * * 2"   # Tuesdays 13:00 UTC (9am ET), after Monday Night Football
+  workflow_dispatch:        # adds a "Run workflow" button for manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python sleeper_pull.py
+      - name: Commit new data
+        run: |
+          git config user.name "record-book-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data managers.json
+          git diff --cached --quiet || git commit -m "Weekly Sleeper pull"
+          git push
