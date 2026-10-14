@@ -1,0 +1,3323 @@
+{
+ "generated_through": {
+  "season": "2026",
+  "week": 5
+ },
+ "history": [
+  {
+   "season": "2025",
+   "champion": "Emily",
+   "runner_up": "Daniel",
+   "third": "Uncle Ben",
+   "toilet_bowl_final": {
+    "winner": "Matthew",
+    "loser": "TassioSS"
+   },
+   "most_points_for": "Daniel",
+   "best_record": "Daniel"
+  },
+  {
+   "season": "2026",
+   "champion": null,
+   "runner_up": null,
+   "third": null,
+   "toilet_bowl_final": null,
+   "most_points_for": "Daniel",
+   "best_record": "Daniel"
+  }
+ ],
+ "managers": [
+  {
+   "manager": "Emily",
+   "seasons": 2,
+   "record": "10-9",
+   "win_pct": 0.526,
+   "points_for": 2417.42,
+   "points_against": 2304.3,
+   "ppg": 127.23,
+   "all_play_pct": 0.503,
+   "playoff_record": "3-0",
+   "playoff_appearances": 1,
+   "championships": 1,
+   "runner_ups": 0,
+   "thirds": 0,
+   "weekly_high_scores": 3,
+   "trades": 2
+  },
+  {
+   "manager": "Daniel",
+   "seasons": 2,
+   "record": "15-4",
+   "win_pct": 0.789,
+   "points_for": 2797.16,
+   "points_against": 2423.14,
+   "ppg": 147.22,
+   "all_play_pct": 0.804,
+   "playoff_record": "1-1",
+   "playoff_appearances": 2,
+   "championships": 0,
+   "runner_ups": 1,
+   "thirds": 0,
+   "weekly_high_scores": 8,
+   "trades": 4
+  },
+  {
+   "manager": "Elisha",
+   "seasons": 2,
+   "record": "12-7",
+   "win_pct": 0.632,
+   "points_for": 2311.48,
+   "points_against": 2237.66,
+   "ppg": 121.66,
+   "all_play_pct": 0.497,
+   "playoff_record": "0-2",
+   "playoff_appearances": 1,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "weekly_high_scores": 2,
+   "trades": 5
+  },
+  {
+   "manager": "Devin",
+   "seasons": 1,
+   "record": "3-2",
+   "win_pct": 0.6,
+   "points_for": 657.1,
+   "points_against": 700.62,
+   "ppg": 131.42,
+   "all_play_pct": 0.418,
+   "playoff_record": "0-0",
+   "playoff_appearances": 1,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "weekly_high_scores": 0,
+   "trades": 2
+  },
+  {
+   "manager": "Elena",
+   "seasons": 1,
+   "record": "3-2",
+   "win_pct": 0.6,
+   "points_for": 730.82,
+   "points_against": 724.82,
+   "ppg": 146.16,
+   "all_play_pct": 0.6,
+   "playoff_record": "0-0",
+   "playoff_appearances": 1,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "weekly_high_scores": 1,
+   "trades": 2
+  },
+  {
+   "manager": "Uncle Ben",
+   "seasons": 2,
+   "record": "10-9",
+   "win_pct": 0.526,
+   "points_for": 2120.24,
+   "points_against": 2183.64,
+   "ppg": 111.59,
+   "all_play_pct": 0.379,
+   "playoff_record": "2-1",
+   "playoff_appearances": 2,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 1,
+   "weekly_high_scores": 0,
+   "trades": 2
+  },
+  {
+   "manager": "Elo",
+   "seasons": 1,
+   "record": "7-7",
+   "win_pct": 0.5,
+   "points_for": 1704.62,
+   "points_against": 1711.52,
+   "ppg": 121.76,
+   "all_play_pct": 0.551,
+   "playoff_record": "1-1",
+   "playoff_appearances": 1,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "weekly_high_scores": 1,
+   "trades": 0
+  },
+  {
+   "manager": "Ellie",
+   "seasons": 2,
+   "record": "9-10",
+   "win_pct": 0.474,
+   "points_for": 2313.56,
+   "points_against": 2314.38,
+   "ppg": 121.77,
+   "all_play_pct": 0.477,
+   "playoff_record": "0-2",
+   "playoff_appearances": 2,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "weekly_high_scores": 1,
+   "trades": 3
+  },
+  {
+   "manager": "Matthew",
+   "seasons": 2,
+   "record": "8-11",
+   "win_pct": 0.421,
+   "points_for": 2411.28,
+   "points_against": 2397.7,
+   "ppg": 126.91,
+   "all_play_pct": 0.542,
+   "playoff_record": "0-0",
+   "playoff_appearances": 1,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "weekly_high_scores": 3,
+   "trades": 5
+  },
+  {
+   "manager": "Lytton",
+   "seasons": 1,
+   "record": "2-3",
+   "win_pct": 0.4,
+   "points_for": 700.02,
+   "points_against": 727.36,
+   "ppg": 140.0,
+   "all_play_pct": 0.491,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "weekly_high_scores": 0,
+   "trades": 4
+  },
+  {
+   "manager": "Tim",
+   "seasons": 1,
+   "record": "2-3",
+   "win_pct": 0.4,
+   "points_for": 638.44,
+   "points_against": 756.34,
+   "ppg": 127.69,
+   "all_play_pct": 0.418,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "weekly_high_scores": 0,
+   "trades": 1
+  },
+  {
+   "manager": "TassioSS",
+   "seasons": 1,
+   "record": "3-11",
+   "win_pct": 0.214,
+   "points_for": 1427.56,
+   "points_against": 1675.5,
+   "ppg": 101.97,
+   "all_play_pct": 0.276,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "weekly_high_scores": 0,
+   "trades": 0
+  },
+  {
+   "manager": "Mitchel",
+   "seasons": 1,
+   "record": "1-4",
+   "win_pct": 0.2,
+   "points_for": 591.16,
+   "points_against": 605.76,
+   "ppg": 118.23,
+   "all_play_pct": 0.327,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "weekly_high_scores": 0,
+   "trades": 0
+  },
+  {
+   "manager": "Ellen",
+   "seasons": 1,
+   "record": "1-4",
+   "win_pct": 0.2,
+   "points_for": 734.94,
+   "points_against": 793.06,
+   "ppg": 146.99,
+   "all_play_pct": 0.491,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "weekly_high_scores": 0,
+   "trades": 2
+  }
+ ],
+ "current_season": [
+  {
+   "season": "2026",
+   "manager": "Daniel",
+   "user_id": "1128738502994202624",
+   "complete": false,
+   "record": "4-1",
+   "wins": 4,
+   "win_pct": 0.8,
+   "points_for": 856.58,
+   "points_against": 699.44,
+   "ppg": 171.32,
+   "all_play": "47-8",
+   "all_play_pct": 0.855,
+   "luck": -0.27,
+   "lineup_efficiency": 0.942,
+   "weekly_high_scores": 3,
+   "weekly_low_scores": 0
+  },
+  {
+   "season": "2026",
+   "manager": "Matthew",
+   "user_id": "1128883781034704896",
+   "complete": false,
+   "record": "4-1",
+   "wins": 4,
+   "win_pct": 0.8,
+   "points_for": 800.32,
+   "points_against": 711.54,
+   "ppg": 160.06,
+   "all_play": "42-13",
+   "all_play_pct": 0.764,
+   "luck": 0.18,
+   "lineup_efficiency": 0.912,
+   "weekly_high_scores": 1,
+   "weekly_low_scores": 0
+  },
+  {
+   "season": "2026",
+   "manager": "Elena",
+   "user_id": "1128749478829289472",
+   "complete": false,
+   "record": "3-2",
+   "wins": 3,
+   "win_pct": 0.6,
+   "points_for": 730.82,
+   "points_against": 724.82,
+   "ppg": 146.16,
+   "all_play": "33-22",
+   "all_play_pct": 0.6,
+   "luck": 0.0,
+   "lineup_efficiency": 0.892,
+   "weekly_high_scores": 1,
+   "weekly_low_scores": 0
+  },
+  {
+   "season": "2026",
+   "manager": "Uncle Ben",
+   "user_id": "1269327736048984064",
+   "complete": false,
+   "record": "3-2",
+   "wins": 3,
+   "win_pct": 0.6,
+   "points_for": 680.6,
+   "points_against": 643.16,
+   "ppg": 136.12,
+   "all_play": "26-29",
+   "all_play_pct": 0.473,
+   "luck": 0.64,
+   "lineup_efficiency": 0.879,
+   "weekly_high_scores": 0,
+   "weekly_low_scores": 1
+  },
+  {
+   "season": "2026",
+   "manager": "Ellie",
+   "user_id": "1128748328549830656",
+   "complete": false,
+   "record": "3-2",
+   "wins": 3,
+   "win_pct": 0.6,
+   "points_for": 662.66,
+   "points_against": 628.4,
+   "ppg": 132.53,
+   "all_play": "28-27",
+   "all_play_pct": 0.509,
+   "luck": 0.45,
+   "lineup_efficiency": 0.89,
+   "weekly_high_scores": 0,
+   "weekly_low_scores": 1
+  },
+  {
+   "season": "2026",
+   "manager": "Devin",
+   "user_id": "1370631003596427264",
+   "complete": false,
+   "record": "3-2",
+   "wins": 3,
+   "win_pct": 0.6,
+   "points_for": 657.1,
+   "points_against": 700.62,
+   "ppg": 131.42,
+   "all_play": "23-32",
+   "all_play_pct": 0.418,
+   "luck": 0.91,
+   "lineup_efficiency": 0.981,
+   "weekly_high_scores": 0,
+   "weekly_low_scores": 0
+  },
+  {
+   "season": "2026",
+   "manager": "Lytton",
+   "user_id": "1133455527729745920",
+   "complete": false,
+   "record": "2-3",
+   "wins": 2,
+   "win_pct": 0.4,
+   "points_for": 700.02,
+   "points_against": 727.36,
+   "ppg": 140.0,
+   "all_play": "27-28",
+   "all_play_pct": 0.491,
+   "luck": -0.45,
+   "lineup_efficiency": 0.853,
+   "weekly_high_scores": 0,
+   "weekly_low_scores": 0
+  },
+  {
+   "season": "2026",
+   "manager": "Elisha",
+   "user_id": "1128743474339127296",
+   "complete": false,
+   "record": "2-3",
+   "wins": 2,
+   "win_pct": 0.4,
+   "points_for": 659.14,
+   "points_against": 697.92,
+   "ppg": 131.83,
+   "all_play": "24-31",
+   "all_play_pct": 0.436,
+   "luck": -0.18,
+   "lineup_efficiency": 0.864,
+   "weekly_high_scores": 0,
+   "weekly_low_scores": 0
+  },
+  {
+   "season": "2026",
+   "manager": "Tim",
+   "user_id": "863269290936233984",
+   "complete": false,
+   "record": "2-3",
+   "wins": 2,
+   "win_pct": 0.4,
+   "points_for": 638.44,
+   "points_against": 756.34,
+   "ppg": 127.69,
+   "all_play": "23-32",
+   "all_play_pct": 0.418,
+   "luck": -0.09,
+   "lineup_efficiency": 0.866,
+   "weekly_high_scores": 0,
+   "weekly_low_scores": 1
+  },
+  {
+   "season": "2026",
+   "manager": "Emily",
+   "user_id": "1128779037096144896",
+   "complete": false,
+   "record": "2-3",
+   "wins": 2,
+   "win_pct": 0.4,
+   "points_for": 578.28,
+   "points_against": 601.64,
+   "ppg": 115.66,
+   "all_play": "12-43",
+   "all_play_pct": 0.218,
+   "luck": 0.91,
+   "lineup_efficiency": 0.862,
+   "weekly_high_scores": 0,
+   "weekly_low_scores": 1
+  },
+  {
+   "season": "2026",
+   "manager": "Ellen",
+   "user_id": "1128753211101409280",
+   "complete": false,
+   "record": "1-4",
+   "wins": 1,
+   "win_pct": 0.2,
+   "points_for": 734.94,
+   "points_against": 793.06,
+   "ppg": 146.99,
+   "all_play": "27-28",
+   "all_play_pct": 0.491,
+   "luck": -1.45,
+   "lineup_efficiency": 0.884,
+   "weekly_high_scores": 0,
+   "weekly_low_scores": 0
+  },
+  {
+   "season": "2026",
+   "manager": "Mitchel",
+   "user_id": "1261876798367485952",
+   "complete": false,
+   "record": "1-4",
+   "wins": 1,
+   "win_pct": 0.2,
+   "points_for": 591.16,
+   "points_against": 605.76,
+   "ppg": 118.23,
+   "all_play": "18-37",
+   "all_play_pct": 0.327,
+   "luck": -0.64,
+   "lineup_efficiency": 0.838,
+   "weekly_high_scores": 0,
+   "weekly_low_scores": 1
+  }
+ ],
+ "single_game": {
+  "highest_score": [
+   {
+    "season": "2026",
+    "week": 1,
+    "type": "regular",
+    "manager": "Daniel",
+    "points": 217.86,
+    "opponent": "Devin",
+    "opp_points": 131.6
+   },
+   {
+    "season": "2025",
+    "week": 16,
+    "type": "playoff",
+    "manager": "Emily",
+    "points": 204.66,
+    "opponent": "Elisha",
+    "opp_points": 120.5
+   },
+   {
+    "season": "2026",
+    "week": 1,
+    "type": "regular",
+    "manager": "Ellen",
+    "points": 200.68,
+    "opponent": "Uncle Ben",
+    "opp_points": 150.48
+   },
+   {
+    "season": "2026",
+    "week": 5,
+    "type": "regular",
+    "manager": "Matthew",
+    "points": 197.06,
+    "opponent": "Lytton",
+    "opp_points": 186.68
+   },
+   {
+    "season": "2026",
+    "week": 5,
+    "type": "regular",
+    "manager": "Lytton",
+    "points": 186.68,
+    "opponent": "Matthew",
+    "opp_points": 197.06
+   }
+  ],
+  "lowest_score": [
+   {
+    "season": "2025",
+    "week": 12,
+    "type": "regular",
+    "manager": "Uncle Ben",
+    "points": 71.12,
+    "opponent": "Daniel",
+    "opp_points": 132.86
+   },
+   {
+    "season": "2025",
+    "week": 3,
+    "type": "regular",
+    "manager": "Uncle Ben",
+    "points": 74.12,
+    "opponent": "Ellie",
+    "opp_points": 146.54
+   },
+   {
+    "season": "2026",
+    "week": 5,
+    "type": "regular",
+    "manager": "Mitchel",
+    "points": 76.3,
+    "opponent": "Emily",
+    "opp_points": 100.4
+   },
+   {
+    "season": "2025",
+    "week": 6,
+    "type": "regular",
+    "manager": "TassioSS",
+    "points": 77.28,
+    "opponent": "Elisha",
+    "opp_points": 119.7
+   },
+   {
+    "season": "2025",
+    "week": 14,
+    "type": "regular",
+    "manager": "Elo",
+    "points": 78.1,
+    "opponent": "Uncle Ben",
+    "opp_points": 129.56
+   }
+  ],
+  "highest_score_in_loss": [
+   {
+    "season": "2026",
+    "week": 5,
+    "type": "regular",
+    "manager": "Lytton",
+    "points": 186.68,
+    "opponent": "Matthew",
+    "opp_points": 197.06
+   },
+   {
+    "season": "2026",
+    "week": 5,
+    "type": "regular",
+    "manager": "Ellen",
+    "points": 168.22,
+    "opponent": "Elena",
+    "opp_points": 177.96
+   },
+   {
+    "season": "2025",
+    "week": 6,
+    "type": "regular",
+    "manager": "Ellie",
+    "points": 161.92,
+    "opponent": "Daniel",
+    "opp_points": 163.34
+   },
+   {
+    "season": "2026",
+    "week": 4,
+    "type": "regular",
+    "manager": "Lytton",
+    "points": 152.92,
+    "opponent": "Daniel",
+    "opp_points": 177.82
+   },
+   {
+    "season": "2026",
+    "week": 1,
+    "type": "regular",
+    "manager": "Uncle Ben",
+    "points": 150.48,
+    "opponent": "Ellen",
+    "opp_points": 200.68
+   }
+  ],
+  "lowest_score_in_win": [
+   {
+    "season": "2025",
+    "week": 13,
+    "type": "regular",
+    "manager": "Elisha",
+    "points": 79.12,
+    "opponent": "TassioSS",
+    "opp_points": 78.94
+   },
+   {
+    "season": "2025",
+    "week": 15,
+    "type": "playoff",
+    "manager": "Uncle Ben",
+    "points": 91.3,
+    "opponent": "Elo",
+    "opp_points": 84.12
+   },
+   {
+    "season": "2025",
+    "week": 4,
+    "type": "regular",
+    "manager": "Elisha",
+    "points": 98.16,
+    "opponent": "Matthew",
+    "opp_points": 96.18
+   },
+   {
+    "season": "2026",
+    "week": 5,
+    "type": "regular",
+    "manager": "Emily",
+    "points": 100.4,
+    "opponent": "Mitchel",
+    "opp_points": 76.3
+   },
+   {
+    "season": "2025",
+    "week": 12,
+    "type": "regular",
+    "manager": "Ellie",
+    "points": 101.36,
+    "opponent": "Matthew",
+    "opp_points": 95.52
+   }
+  ],
+  "biggest_blowout": [
+   {
+    "season": "2026",
+    "week": 1,
+    "type": "regular",
+    "winner": "Daniel",
+    "winner_points": 217.86,
+    "loser": "Devin",
+    "loser_points": 131.6,
+    "margin": 86.26,
+    "combined": 349.46
+   },
+   {
+    "season": "2025",
+    "week": 16,
+    "type": "playoff",
+    "winner": "Emily",
+    "winner_points": 204.66,
+    "loser": "Elisha",
+    "loser_points": 120.5,
+    "margin": 84.16,
+    "combined": 325.16
+   },
+   {
+    "season": "2025",
+    "week": 3,
+    "type": "regular",
+    "winner": "Ellie",
+    "winner_points": 146.54,
+    "loser": "Uncle Ben",
+    "loser_points": 74.12,
+    "margin": 72.42,
+    "combined": 220.66
+   },
+   {
+    "season": "2025",
+    "week": 12,
+    "type": "regular",
+    "winner": "Emily",
+    "winner_points": 173.56,
+    "loser": "TassioSS",
+    "loser_points": 103.14,
+    "margin": 70.42,
+    "combined": 276.7
+   },
+   {
+    "season": "2026",
+    "week": 4,
+    "type": "regular",
+    "winner": "Ellie",
+    "winner_points": 152.68,
+    "loser": "Tim",
+    "loser_points": 89.96,
+    "margin": 62.72,
+    "combined": 242.64
+   }
+  ],
+  "closest_game": [
+   {
+    "season": "2026",
+    "week": 5,
+    "type": "regular",
+    "winner": "Tim",
+    "winner_points": 118.54,
+    "loser": "Devin",
+    "loser_points": 118.44,
+    "margin": 0.1,
+    "combined": 236.98
+   },
+   {
+    "season": "2025",
+    "week": 14,
+    "type": "regular",
+    "winner": "TassioSS",
+    "winner_points": 104.76,
+    "loser": "Ellie",
+    "loser_points": 104.6,
+    "margin": 0.16,
+    "combined": 209.36
+   },
+   {
+    "season": "2025",
+    "week": 13,
+    "type": "regular",
+    "winner": "Elisha",
+    "winner_points": 79.12,
+    "loser": "TassioSS",
+    "loser_points": 78.94,
+    "margin": 0.18,
+    "combined": 158.06
+   },
+   {
+    "season": "2025",
+    "week": 6,
+    "type": "regular",
+    "winner": "Elo",
+    "winner_points": 142.38,
+    "loser": "Emily",
+    "loser_points": 141.62,
+    "margin": 0.76,
+    "combined": 284.0
+   },
+   {
+    "season": "2025",
+    "week": 7,
+    "type": "regular",
+    "winner": "Daniel",
+    "winner_points": 139.98,
+    "loser": "Elisha",
+    "loser_points": 138.82,
+    "margin": 1.16,
+    "combined": 278.8
+   }
+  ],
+  "highest_combined": [
+   {
+    "season": "2026",
+    "week": 5,
+    "type": "regular",
+    "winner": "Matthew",
+    "winner_points": 197.06,
+    "loser": "Lytton",
+    "loser_points": 186.68,
+    "margin": 10.38,
+    "combined": 383.74
+   },
+   {
+    "season": "2026",
+    "week": 1,
+    "type": "regular",
+    "winner": "Ellen",
+    "winner_points": 200.68,
+    "loser": "Uncle Ben",
+    "loser_points": 150.48,
+    "margin": 50.2,
+    "combined": 351.16
+   },
+   {
+    "season": "2026",
+    "week": 1,
+    "type": "regular",
+    "winner": "Daniel",
+    "winner_points": 217.86,
+    "loser": "Devin",
+    "loser_points": 131.6,
+    "margin": 86.26,
+    "combined": 349.46
+   },
+   {
+    "season": "2026",
+    "week": 5,
+    "type": "regular",
+    "winner": "Elena",
+    "winner_points": 177.96,
+    "loser": "Ellen",
+    "loser_points": 168.22,
+    "margin": 9.74,
+    "combined": 346.18
+   },
+   {
+    "season": "2026",
+    "week": 4,
+    "type": "regular",
+    "winner": "Daniel",
+    "winner_points": 177.82,
+    "loser": "Lytton",
+    "loser_points": 152.92,
+    "margin": 24.9,
+    "combined": 330.74
+   }
+  ],
+  "lowest_combined": [
+   {
+    "season": "2025",
+    "week": 13,
+    "type": "regular",
+    "winner": "Elisha",
+    "winner_points": 79.12,
+    "loser": "TassioSS",
+    "loser_points": 78.94,
+    "margin": 0.18,
+    "combined": 158.06
+   },
+   {
+    "season": "2025",
+    "week": 15,
+    "type": "playoff",
+    "winner": "Uncle Ben",
+    "winner_points": 91.3,
+    "loser": "Elo",
+    "loser_points": 84.12,
+    "margin": 7.18,
+    "combined": 175.42
+   },
+   {
+    "season": "2026",
+    "week": 5,
+    "type": "regular",
+    "winner": "Emily",
+    "winner_points": 100.4,
+    "loser": "Mitchel",
+    "loser_points": 76.3,
+    "margin": 24.1,
+    "combined": 176.7
+   },
+   {
+    "season": "2025",
+    "week": 11,
+    "type": "regular",
+    "winner": "Uncle Ben",
+    "winner_points": 102.06,
+    "loser": "TassioSS",
+    "loser_points": 80.04,
+    "margin": 22.02,
+    "combined": 182.1
+   },
+   {
+    "season": "2025",
+    "week": 10,
+    "type": "regular",
+    "winner": "Ellie",
+    "winner_points": 102.22,
+    "loser": "Uncle Ben",
+    "loser_points": 81.3,
+    "margin": 20.92,
+    "combined": 183.52
+   }
+  ],
+  "most_points_left_on_bench": [
+   {
+    "season": "2025",
+    "week": 7,
+    "type": "regular",
+    "manager": "Ellie",
+    "points": 108.64,
+    "opponent": "TassioSS",
+    "opp_points": 98.0,
+    "left_on_bench": 60.7,
+    "optimal": 169.34
+   },
+   {
+    "season": "2025",
+    "week": 7,
+    "type": "regular",
+    "manager": "Elo",
+    "points": 103.44,
+    "opponent": "Uncle Ben",
+    "opp_points": 111.34,
+    "left_on_bench": 52.0,
+    "optimal": 155.44
+   },
+   {
+    "season": "2026",
+    "week": 4,
+    "type": "regular",
+    "manager": "Ellen",
+    "points": 116.16,
+    "opponent": "Emily",
+    "opp_points": 132.94,
+    "left_on_bench": 50.0,
+    "optimal": 166.16
+   },
+   {
+    "season": "2026",
+    "week": 4,
+    "type": "regular",
+    "manager": "Elisha",
+    "points": 103.78,
+    "opponent": "Uncle Ben",
+    "opp_points": 158.2,
+    "left_on_bench": 49.58,
+    "optimal": 153.36
+   },
+   {
+    "season": "2025",
+    "week": 15,
+    "type": "playoff",
+    "manager": "Ellie",
+    "points": 144.2,
+    "opponent": "Emily",
+    "opp_points": 156.72,
+    "left_on_bench": 48.8,
+    "optimal": 193.0
+   }
+  ],
+  "losses_optimal_lineup_would_have_won": [
+   {
+    "season": "2025",
+    "week": 7,
+    "type": "regular",
+    "manager": "Elo",
+    "points": 103.44,
+    "opponent": "Uncle Ben",
+    "opp_points": 111.34,
+    "optimal": 155.44
+   },
+   {
+    "season": "2025",
+    "week": 4,
+    "type": "regular",
+    "manager": "Matthew",
+    "points": 96.18,
+    "opponent": "Elisha",
+    "opp_points": 98.16,
+    "optimal": 138.78
+   },
+   {
+    "season": "2025",
+    "week": 15,
+    "type": "playoff",
+    "manager": "Ellie",
+    "points": 144.2,
+    "opponent": "Emily",
+    "opp_points": 156.72,
+    "optimal": 193.0
+   },
+   {
+    "season": "2026",
+    "week": 4,
+    "type": "regular",
+    "manager": "Ellen",
+    "points": 116.16,
+    "opponent": "Emily",
+    "opp_points": 132.94,
+    "optimal": 166.16
+   },
+   {
+    "season": "2025",
+    "week": 4,
+    "type": "regular",
+    "manager": "Elo",
+    "points": 146.8,
+    "opponent": "Ellie",
+    "opp_points": 148.3,
+    "optimal": 180.9
+   },
+   {
+    "season": "2025",
+    "week": 3,
+    "type": "regular",
+    "manager": "Matthew",
+    "points": 103.22,
+    "opponent": "Daniel",
+    "opp_points": 109.72,
+    "optimal": 140.52
+   },
+   {
+    "season": "2026",
+    "week": 3,
+    "type": "regular",
+    "manager": "Emily",
+    "points": 112.98,
+    "opponent": "Devin",
+    "opp_points": 116.1,
+    "optimal": 146.38
+   },
+   {
+    "season": "2025",
+    "week": 13,
+    "type": "regular",
+    "manager": "TassioSS",
+    "points": 78.94,
+    "opponent": "Elisha",
+    "opp_points": 79.12,
+    "optimal": 106.26
+   },
+   {
+    "season": "2025",
+    "week": 14,
+    "type": "regular",
+    "manager": "Ellie",
+    "points": 104.6,
+    "opponent": "TassioSS",
+    "opp_points": 104.76,
+    "optimal": 130.36
+   },
+   {
+    "season": "2025",
+    "week": 13,
+    "type": "regular",
+    "manager": "Emily",
+    "points": 126.14,
+    "opponent": "Elo",
+    "opp_points": 128.04,
+    "optimal": 151.04
+   },
+   {
+    "season": "2025",
+    "week": 5,
+    "type": "regular",
+    "manager": "Uncle Ben",
+    "points": 115.44,
+    "opponent": "Daniel",
+    "opp_points": 121.02,
+    "optimal": 142.46
+   },
+   {
+    "season": "2025",
+    "week": 9,
+    "type": "regular",
+    "manager": "Uncle Ben",
+    "points": 91.08,
+    "opponent": "Elisha",
+    "opp_points": 113.62,
+    "optimal": 134.38
+   },
+   {
+    "season": "2025",
+    "week": 3,
+    "type": "regular",
+    "manager": "Emily",
+    "points": 104.48,
+    "opponent": "Elisha",
+    "opp_points": 123.32,
+    "optimal": 143.98
+   },
+   {
+    "season": "2026",
+    "week": 3,
+    "type": "regular",
+    "manager": "Mitchel",
+    "points": 144.14,
+    "opponent": "Daniel",
+    "opp_points": 145.84,
+    "optimal": 164.84
+   },
+   {
+    "season": "2026",
+    "week": 4,
+    "type": "regular",
+    "manager": "Mitchel",
+    "points": 134.58,
+    "opponent": "Matthew",
+    "opp_points": 140.48,
+    "optimal": 158.16
+   },
+   {
+    "season": "2025",
+    "week": 11,
+    "type": "regular",
+    "manager": "Daniel",
+    "points": 122.84,
+    "opponent": "Emily",
+    "opp_points": 130.5,
+    "optimal": 148.14
+   },
+   {
+    "season": "2025",
+    "week": 7,
+    "type": "regular",
+    "manager": "Elisha",
+    "points": 138.82,
+    "opponent": "Daniel",
+    "opp_points": 139.98,
+    "optimal": 156.92
+   },
+   {
+    "season": "2026",
+    "week": 1,
+    "type": "regular",
+    "manager": "Elisha",
+    "points": 96.38,
+    "opponent": "Lytton",
+    "opp_points": 111.12,
+    "optimal": 126.26
+   },
+   {
+    "season": "2025",
+    "week": 12,
+    "type": "regular",
+    "manager": "Matthew",
+    "points": 95.52,
+    "opponent": "Ellie",
+    "opp_points": 101.36,
+    "optimal": 116.36
+   },
+   {
+    "season": "2025",
+    "week": 7,
+    "type": "regular",
+    "manager": "TassioSS",
+    "points": 98.0,
+    "opponent": "Ellie",
+    "opp_points": 108.64,
+    "optimal": 121.5
+   },
+   {
+    "season": "2026",
+    "week": 3,
+    "type": "regular",
+    "manager": "Uncle Ben",
+    "points": 100.74,
+    "opponent": "Lytton",
+    "opp_points": 126.6,
+    "optimal": 137.96
+   },
+   {
+    "season": "2025",
+    "week": 6,
+    "type": "regular",
+    "manager": "Ellie",
+    "points": 161.92,
+    "opponent": "Daniel",
+    "opp_points": 163.34,
+    "optimal": 172.62
+   },
+   {
+    "season": "2025",
+    "week": 17,
+    "type": "playoff",
+    "manager": "Elisha",
+    "points": 82.68,
+    "opponent": "Uncle Ben",
+    "opp_points": 111.52,
+    "optimal": 119.78
+   },
+   {
+    "season": "2026",
+    "week": 2,
+    "type": "regular",
+    "manager": "Mitchel",
+    "points": 99.8,
+    "opponent": "Uncle Ben",
+    "opp_points": 128.14,
+    "optimal": 134.92
+   },
+   {
+    "season": "2025",
+    "week": 11,
+    "type": "regular",
+    "manager": "Ellie",
+    "points": 97.7,
+    "opponent": "Elo",
+    "opp_points": 121.94,
+    "optimal": 128.0
+   },
+   {
+    "season": "2025",
+    "week": 14,
+    "type": "regular",
+    "manager": "Matthew",
+    "points": 102.04,
+    "opponent": "Emily",
+    "opp_points": 110.06,
+    "optimal": 115.16
+   },
+   {
+    "season": "2026",
+    "week": 5,
+    "type": "regular",
+    "manager": "Lytton",
+    "points": 186.68,
+    "opponent": "Matthew",
+    "opp_points": 197.06,
+    "optimal": 202.04
+   },
+   {
+    "season": "2025",
+    "week": 6,
+    "type": "regular",
+    "manager": "Emily",
+    "points": 141.62,
+    "opponent": "Elo",
+    "opp_points": 142.38,
+    "optimal": 147.12
+   },
+   {
+    "season": "2025",
+    "week": 1,
+    "type": "regular",
+    "manager": "Emily",
+    "points": 115.92,
+    "opponent": "Uncle Ben",
+    "opp_points": 130.62,
+    "optimal": 135.1
+   },
+   {
+    "season": "2025",
+    "week": 2,
+    "type": "regular",
+    "manager": "TassioSS",
+    "points": 100.5,
+    "opponent": "Matthew",
+    "opp_points": 134.4,
+    "optimal": 138.18
+   },
+   {
+    "season": "2025",
+    "week": 12,
+    "type": "regular",
+    "manager": "Elo",
+    "points": 110.58,
+    "opponent": "Elisha",
+    "opp_points": 142.52,
+    "optimal": 146.02
+   },
+   {
+    "season": "2025",
+    "week": 16,
+    "type": "playoff",
+    "manager": "Uncle Ben",
+    "points": 109.7,
+    "opponent": "Daniel",
+    "opp_points": 128.3,
+    "optimal": 131.6
+   },
+   {
+    "season": "2025",
+    "week": 2,
+    "type": "regular",
+    "manager": "Ellie",
+    "points": 96.94,
+    "opponent": "Emily",
+    "opp_points": 107.54,
+    "optimal": 110.54
+   },
+   {
+    "season": "2025",
+    "week": 3,
+    "type": "regular",
+    "manager": "TassioSS",
+    "points": 85.28,
+    "opponent": "Elo",
+    "opp_points": 122.96,
+    "optimal": 125.7
+   },
+   {
+    "season": "2025",
+    "week": 2,
+    "type": "regular",
+    "manager": "Elisha",
+    "points": 99.62,
+    "opponent": "Uncle Ben",
+    "opp_points": 120.9,
+    "optimal": 122.82
+   },
+   {
+    "season": "2026",
+    "week": 3,
+    "type": "regular",
+    "manager": "Ellen",
+    "points": 135.52,
+    "opponent": "Matthew",
+    "opp_points": 159.8,
+    "optimal": 161.42
+   },
+   {
+    "season": "2025",
+    "week": 2,
+    "type": "regular",
+    "manager": "Elo",
+    "points": 117.28,
+    "opponent": "Daniel",
+    "opp_points": 149.4,
+    "optimal": 150.88
+   },
+   {
+    "season": "2025",
+    "week": 15,
+    "type": "playoff",
+    "manager": "Elo",
+    "points": 84.12,
+    "opponent": "Uncle Ben",
+    "opp_points": 91.3,
+    "optimal": 91.5
+   }
+  ]
+ },
+ "season": {
+  "most_points_for": [
+   {
+    "season": "2025",
+    "manager": "Daniel",
+    "user_id": "1128738502994202624",
+    "complete": true,
+    "record": "11-3",
+    "wins": 11,
+    "win_pct": 0.786,
+    "points_for": 1940.58,
+    "points_against": 1723.7,
+    "ppg": 138.61,
+    "all_play": "76-22",
+    "all_play_pct": 0.776,
+    "luck": 0.14,
+    "lineup_efficiency": 0.888,
+    "weekly_high_scores": 5,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Emily",
+    "user_id": "1128779037096144896",
+    "complete": true,
+    "record": "8-6",
+    "wins": 8,
+    "win_pct": 0.571,
+    "points_for": 1839.14,
+    "points_against": 1702.66,
+    "ppg": 131.37,
+    "all_play": "65-33",
+    "all_play_pct": 0.663,
+    "luck": -1.29,
+    "lineup_efficiency": 0.898,
+    "weekly_high_scores": 3,
+    "weekly_low_scores": 0
+   },
+   {
+    "season": "2025",
+    "manager": "Elo",
+    "user_id": "1128745068917022720",
+    "complete": true,
+    "record": "7-7",
+    "wins": 7,
+    "win_pct": 0.5,
+    "points_for": 1704.62,
+    "points_against": 1711.52,
+    "ppg": 121.76,
+    "all_play": "54-44",
+    "all_play_pct": 0.551,
+    "luck": -0.71,
+    "lineup_efficiency": 0.837,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Elisha",
+    "user_id": "1128743474339127296",
+    "complete": true,
+    "record": "10-4",
+    "wins": 10,
+    "win_pct": 0.714,
+    "points_for": 1652.34,
+    "points_against": 1539.74,
+    "ppg": 118.02,
+    "all_play": "52-46",
+    "all_play_pct": 0.531,
+    "luck": 2.57,
+    "lineup_efficiency": 0.866,
+    "weekly_high_scores": 2,
+    "weekly_low_scores": 2
+   },
+   {
+    "season": "2025",
+    "manager": "Ellie",
+    "user_id": "1128748328549830656",
+    "complete": true,
+    "record": "6-8",
+    "wins": 6,
+    "win_pct": 0.429,
+    "points_for": 1650.9,
+    "points_against": 1685.98,
+    "ppg": 117.92,
+    "all_play": "45-53",
+    "all_play_pct": 0.459,
+    "luck": -0.43,
+    "lineup_efficiency": 0.872,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   }
+  ],
+  "fewest_points_for": [
+   {
+    "season": "2025",
+    "manager": "TassioSS",
+    "user_id": "465984216409042944",
+    "complete": true,
+    "record": "3-11",
+    "wins": 3,
+    "win_pct": 0.214,
+    "points_for": 1427.56,
+    "points_against": 1675.5,
+    "ppg": 101.97,
+    "all_play": "27-71",
+    "all_play_pct": 0.276,
+    "luck": -0.86,
+    "lineup_efficiency": 0.83,
+    "weekly_high_scores": 0,
+    "weekly_low_scores": 4
+   },
+   {
+    "season": "2025",
+    "manager": "Uncle Ben",
+    "user_id": "1269327736048984064",
+    "complete": true,
+    "record": "7-7",
+    "wins": 7,
+    "win_pct": 0.5,
+    "points_for": 1439.64,
+    "points_against": 1540.48,
+    "ppg": 102.83,
+    "all_play": "32-66",
+    "all_play_pct": 0.327,
+    "luck": 2.43,
+    "lineup_efficiency": 0.84,
+    "weekly_high_scores": 0,
+    "weekly_low_scores": 4
+   },
+   {
+    "season": "2025",
+    "manager": "Matthew",
+    "user_id": "1128883781034704896",
+    "complete": true,
+    "record": "4-10",
+    "wins": 4,
+    "win_pct": 0.286,
+    "points_for": 1610.96,
+    "points_against": 1686.16,
+    "ppg": 115.07,
+    "all_play": "41-57",
+    "all_play_pct": 0.418,
+    "luck": -1.86,
+    "lineup_efficiency": 0.878,
+    "weekly_high_scores": 2,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Ellie",
+    "user_id": "1128748328549830656",
+    "complete": true,
+    "record": "6-8",
+    "wins": 6,
+    "win_pct": 0.429,
+    "points_for": 1650.9,
+    "points_against": 1685.98,
+    "ppg": 117.92,
+    "all_play": "45-53",
+    "all_play_pct": 0.459,
+    "luck": -0.43,
+    "lineup_efficiency": 0.872,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Elisha",
+    "user_id": "1128743474339127296",
+    "complete": true,
+    "record": "10-4",
+    "wins": 10,
+    "win_pct": 0.714,
+    "points_for": 1652.34,
+    "points_against": 1539.74,
+    "ppg": 118.02,
+    "all_play": "52-46",
+    "all_play_pct": 0.531,
+    "luck": 2.57,
+    "lineup_efficiency": 0.866,
+    "weekly_high_scores": 2,
+    "weekly_low_scores": 2
+   }
+  ],
+  "most_points_against": [
+   {
+    "season": "2025",
+    "manager": "Daniel",
+    "user_id": "1128738502994202624",
+    "complete": true,
+    "record": "11-3",
+    "wins": 11,
+    "win_pct": 0.786,
+    "points_for": 1940.58,
+    "points_against": 1723.7,
+    "ppg": 138.61,
+    "all_play": "76-22",
+    "all_play_pct": 0.776,
+    "luck": 0.14,
+    "lineup_efficiency": 0.888,
+    "weekly_high_scores": 5,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Elo",
+    "user_id": "1128745068917022720",
+    "complete": true,
+    "record": "7-7",
+    "wins": 7,
+    "win_pct": 0.5,
+    "points_for": 1704.62,
+    "points_against": 1711.52,
+    "ppg": 121.76,
+    "all_play": "54-44",
+    "all_play_pct": 0.551,
+    "luck": -0.71,
+    "lineup_efficiency": 0.837,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Emily",
+    "user_id": "1128779037096144896",
+    "complete": true,
+    "record": "8-6",
+    "wins": 8,
+    "win_pct": 0.571,
+    "points_for": 1839.14,
+    "points_against": 1702.66,
+    "ppg": 131.37,
+    "all_play": "65-33",
+    "all_play_pct": 0.663,
+    "luck": -1.29,
+    "lineup_efficiency": 0.898,
+    "weekly_high_scores": 3,
+    "weekly_low_scores": 0
+   },
+   {
+    "season": "2025",
+    "manager": "Matthew",
+    "user_id": "1128883781034704896",
+    "complete": true,
+    "record": "4-10",
+    "wins": 4,
+    "win_pct": 0.286,
+    "points_for": 1610.96,
+    "points_against": 1686.16,
+    "ppg": 115.07,
+    "all_play": "41-57",
+    "all_play_pct": 0.418,
+    "luck": -1.86,
+    "lineup_efficiency": 0.878,
+    "weekly_high_scores": 2,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Ellie",
+    "user_id": "1128748328549830656",
+    "complete": true,
+    "record": "6-8",
+    "wins": 6,
+    "win_pct": 0.429,
+    "points_for": 1650.9,
+    "points_against": 1685.98,
+    "ppg": 117.92,
+    "all_play": "45-53",
+    "all_play_pct": 0.459,
+    "luck": -0.43,
+    "lineup_efficiency": 0.872,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   }
+  ],
+  "best_record": [
+   {
+    "season": "2025",
+    "manager": "Daniel",
+    "user_id": "1128738502994202624",
+    "complete": true,
+    "record": "11-3",
+    "wins": 11,
+    "win_pct": 0.786,
+    "points_for": 1940.58,
+    "points_against": 1723.7,
+    "ppg": 138.61,
+    "all_play": "76-22",
+    "all_play_pct": 0.776,
+    "luck": 0.14,
+    "lineup_efficiency": 0.888,
+    "weekly_high_scores": 5,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Elisha",
+    "user_id": "1128743474339127296",
+    "complete": true,
+    "record": "10-4",
+    "wins": 10,
+    "win_pct": 0.714,
+    "points_for": 1652.34,
+    "points_against": 1539.74,
+    "ppg": 118.02,
+    "all_play": "52-46",
+    "all_play_pct": 0.531,
+    "luck": 2.57,
+    "lineup_efficiency": 0.866,
+    "weekly_high_scores": 2,
+    "weekly_low_scores": 2
+   },
+   {
+    "season": "2025",
+    "manager": "Emily",
+    "user_id": "1128779037096144896",
+    "complete": true,
+    "record": "8-6",
+    "wins": 8,
+    "win_pct": 0.571,
+    "points_for": 1839.14,
+    "points_against": 1702.66,
+    "ppg": 131.37,
+    "all_play": "65-33",
+    "all_play_pct": 0.663,
+    "luck": -1.29,
+    "lineup_efficiency": 0.898,
+    "weekly_high_scores": 3,
+    "weekly_low_scores": 0
+   },
+   {
+    "season": "2025",
+    "manager": "Elo",
+    "user_id": "1128745068917022720",
+    "complete": true,
+    "record": "7-7",
+    "wins": 7,
+    "win_pct": 0.5,
+    "points_for": 1704.62,
+    "points_against": 1711.52,
+    "ppg": 121.76,
+    "all_play": "54-44",
+    "all_play_pct": 0.551,
+    "luck": -0.71,
+    "lineup_efficiency": 0.837,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Uncle Ben",
+    "user_id": "1269327736048984064",
+    "complete": true,
+    "record": "7-7",
+    "wins": 7,
+    "win_pct": 0.5,
+    "points_for": 1439.64,
+    "points_against": 1540.48,
+    "ppg": 102.83,
+    "all_play": "32-66",
+    "all_play_pct": 0.327,
+    "luck": 2.43,
+    "lineup_efficiency": 0.84,
+    "weekly_high_scores": 0,
+    "weekly_low_scores": 4
+   }
+  ],
+  "worst_record": [
+   {
+    "season": "2025",
+    "manager": "TassioSS",
+    "user_id": "465984216409042944",
+    "complete": true,
+    "record": "3-11",
+    "wins": 3,
+    "win_pct": 0.214,
+    "points_for": 1427.56,
+    "points_against": 1675.5,
+    "ppg": 101.97,
+    "all_play": "27-71",
+    "all_play_pct": 0.276,
+    "luck": -0.86,
+    "lineup_efficiency": 0.83,
+    "weekly_high_scores": 0,
+    "weekly_low_scores": 4
+   },
+   {
+    "season": "2025",
+    "manager": "Matthew",
+    "user_id": "1128883781034704896",
+    "complete": true,
+    "record": "4-10",
+    "wins": 4,
+    "win_pct": 0.286,
+    "points_for": 1610.96,
+    "points_against": 1686.16,
+    "ppg": 115.07,
+    "all_play": "41-57",
+    "all_play_pct": 0.418,
+    "luck": -1.86,
+    "lineup_efficiency": 0.878,
+    "weekly_high_scores": 2,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Ellie",
+    "user_id": "1128748328549830656",
+    "complete": true,
+    "record": "6-8",
+    "wins": 6,
+    "win_pct": 0.429,
+    "points_for": 1650.9,
+    "points_against": 1685.98,
+    "ppg": 117.92,
+    "all_play": "45-53",
+    "all_play_pct": 0.459,
+    "luck": -0.43,
+    "lineup_efficiency": 0.872,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Uncle Ben",
+    "user_id": "1269327736048984064",
+    "complete": true,
+    "record": "7-7",
+    "wins": 7,
+    "win_pct": 0.5,
+    "points_for": 1439.64,
+    "points_against": 1540.48,
+    "ppg": 102.83,
+    "all_play": "32-66",
+    "all_play_pct": 0.327,
+    "luck": 2.43,
+    "lineup_efficiency": 0.84,
+    "weekly_high_scores": 0,
+    "weekly_low_scores": 4
+   },
+   {
+    "season": "2025",
+    "manager": "Elo",
+    "user_id": "1128745068917022720",
+    "complete": true,
+    "record": "7-7",
+    "wins": 7,
+    "win_pct": 0.5,
+    "points_for": 1704.62,
+    "points_against": 1711.52,
+    "ppg": 121.76,
+    "all_play": "54-44",
+    "all_play_pct": 0.551,
+    "luck": -0.71,
+    "lineup_efficiency": 0.837,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   }
+  ],
+  "luckiest": [
+   {
+    "season": "2025",
+    "manager": "Elisha",
+    "user_id": "1128743474339127296",
+    "complete": true,
+    "record": "10-4",
+    "wins": 10,
+    "win_pct": 0.714,
+    "points_for": 1652.34,
+    "points_against": 1539.74,
+    "ppg": 118.02,
+    "all_play": "52-46",
+    "all_play_pct": 0.531,
+    "luck": 2.57,
+    "lineup_efficiency": 0.866,
+    "weekly_high_scores": 2,
+    "weekly_low_scores": 2
+   },
+   {
+    "season": "2025",
+    "manager": "Uncle Ben",
+    "user_id": "1269327736048984064",
+    "complete": true,
+    "record": "7-7",
+    "wins": 7,
+    "win_pct": 0.5,
+    "points_for": 1439.64,
+    "points_against": 1540.48,
+    "ppg": 102.83,
+    "all_play": "32-66",
+    "all_play_pct": 0.327,
+    "luck": 2.43,
+    "lineup_efficiency": 0.84,
+    "weekly_high_scores": 0,
+    "weekly_low_scores": 4
+   },
+   {
+    "season": "2025",
+    "manager": "Daniel",
+    "user_id": "1128738502994202624",
+    "complete": true,
+    "record": "11-3",
+    "wins": 11,
+    "win_pct": 0.786,
+    "points_for": 1940.58,
+    "points_against": 1723.7,
+    "ppg": 138.61,
+    "all_play": "76-22",
+    "all_play_pct": 0.776,
+    "luck": 0.14,
+    "lineup_efficiency": 0.888,
+    "weekly_high_scores": 5,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Ellie",
+    "user_id": "1128748328549830656",
+    "complete": true,
+    "record": "6-8",
+    "wins": 6,
+    "win_pct": 0.429,
+    "points_for": 1650.9,
+    "points_against": 1685.98,
+    "ppg": 117.92,
+    "all_play": "45-53",
+    "all_play_pct": 0.459,
+    "luck": -0.43,
+    "lineup_efficiency": 0.872,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Elo",
+    "user_id": "1128745068917022720",
+    "complete": true,
+    "record": "7-7",
+    "wins": 7,
+    "win_pct": 0.5,
+    "points_for": 1704.62,
+    "points_against": 1711.52,
+    "ppg": 121.76,
+    "all_play": "54-44",
+    "all_play_pct": 0.551,
+    "luck": -0.71,
+    "lineup_efficiency": 0.837,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   }
+  ],
+  "unluckiest": [
+   {
+    "season": "2025",
+    "manager": "Matthew",
+    "user_id": "1128883781034704896",
+    "complete": true,
+    "record": "4-10",
+    "wins": 4,
+    "win_pct": 0.286,
+    "points_for": 1610.96,
+    "points_against": 1686.16,
+    "ppg": 115.07,
+    "all_play": "41-57",
+    "all_play_pct": 0.418,
+    "luck": -1.86,
+    "lineup_efficiency": 0.878,
+    "weekly_high_scores": 2,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Emily",
+    "user_id": "1128779037096144896",
+    "complete": true,
+    "record": "8-6",
+    "wins": 8,
+    "win_pct": 0.571,
+    "points_for": 1839.14,
+    "points_against": 1702.66,
+    "ppg": 131.37,
+    "all_play": "65-33",
+    "all_play_pct": 0.663,
+    "luck": -1.29,
+    "lineup_efficiency": 0.898,
+    "weekly_high_scores": 3,
+    "weekly_low_scores": 0
+   },
+   {
+    "season": "2025",
+    "manager": "TassioSS",
+    "user_id": "465984216409042944",
+    "complete": true,
+    "record": "3-11",
+    "wins": 3,
+    "win_pct": 0.214,
+    "points_for": 1427.56,
+    "points_against": 1675.5,
+    "ppg": 101.97,
+    "all_play": "27-71",
+    "all_play_pct": 0.276,
+    "luck": -0.86,
+    "lineup_efficiency": 0.83,
+    "weekly_high_scores": 0,
+    "weekly_low_scores": 4
+   },
+   {
+    "season": "2025",
+    "manager": "Elo",
+    "user_id": "1128745068917022720",
+    "complete": true,
+    "record": "7-7",
+    "wins": 7,
+    "win_pct": 0.5,
+    "points_for": 1704.62,
+    "points_against": 1711.52,
+    "ppg": 121.76,
+    "all_play": "54-44",
+    "all_play_pct": 0.551,
+    "luck": -0.71,
+    "lineup_efficiency": 0.837,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Ellie",
+    "user_id": "1128748328549830656",
+    "complete": true,
+    "record": "6-8",
+    "wins": 6,
+    "win_pct": 0.429,
+    "points_for": 1650.9,
+    "points_against": 1685.98,
+    "ppg": 117.92,
+    "all_play": "45-53",
+    "all_play_pct": 0.459,
+    "luck": -0.43,
+    "lineup_efficiency": 0.872,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   }
+  ],
+  "best_lineup_efficiency": [
+   {
+    "season": "2025",
+    "manager": "Emily",
+    "user_id": "1128779037096144896",
+    "complete": true,
+    "record": "8-6",
+    "wins": 8,
+    "win_pct": 0.571,
+    "points_for": 1839.14,
+    "points_against": 1702.66,
+    "ppg": 131.37,
+    "all_play": "65-33",
+    "all_play_pct": 0.663,
+    "luck": -1.29,
+    "lineup_efficiency": 0.898,
+    "weekly_high_scores": 3,
+    "weekly_low_scores": 0
+   },
+   {
+    "season": "2025",
+    "manager": "Daniel",
+    "user_id": "1128738502994202624",
+    "complete": true,
+    "record": "11-3",
+    "wins": 11,
+    "win_pct": 0.786,
+    "points_for": 1940.58,
+    "points_against": 1723.7,
+    "ppg": 138.61,
+    "all_play": "76-22",
+    "all_play_pct": 0.776,
+    "luck": 0.14,
+    "lineup_efficiency": 0.888,
+    "weekly_high_scores": 5,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Matthew",
+    "user_id": "1128883781034704896",
+    "complete": true,
+    "record": "4-10",
+    "wins": 4,
+    "win_pct": 0.286,
+    "points_for": 1610.96,
+    "points_against": 1686.16,
+    "ppg": 115.07,
+    "all_play": "41-57",
+    "all_play_pct": 0.418,
+    "luck": -1.86,
+    "lineup_efficiency": 0.878,
+    "weekly_high_scores": 2,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Ellie",
+    "user_id": "1128748328549830656",
+    "complete": true,
+    "record": "6-8",
+    "wins": 6,
+    "win_pct": 0.429,
+    "points_for": 1650.9,
+    "points_against": 1685.98,
+    "ppg": 117.92,
+    "all_play": "45-53",
+    "all_play_pct": 0.459,
+    "luck": -0.43,
+    "lineup_efficiency": 0.872,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Elisha",
+    "user_id": "1128743474339127296",
+    "complete": true,
+    "record": "10-4",
+    "wins": 10,
+    "win_pct": 0.714,
+    "points_for": 1652.34,
+    "points_against": 1539.74,
+    "ppg": 118.02,
+    "all_play": "52-46",
+    "all_play_pct": 0.531,
+    "luck": 2.57,
+    "lineup_efficiency": 0.866,
+    "weekly_high_scores": 2,
+    "weekly_low_scores": 2
+   }
+  ],
+  "worst_lineup_efficiency": [
+   {
+    "season": "2025",
+    "manager": "TassioSS",
+    "user_id": "465984216409042944",
+    "complete": true,
+    "record": "3-11",
+    "wins": 3,
+    "win_pct": 0.214,
+    "points_for": 1427.56,
+    "points_against": 1675.5,
+    "ppg": 101.97,
+    "all_play": "27-71",
+    "all_play_pct": 0.276,
+    "luck": -0.86,
+    "lineup_efficiency": 0.83,
+    "weekly_high_scores": 0,
+    "weekly_low_scores": 4
+   },
+   {
+    "season": "2025",
+    "manager": "Elo",
+    "user_id": "1128745068917022720",
+    "complete": true,
+    "record": "7-7",
+    "wins": 7,
+    "win_pct": 0.5,
+    "points_for": 1704.62,
+    "points_against": 1711.52,
+    "ppg": 121.76,
+    "all_play": "54-44",
+    "all_play_pct": 0.551,
+    "luck": -0.71,
+    "lineup_efficiency": 0.837,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Uncle Ben",
+    "user_id": "1269327736048984064",
+    "complete": true,
+    "record": "7-7",
+    "wins": 7,
+    "win_pct": 0.5,
+    "points_for": 1439.64,
+    "points_against": 1540.48,
+    "ppg": 102.83,
+    "all_play": "32-66",
+    "all_play_pct": 0.327,
+    "luck": 2.43,
+    "lineup_efficiency": 0.84,
+    "weekly_high_scores": 0,
+    "weekly_low_scores": 4
+   },
+   {
+    "season": "2025",
+    "manager": "Elisha",
+    "user_id": "1128743474339127296",
+    "complete": true,
+    "record": "10-4",
+    "wins": 10,
+    "win_pct": 0.714,
+    "points_for": 1652.34,
+    "points_against": 1539.74,
+    "ppg": 118.02,
+    "all_play": "52-46",
+    "all_play_pct": 0.531,
+    "luck": 2.57,
+    "lineup_efficiency": 0.866,
+    "weekly_high_scores": 2,
+    "weekly_low_scores": 2
+   },
+   {
+    "season": "2025",
+    "manager": "Ellie",
+    "user_id": "1128748328549830656",
+    "complete": true,
+    "record": "6-8",
+    "wins": 6,
+    "win_pct": 0.429,
+    "points_for": 1650.9,
+    "points_against": 1685.98,
+    "ppg": 117.92,
+    "all_play": "45-53",
+    "all_play_pct": 0.459,
+    "luck": -0.43,
+    "lineup_efficiency": 0.872,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   }
+  ],
+  "most_weekly_high_scores": [
+   {
+    "season": "2025",
+    "manager": "Daniel",
+    "user_id": "1128738502994202624",
+    "complete": true,
+    "record": "11-3",
+    "wins": 11,
+    "win_pct": 0.786,
+    "points_for": 1940.58,
+    "points_against": 1723.7,
+    "ppg": 138.61,
+    "all_play": "76-22",
+    "all_play_pct": 0.776,
+    "luck": 0.14,
+    "lineup_efficiency": 0.888,
+    "weekly_high_scores": 5,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Emily",
+    "user_id": "1128779037096144896",
+    "complete": true,
+    "record": "8-6",
+    "wins": 8,
+    "win_pct": 0.571,
+    "points_for": 1839.14,
+    "points_against": 1702.66,
+    "ppg": 131.37,
+    "all_play": "65-33",
+    "all_play_pct": 0.663,
+    "luck": -1.29,
+    "lineup_efficiency": 0.898,
+    "weekly_high_scores": 3,
+    "weekly_low_scores": 0
+   },
+   {
+    "season": "2025",
+    "manager": "Elisha",
+    "user_id": "1128743474339127296",
+    "complete": true,
+    "record": "10-4",
+    "wins": 10,
+    "win_pct": 0.714,
+    "points_for": 1652.34,
+    "points_against": 1539.74,
+    "ppg": 118.02,
+    "all_play": "52-46",
+    "all_play_pct": 0.531,
+    "luck": 2.57,
+    "lineup_efficiency": 0.866,
+    "weekly_high_scores": 2,
+    "weekly_low_scores": 2
+   },
+   {
+    "season": "2025",
+    "manager": "Matthew",
+    "user_id": "1128883781034704896",
+    "complete": true,
+    "record": "4-10",
+    "wins": 4,
+    "win_pct": 0.286,
+    "points_for": 1610.96,
+    "points_against": 1686.16,
+    "ppg": 115.07,
+    "all_play": "41-57",
+    "all_play_pct": 0.418,
+    "luck": -1.86,
+    "lineup_efficiency": 0.878,
+    "weekly_high_scores": 2,
+    "weekly_low_scores": 1
+   },
+   {
+    "season": "2025",
+    "manager": "Ellie",
+    "user_id": "1128748328549830656",
+    "complete": true,
+    "record": "6-8",
+    "wins": 6,
+    "win_pct": 0.429,
+    "points_for": 1650.9,
+    "points_against": 1685.98,
+    "ppg": 117.92,
+    "all_play": "45-53",
+    "all_play_pct": 0.459,
+    "luck": -0.43,
+    "lineup_efficiency": 0.872,
+    "weekly_high_scores": 1,
+    "weekly_low_scores": 1
+   }
+  ]
+ },
+ "players": {
+  "highest_starter_score": [
+   {
+    "season": "2025",
+    "week": 12,
+    "manager": "Elisha",
+    "player": "Jahmyr Gibbs",
+    "position": "RB",
+    "points": 55.4,
+    "slot": "RB"
+   },
+   {
+    "season": "2025",
+    "week": 10,
+    "manager": "Elo",
+    "player": "Jonathan Taylor",
+    "position": "RB",
+    "points": 49.6,
+    "slot": "RB"
+   },
+   {
+    "season": "2025",
+    "week": 16,
+    "manager": "Daniel",
+    "player": "Puka Nacua",
+    "position": "WR",
+    "points": 46.5,
+    "slot": "WR"
+   },
+   {
+    "season": "2025",
+    "week": 15,
+    "manager": "TassioSS",
+    "player": "Kyle Pitts",
+    "position": "TE",
+    "points": 45.6,
+    "slot": "TE"
+   },
+   {
+    "season": "2026",
+    "week": 4,
+    "manager": "Emily",
+    "player": "Tetairoa McMillan",
+    "position": "WR",
+    "points": 45.2,
+    "slot": "WR"
+   }
+  ],
+  "highest_benched_score": [
+   {
+    "season": "2025",
+    "week": 9,
+    "manager": "Uncle Ben",
+    "player": "Brock Bowers",
+    "position": "TE",
+    "points": 43.3,
+    "slot": "BN"
+   },
+   {
+    "season": "2025",
+    "week": 2,
+    "manager": "Emily",
+    "player": "Jared Goff",
+    "position": "QB",
+    "points": 33.96,
+    "slot": "BN"
+   },
+   {
+    "season": "2025",
+    "week": 4,
+    "manager": "Elo",
+    "player": "Ashton Jeanty",
+    "position": "RB",
+    "points": 33.5,
+    "slot": "BN"
+   },
+   {
+    "season": "2025",
+    "week": 7,
+    "manager": "Ellie",
+    "player": "DeVonta Smith",
+    "position": "WR",
+    "points": 33.3,
+    "slot": "BN"
+   },
+   {
+    "season": "2025",
+    "week": 9,
+    "manager": "Ellie",
+    "player": "Tee Higgins",
+    "position": "WR",
+    "points": 33.1,
+    "slot": "BN"
+   }
+  ]
+ },
+ "streaks": {
+  "longest_win_streak": [
+   {
+    "manager": "Daniel",
+    "length": 9,
+    "from": "2025 W2",
+    "to": "2025 W10"
+   },
+   {
+    "manager": "Elisha",
+    "length": 6,
+    "from": "2025 W9",
+    "to": "2025 W14"
+   },
+   {
+    "manager": "Emily",
+    "length": 4,
+    "from": "2025 W14",
+    "to": "2025 W17"
+   },
+   {
+    "manager": "Uncle Ben",
+    "length": 3,
+    "from": "2025 W13",
+    "to": "2025 W15"
+   },
+   {
+    "manager": "Matthew",
+    "length": 3,
+    "from": "2026 W3",
+    "to": "2026 W5"
+   }
+  ],
+  "longest_loss_streak": [
+   {
+    "manager": "TassioSS",
+    "length": 9,
+    "from": "2025 W5",
+    "to": "2025 W13"
+   },
+   {
+    "manager": "Matthew",
+    "length": 6,
+    "from": "2025 W10",
+    "to": "2025 W15"
+   },
+   {
+    "manager": "Ellie",
+    "length": 5,
+    "from": "2025 W13",
+    "to": "2026 W1"
+   },
+   {
+    "manager": "Ellen",
+    "length": 4,
+    "from": "2026 W2",
+    "to": "2026 W5"
+   },
+   {
+    "manager": "Mitchel",
+    "length": 4,
+    "from": "2026 W2",
+    "to": "2026 W5"
+   }
+  ],
+  "current": {
+   "Daniel": "L1",
+   "Uncle Ben": "W2",
+   "Elisha": "W1",
+   "Matthew": "W3",
+   "Emily": "W2",
+   "Ellie": "L1",
+   "Elo": "W1",
+   "TassioSS": "W2",
+   "Tim": "W1",
+   "Elena": "W1",
+   "Ellen": "L4",
+   "Lytton": "L2",
+   "Mitchel": "L4",
+   "Devin": "L1"
+  }
+ },
+ "transactions": {
+  "biggest_faab_bids": [
+   {
+    "season": "2026",
+    "week": 4,
+    "manager": "Elisha",
+    "player": "Drake Maye",
+    "bid": 121
+   },
+   {
+    "season": "2026",
+    "week": 3,
+    "manager": "Lytton",
+    "player": "Ollie Gordon",
+    "bid": 87
+   },
+   {
+    "season": "2026",
+    "week": 3,
+    "manager": "Uncle Ben",
+    "player": "Mike Washington",
+    "bid": 50
+   },
+   {
+    "season": "2026",
+    "week": 4,
+    "manager": "Emily",
+    "player": "Jaylen Wright",
+    "bid": 50
+   },
+   {
+    "season": "2026",
+    "week": 3,
+    "manager": "Tim",
+    "player": "Kalif Raymond",
+    "bid": 42
+   }
+  ],
+  "most_faab_spent_season": [
+   {
+    "season": "2026",
+    "manager": "Elisha",
+    "spent": 170
+   },
+   {
+    "season": "2026",
+    "manager": "Daniel",
+    "spent": 102
+   },
+   {
+    "season": "2026",
+    "manager": "Lytton",
+    "spent": 87
+   },
+   {
+    "season": "2026",
+    "manager": "Devin",
+    "spent": 75
+   },
+   {
+    "season": "2026",
+    "manager": "Uncle Ben",
+    "spent": 75
+   }
+  ],
+  "most_pickups_season": [
+   {
+    "season": "2025",
+    "manager": "Uncle Ben",
+    "pickups": 55
+   },
+   {
+    "season": "2025",
+    "manager": "Elisha",
+    "pickups": 30
+   },
+   {
+    "season": "2025",
+    "manager": "Daniel",
+    "pickups": 21
+   },
+   {
+    "season": "2025",
+    "manager": "Ellie",
+    "pickups": 16
+   },
+   {
+    "season": "2026",
+    "manager": "Tim",
+    "pickups": 14
+   }
+  ]
+ },
+ "head_to_head": {
+  "Daniel": {
+   "TassioSS": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 239.12,
+    "pa": 265.16
+   },
+   "Elo": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "pf": 288.46,
+    "pa": 212.38
+   },
+   "Matthew": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "pf": 284.02,
+    "pa": 225.46
+   },
+   "Emily": {
+    "w": 1,
+    "l": 2,
+    "t": 0,
+    "pf": 424.2,
+    "pa": 401.5
+   },
+   "Uncle Ben": {
+    "w": 3,
+    "l": 0,
+    "t": 0,
+    "pf": 382.18,
+    "pa": 296.26
+   },
+   "Ellie": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "pf": 316.72,
+    "pa": 286.36
+   },
+   "Elisha": {
+    "w": 1,
+    "l": 2,
+    "t": 0,
+    "pf": 413.5,
+    "pa": 450.18
+   },
+   "Devin": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 217.86,
+    "pa": 131.6
+   },
+   "Ellen": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 171.88,
+    "pa": 114.36
+   },
+   "Mitchel": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 145.84,
+    "pa": 144.14
+   },
+   "Lytton": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 177.82,
+    "pa": 152.92
+   }
+  },
+  "Uncle Ben": {
+   "Emily": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 214.7,
+    "pa": 246.0
+   },
+   "Elisha": {
+    "w": 3,
+    "l": 1,
+    "t": 0,
+    "pf": 481.7,
+    "pa": 399.7
+   },
+   "Ellie": {
+    "w": 1,
+    "l": 2,
+    "t": 0,
+    "pf": 298.46,
+    "pa": 361.06
+   },
+   "TassioSS": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 213.02,
+    "pa": 207.96
+   },
+   "Daniel": {
+    "w": 0,
+    "l": 3,
+    "t": 0,
+    "pf": 296.26,
+    "pa": 382.18
+   },
+   "Matthew": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "pf": 217.06,
+    "pa": 189.1
+   },
+   "Elo": {
+    "w": 3,
+    "l": 0,
+    "t": 0,
+    "pf": 332.2,
+    "pa": 265.66
+   },
+   "Ellen": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 150.48,
+    "pa": 200.68
+   },
+   "Mitchel": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 128.14,
+    "pa": 99.8
+   },
+   "Lytton": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 100.74,
+    "pa": 126.6
+   }
+  },
+  "Elisha": {
+   "Ellie": {
+    "w": 1,
+    "l": 2,
+    "t": 0,
+    "pf": 337.34,
+    "pa": 375.86
+   },
+   "Uncle Ben": {
+    "w": 1,
+    "l": 3,
+    "t": 0,
+    "pf": 399.7,
+    "pa": 481.7
+   },
+   "Emily": {
+    "w": 2,
+    "l": 1,
+    "t": 0,
+    "pf": 396.96,
+    "pa": 432.94
+   },
+   "Matthew": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "pf": 229.84,
+    "pa": 192.5
+   },
+   "Elo": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 239.24,
+    "pa": 256.0
+   },
+   "TassioSS": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "pf": 198.82,
+    "pa": 156.22
+   },
+   "Daniel": {
+    "w": 2,
+    "l": 1,
+    "t": 0,
+    "pf": 450.18,
+    "pa": 413.5
+   },
+   "Lytton": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 96.38,
+    "pa": 111.12
+   },
+   "Tim": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 166.2,
+    "pa": 134.0
+   }
+  },
+  "Matthew": {
+   "Elo": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 249.78,
+    "pa": 255.68
+   },
+   "TassioSS": {
+    "w": 2,
+    "l": 1,
+    "t": 0,
+    "pf": 380.96,
+    "pa": 359.9
+   },
+   "Daniel": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "pf": 225.46,
+    "pa": 284.02
+   },
+   "Elisha": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "pf": 192.5,
+    "pa": 229.84
+   },
+   "Ellie": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 274.56,
+    "pa": 226.56
+   },
+   "Uncle Ben": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "pf": 189.1,
+    "pa": 217.06
+   },
+   "Emily": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "pf": 233.0,
+    "pa": 271.4
+   },
+   "Elena": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 166.42,
+    "pa": 115.0
+   },
+   "Devin": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 136.56,
+    "pa": 139.76
+   },
+   "Ellen": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 159.8,
+    "pa": 135.52
+   },
+   "Mitchel": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 140.48,
+    "pa": 134.58
+   },
+   "Lytton": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 197.06,
+    "pa": 186.68
+   }
+  },
+  "Emily": {
+   "Uncle Ben": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 246.0,
+    "pa": 214.7
+   },
+   "Ellie": {
+    "w": 3,
+    "l": 0,
+    "t": 0,
+    "pf": 423.52,
+    "pa": 349.74
+   },
+   "Elisha": {
+    "w": 1,
+    "l": 2,
+    "t": 0,
+    "pf": 432.94,
+    "pa": 396.96
+   },
+   "Daniel": {
+    "w": 2,
+    "l": 1,
+    "t": 0,
+    "pf": 401.5,
+    "pa": 424.2
+   },
+   "TassioSS": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "pf": 304.88,
+    "pa": 214.48
+   },
+   "Elo": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "pf": 267.76,
+    "pa": 270.42
+   },
+   "Matthew": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "pf": 271.4,
+    "pa": 233.0
+   },
+   "Tim": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 136.68,
+    "pa": 152.24
+   },
+   "Elena": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 95.28,
+    "pa": 140.84
+   },
+   "Devin": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 112.98,
+    "pa": 116.1
+   },
+   "Ellen": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 132.94,
+    "pa": 116.16
+   },
+   "Mitchel": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 100.4,
+    "pa": 76.3
+   }
+  },
+  "Ellie": {
+   "Elisha": {
+    "w": 2,
+    "l": 1,
+    "t": 0,
+    "pf": 375.86,
+    "pa": 337.34
+   },
+   "Emily": {
+    "w": 0,
+    "l": 3,
+    "t": 0,
+    "pf": 349.74,
+    "pa": 423.52
+   },
+   "Uncle Ben": {
+    "w": 2,
+    "l": 1,
+    "t": 0,
+    "pf": 361.06,
+    "pa": 298.46
+   },
+   "Elo": {
+    "w": 1,
+    "l": 2,
+    "t": 0,
+    "pf": 361.1,
+    "pa": 420.42
+   },
+   "Matthew": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 226.56,
+    "pa": 274.56
+   },
+   "Daniel": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "pf": 286.36,
+    "pa": 316.72
+   },
+   "TassioSS": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 213.24,
+    "pa": 202.76
+   },
+   "Mitchel": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 90.9,
+    "pa": 136.34
+   },
+   "Lytton": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 155.36,
+    "pa": 122.7
+   },
+   "Tim": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 152.68,
+    "pa": 89.96
+   }
+  },
+  "Elo": {
+   "Matthew": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 255.68,
+    "pa": 249.78
+   },
+   "Daniel": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "pf": 212.38,
+    "pa": 288.46
+   },
+   "TassioSS": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "pf": 259.86,
+    "pa": 179.38
+   },
+   "Ellie": {
+    "w": 2,
+    "l": 1,
+    "t": 0,
+    "pf": 420.42,
+    "pa": 361.1
+   },
+   "Elisha": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 256.0,
+    "pa": 239.24
+   },
+   "Emily": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "pf": 270.42,
+    "pa": 267.76
+   },
+   "Uncle Ben": {
+    "w": 0,
+    "l": 3,
+    "t": 0,
+    "pf": 265.66,
+    "pa": 332.2
+   }
+  },
+  "TassioSS": {
+   "Daniel": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 265.16,
+    "pa": 239.12
+   },
+   "Matthew": {
+    "w": 1,
+    "l": 2,
+    "t": 0,
+    "pf": 359.9,
+    "pa": 380.96
+   },
+   "Elo": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "pf": 179.38,
+    "pa": 259.86
+   },
+   "Uncle Ben": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 207.96,
+    "pa": 213.02
+   },
+   "Emily": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "pf": 214.48,
+    "pa": 304.88
+   },
+   "Elisha": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "pf": 156.22,
+    "pa": 198.82
+   },
+   "Ellie": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "pf": 202.76,
+    "pa": 213.24
+   }
+  },
+  "Tim": {
+   "Emily": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 152.24,
+    "pa": 136.68
+   },
+   "Elisha": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 134.0,
+    "pa": 166.2
+   },
+   "Elena": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 143.7,
+    "pa": 182.34
+   },
+   "Ellie": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 89.96,
+    "pa": 152.68
+   },
+   "Devin": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 118.54,
+    "pa": 118.44
+   }
+  },
+  "Elena": {
+   "Matthew": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 115.0,
+    "pa": 166.42
+   },
+   "Emily": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 140.84,
+    "pa": 95.28
+   },
+   "Tim": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 182.34,
+    "pa": 143.7
+   },
+   "Devin": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 114.68,
+    "pa": 151.2
+   },
+   "Ellen": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 177.96,
+    "pa": 168.22
+   }
+  },
+  "Ellen": {
+   "Uncle Ben": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 200.68,
+    "pa": 150.48
+   },
+   "Daniel": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 114.36,
+    "pa": 171.88
+   },
+   "Matthew": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 135.52,
+    "pa": 159.8
+   },
+   "Emily": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 116.16,
+    "pa": 132.94
+   },
+   "Elena": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 168.22,
+    "pa": 177.96
+   }
+  },
+  "Lytton": {
+   "Elisha": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 111.12,
+    "pa": 96.38
+   },
+   "Ellie": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 122.7,
+    "pa": 155.36
+   },
+   "Uncle Ben": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 126.6,
+    "pa": 100.74
+   },
+   "Daniel": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 152.92,
+    "pa": 177.82
+   },
+   "Matthew": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 186.68,
+    "pa": 197.06
+   }
+  },
+  "Mitchel": {
+   "Ellie": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 136.34,
+    "pa": 90.9
+   },
+   "Uncle Ben": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 99.8,
+    "pa": 128.14
+   },
+   "Daniel": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 144.14,
+    "pa": 145.84
+   },
+   "Matthew": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 134.58,
+    "pa": 140.48
+   },
+   "Emily": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 76.3,
+    "pa": 100.4
+   }
+  },
+  "Devin": {
+   "Daniel": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 131.6,
+    "pa": 217.86
+   },
+   "Matthew": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 139.76,
+    "pa": 136.56
+   },
+   "Emily": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 116.1,
+    "pa": 112.98
+   },
+   "Elena": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 151.2,
+    "pa": 114.68
+   },
+   "Tim": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 118.44,
+    "pa": 118.54
+   }
+  }
+ }
+}
