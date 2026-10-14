@@ -9,10 +9,8 @@
    "champion": "Emily",
    "runner_up": "Daniel",
    "third": "Uncle Ben",
-   "toilet_bowl_final": {
-    "winner": "Matthew",
-    "loser": "TassioSS"
-   },
+   "turkey": "Matthew",
+   "toilet_bowl_opponent": "TassioSS",
    "most_points_for": "Daniel",
    "best_record": "Daniel"
   },
@@ -21,7 +19,8 @@
    "champion": null,
    "runner_up": null,
    "third": null,
-   "toilet_bowl_final": null,
+   "turkey": null,
+   "toilet_bowl_opponent": null,
    "most_points_for": "Daniel",
    "best_record": "Daniel"
   }
@@ -41,6 +40,7 @@
    "championships": 1,
    "runner_ups": 0,
    "thirds": 0,
+   "turkeys": 0,
    "weekly_high_scores": 3,
    "trades": 2
   },
@@ -54,10 +54,11 @@
    "ppg": 147.22,
    "all_play_pct": 0.804,
    "playoff_record": "1-1",
-   "playoff_appearances": 2,
+   "playoff_appearances": 1,
    "championships": 0,
    "runner_ups": 1,
    "thirds": 0,
+   "turkeys": 0,
    "weekly_high_scores": 8,
    "trades": 4
   },
@@ -75,25 +76,9 @@
    "championships": 0,
    "runner_ups": 0,
    "thirds": 0,
+   "turkeys": 0,
    "weekly_high_scores": 2,
    "trades": 5
-  },
-  {
-   "manager": "Devin",
-   "seasons": 1,
-   "record": "3-2",
-   "win_pct": 0.6,
-   "points_for": 657.1,
-   "points_against": 700.62,
-   "ppg": 131.42,
-   "all_play_pct": 0.418,
-   "playoff_record": "0-0",
-   "playoff_appearances": 1,
-   "championships": 0,
-   "runner_ups": 0,
-   "thirds": 0,
-   "weekly_high_scores": 0,
-   "trades": 2
   },
   {
    "manager": "Elena",
@@ -105,11 +90,30 @@
    "ppg": 146.16,
    "all_play_pct": 0.6,
    "playoff_record": "0-0",
-   "playoff_appearances": 1,
+   "playoff_appearances": 0,
    "championships": 0,
    "runner_ups": 0,
    "thirds": 0,
+   "turkeys": 0,
    "weekly_high_scores": 1,
+   "trades": 2
+  },
+  {
+   "manager": "Devin",
+   "seasons": 1,
+   "record": "3-2",
+   "win_pct": 0.6,
+   "points_for": 657.1,
+   "points_against": 700.62,
+   "ppg": 131.42,
+   "all_play_pct": 0.418,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "turkeys": 0,
+   "weekly_high_scores": 0,
    "trades": 2
   },
   {
@@ -122,10 +126,11 @@
    "ppg": 111.59,
    "all_play_pct": 0.379,
    "playoff_record": "2-1",
-   "playoff_appearances": 2,
+   "playoff_appearances": 1,
    "championships": 0,
    "runner_ups": 0,
    "thirds": 1,
+   "turkeys": 0,
    "weekly_high_scores": 0,
    "trades": 2
   },
@@ -143,6 +148,7 @@
    "championships": 0,
    "runner_ups": 0,
    "thirds": 0,
+   "turkeys": 0,
    "weekly_high_scores": 1,
    "trades": 0
   },
@@ -156,10 +162,11 @@
    "ppg": 121.77,
    "all_play_pct": 0.477,
    "playoff_record": "0-2",
-   "playoff_appearances": 2,
+   "playoff_appearances": 1,
    "championships": 0,
    "runner_ups": 0,
    "thirds": 0,
+   "turkeys": 0,
    "weekly_high_scores": 1,
    "trades": 3
   },
@@ -173,10 +180,11 @@
    "ppg": 126.91,
    "all_play_pct": 0.542,
    "playoff_record": "0-0",
-   "playoff_appearances": 1,
+   "playoff_appearances": 0,
    "championships": 0,
    "runner_ups": 0,
    "thirds": 0,
+   "turkeys": 1,
    "weekly_high_scores": 3,
    "trades": 5
   },
@@ -194,6 +202,7 @@
    "championships": 0,
    "runner_ups": 0,
    "thirds": 0,
+   "turkeys": 0,
    "weekly_high_scores": 0,
    "trades": 4
   },
@@ -211,6 +220,7 @@
    "championships": 0,
    "runner_ups": 0,
    "thirds": 0,
+   "turkeys": 0,
    "weekly_high_scores": 0,
    "trades": 1
   },
@@ -228,6 +238,7 @@
    "championships": 0,
    "runner_ups": 0,
    "thirds": 0,
+   "turkeys": 0,
    "weekly_high_scores": 0,
    "trades": 0
   },
@@ -245,6 +256,7 @@
    "championships": 0,
    "runner_ups": 0,
    "thirds": 0,
+   "turkeys": 0,
    "weekly_high_scores": 0,
    "trades": 0
   },
@@ -262,6 +274,7 @@
    "championships": 0,
    "runner_ups": 0,
    "thirds": 0,
+   "turkeys": 0,
    "weekly_high_scores": 0,
    "trades": 2
   }
