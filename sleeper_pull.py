@@ -11,6 +11,7 @@ Outputs:
   managers.json           Sleeper user ID -> manager name (set real names once)
 """
 import json
+import math
 import sqlite3
 import sys
 import time
@@ -214,6 +215,13 @@ def build_season(con, d, state, managers, new_managers):
     round_type = int(s.get("playoff_round_type") or 0)
     final_wk = final_through(league, state)
 
+    # Last week of the fantasy season (end of the playoffs). Sleeper still scores
+    # lineups in later weeks even though no games are played, so those are skipped.
+    playoff_teams = int(s.get("playoff_teams") or 0)
+    rounds = math.ceil(math.log2(playoff_teams)) if playoff_teams > 1 else 0
+    season_end = round_weeks(rounds, pws, round_type, rounds)[-1] if rounds else pws - 1
+    season_end = min(season_end, MAX_WEEKS)
+
     # Teams are keyed by Sleeper user ID, so a manager's history follows them
     # even if they land in a different roster slot from one season to the next.
     owner = {}
@@ -258,7 +266,7 @@ def build_season(con, d, state, managers, new_managers):
 
     starter_slots = [p for p in league.get("roster_positions") or [] if p not in NON_STARTER_SLOTS]
     weeks_loaded = 0
-    for wk in range(1, MAX_WEEKS + 1):
+    for wk in range(1, season_end + 1):
         entries = load(d / "matchups" / f"{wk:02d}.json", []) or []
         if not entries or all(not e.get("points") for e in entries):
             continue  # unplayed week
