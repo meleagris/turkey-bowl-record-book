@@ -271,32 +271,6 @@
    "avg_finish": 8.0
   },
   {
-   "manager": "Lytton",
-   "seasons": 1,
-   "record": "2-3",
-   "win_pct": 0.4,
-   "points_for": 700.02,
-   "points_against": 727.36,
-   "ppg": 140.0,
-   "all_play_pct": 0.491,
-   "playoff_record": "0-0",
-   "playoff_appearances": 0,
-   "championships": 0,
-   "runner_ups": 0,
-   "thirds": 0,
-   "turkeys": 0,
-   "weekly_high_scores": 0,
-   "trades": 4,
-   "playoff_games": 0,
-   "playoff_wins": 0,
-   "playoff_win_pct": null,
-   "playoff_points": 0.0,
-   "playoff_ppg": null,
-   "career_high": 186.68,
-   "career_low": 111.12,
-   "avg_finish": null
-  },
-  {
    "manager": "Tim",
    "seasons": 1,
    "record": "2-3",
@@ -320,6 +294,32 @@
    "playoff_ppg": null,
    "career_high": 152.24,
    "career_low": 89.96,
+   "avg_finish": null
+  },
+  {
+   "manager": "Lytton",
+   "seasons": 1,
+   "record": "2-3",
+   "win_pct": 0.4,
+   "points_for": 700.02,
+   "points_against": 727.36,
+   "ppg": 140.0,
+   "all_play_pct": 0.491,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "turkeys": 0,
+   "weekly_high_scores": 0,
+   "trades": 4,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 186.68,
+   "career_low": 111.12,
    "avg_finish": null
   },
   {
@@ -8654,65 +8654,65 @@
   }
  ],
  "playoff_odds": {
-  "Ellie": {
-   "make": 0.548,
-   "bye": 0.061,
-   "first": 0.013
+  "Daniel": {
+   "make": 0.993,
+   "bye": 0.852,
+   "first": 0.617
   },
   "Ellen": {
-   "make": 0.341,
-   "bye": 0.02,
-   "first": 0.003
-  },
-  "Daniel": {
-   "make": 0.994,
-   "bye": 0.837,
-   "first": 0.585
-  },
-  "Lytton": {
-   "make": 0.552,
-   "bye": 0.044,
-   "first": 0.006
-  },
-  "Devin": {
-   "make": 0.517,
-   "bye": 0.054,
-   "first": 0.016
-  },
-  "Tim": {
-   "make": 0.209,
-   "bye": 0.008,
-   "first": 0.001
-  },
-  "Matthew": {
-   "make": 0.982,
-   "bye": 0.702,
-   "first": 0.312
-  },
-  "Uncle Ben": {
-   "make": 0.621,
-   "bye": 0.079,
-   "first": 0.014
-  },
-  "Elisha": {
-   "make": 0.345,
-   "bye": 0.02,
+   "make": 0.35,
+   "bye": 0.019,
    "first": 0.004
   },
+  "Ellie": {
+   "make": 0.537,
+   "bye": 0.056,
+   "first": 0.01
+  },
+  "Lytton": {
+   "make": 0.559,
+   "bye": 0.04,
+   "first": 0.006
+  },
+  "Matthew": {
+   "make": 0.985,
+   "bye": 0.723,
+   "first": 0.296
+  },
+  "Elena": {
+   "make": 0.776,
+   "bye": 0.165,
+   "first": 0.038
+  },
+  "Emily": {
+   "make": 0.068,
+   "bye": 0.002,
+   "first": 0.0
+  },
   "Mitchel": {
-   "make": 0.04,
+   "make": 0.044,
    "bye": 0.0,
    "first": 0.0
   },
-  "Emily": {
-   "make": 0.059,
-   "bye": 0.001,
-   "first": 0.0
+  "Tim": {
+   "make": 0.203,
+   "bye": 0.007,
+   "first": 0.001
   },
-  "Elena": {
-   "make": 0.792,
-   "bye": 0.173,
-   "first": 0.044
+  "Elisha": {
+   "make": 0.36,
+   "bye": 0.023,
+   "first": 0.003
+  },
+  "Uncle Ben": {
+   "make": 0.623,
+   "bye": 0.068,
+   "first": 0.016
+  },
+  "Devin": {
+   "make": 0.503,
+   "bye": 0.043,
+   "first": 0.01
   }
  },
  "last_week": {
