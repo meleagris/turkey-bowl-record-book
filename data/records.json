@@ -271,32 +271,6 @@
    "avg_finish": 8.0
   },
   {
-   "manager": "Tim",
-   "seasons": 1,
-   "record": "2-3",
-   "win_pct": 0.4,
-   "points_for": 638.44,
-   "points_against": 756.34,
-   "ppg": 127.69,
-   "all_play_pct": 0.418,
-   "playoff_record": "0-0",
-   "playoff_appearances": 0,
-   "championships": 0,
-   "runner_ups": 0,
-   "thirds": 0,
-   "turkeys": 0,
-   "weekly_high_scores": 0,
-   "trades": 1,
-   "playoff_games": 0,
-   "playoff_wins": 0,
-   "playoff_win_pct": null,
-   "playoff_points": 0.0,
-   "playoff_ppg": null,
-   "career_high": 152.24,
-   "career_low": 89.96,
-   "avg_finish": null
-  },
-  {
    "manager": "Lytton",
    "seasons": 1,
    "record": "2-3",
@@ -320,6 +294,32 @@
    "playoff_ppg": null,
    "career_high": 186.68,
    "career_low": 111.12,
+   "avg_finish": null
+  },
+  {
+   "manager": "Tim",
+   "seasons": 1,
+   "record": "2-3",
+   "win_pct": 0.4,
+   "points_for": 638.44,
+   "points_against": 756.34,
+   "ppg": 127.69,
+   "all_play_pct": 0.418,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "turkeys": 0,
+   "weekly_high_scores": 0,
+   "trades": 1,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 152.24,
+   "career_low": 89.96,
    "avg_finish": null
   },
   {
@@ -4113,6 +4113,7 @@
      "points": 197.06
     }
    ],
+   "weekly_prize": 5,
    "prize_tally": [
     {
      "manager": "Daniel",
@@ -6682,38 +6683,8 @@
      "points": 154.94
     }
    ],
-   "prize_tally": [
-    {
-     "manager": "Daniel",
-     "weeks": 5.0,
-     "dollars": 25.0
-    },
-    {
-     "manager": "Emily",
-     "weeks": 3.0,
-     "dollars": 15.0
-    },
-    {
-     "manager": "Matthew",
-     "weeks": 2.0,
-     "dollars": 10.0
-    },
-    {
-     "manager": "Elisha",
-     "weeks": 2.0,
-     "dollars": 10.0
-    },
-    {
-     "manager": "Ellie",
-     "weeks": 1.0,
-     "dollars": 5.0
-    },
-    {
-     "manager": "Elo",
-     "weeks": 1.0,
-     "dollars": 5.0
-    }
-   ],
+   "weekly_prize": 0,
+   "prize_tally": [],
    "matchups": [
     {
      "week": 1,
@@ -8683,65 +8654,65 @@
   }
  ],
  "playoff_odds": {
-  "Uncle Ben": {
-   "make": 0.633,
-   "bye": 0.084,
-   "first": 0.022
-  },
-  "Devin": {
-   "make": 0.509,
-   "bye": 0.046,
-   "first": 0.008
-  },
-  "Emily": {
-   "make": 0.068,
-   "bye": 0.003,
-   "first": 0.0
-  },
-  "Tim": {
-   "make": 0.214,
-   "bye": 0.006,
-   "first": 0.001
-  },
-  "Lytton": {
-   "make": 0.537,
-   "bye": 0.047,
-   "first": 0.006
-  },
   "Ellie": {
-   "make": 0.528,
-   "bye": 0.057,
-   "first": 0.012
-  },
-  "Elisha": {
-   "make": 0.351,
-   "bye": 0.018,
-   "first": 0.003
+   "make": 0.548,
+   "bye": 0.061,
+   "first": 0.013
   },
   "Ellen": {
-   "make": 0.342,
-   "bye": 0.017,
-   "first": 0.002
+   "make": 0.341,
+   "bye": 0.02,
+   "first": 0.003
   },
   "Daniel": {
-   "make": 0.992,
-   "bye": 0.842,
-   "first": 0.596
+   "make": 0.994,
+   "bye": 0.837,
+   "first": 0.585
   },
-  "Mitchel": {
-   "make": 0.047,
-   "bye": 0.001,
+  "Lytton": {
+   "make": 0.552,
+   "bye": 0.044,
+   "first": 0.006
+  },
+  "Devin": {
+   "make": 0.517,
+   "bye": 0.054,
+   "first": 0.016
+  },
+  "Tim": {
+   "make": 0.209,
+   "bye": 0.008,
    "first": 0.001
   },
-  "Elena": {
-   "make": 0.802,
-   "bye": 0.178,
-   "first": 0.044
-  },
   "Matthew": {
-   "make": 0.978,
-   "bye": 0.703,
-   "first": 0.306
+   "make": 0.982,
+   "bye": 0.702,
+   "first": 0.312
+  },
+  "Uncle Ben": {
+   "make": 0.621,
+   "bye": 0.079,
+   "first": 0.014
+  },
+  "Elisha": {
+   "make": 0.345,
+   "bye": 0.02,
+   "first": 0.004
+  },
+  "Mitchel": {
+   "make": 0.04,
+   "bye": 0.0,
+   "first": 0.0
+  },
+  "Emily": {
+   "make": 0.059,
+   "bye": 0.001,
+   "first": 0.0
+  },
+  "Elena": {
+   "make": 0.792,
+   "bye": 0.173,
+   "first": 0.044
   }
  },
  "last_week": {
@@ -11065,7 +11036,6 @@
   }
  ],
  "config": {
-  "weekly_prize": 5,
   "power_weights": {
    "ppg": 2,
    "last3": 4,
