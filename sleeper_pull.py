@@ -136,7 +136,9 @@ def fetch_season(league):
 def fetch_players():
     path = RAW / "players.json"
     cached = load(path, {})
-    if time.time() - cached.get("fetched", 0) < PLAYERS_MAX_AGE:
+    fresh = time.time() - cached.get("fetched", 0) < PLAYERS_MAX_AGE
+    has_injuries = all(len(v) >= 4 for v in list(cached.get("players", {}).values())[:50])
+    if fresh and has_injuries:
         return
     print("players: fetching")
     slim = {}
@@ -145,7 +147,7 @@ def fetch_players():
         if pos not in FANTASY_POSITIONS:
             continue
         name = p.get("full_name") or f"{p.get('first_name', '')} {p.get('last_name', '')}".strip()
-        slim[pid] = [name, pos, p.get("team")]
+        slim[pid] = [name, pos, p.get("team"), p.get("injury_status")]
     save(path, {"fetched": int(time.time()), "players": slim})
 
 
@@ -181,7 +183,7 @@ CREATE TABLE transaction_faab (transaction_id TEXT, season TEXT, week INTEGER,
   from_user_id TEXT, to_user_id TEXT, amount INTEGER);
 CREATE TABLE draft_picks (season TEXT, draft_id TEXT, round INTEGER, pick_no INTEGER,
   draft_slot INTEGER, roster_id INTEGER, user_id TEXT, player_id TEXT, is_keeper INTEGER);
-CREATE TABLE players (player_id TEXT PRIMARY KEY, name TEXT, position TEXT, team TEXT);
+CREATE TABLE players (player_id TEXT PRIMARY KEY, name TEXT, position TEXT, team TEXT, injury_status TEXT);
 """
 
 
@@ -372,8 +374,8 @@ def build_db():
     con.executemany("INSERT INTO managers VALUES (?,?)",
                     [(uid, m["name"]) for uid, m in managers.items()])
     players = load(RAW / "players.json", {}).get("players", {})
-    con.executemany("INSERT INTO players VALUES (?,?,?,?)",
-                    [(pid, *vals) for pid, vals in players.items()])
+    con.executemany("INSERT INTO players VALUES (?,?,?,?,?)",
+                    [(pid, *(list(vals) + [None] * 4)[:4]) for pid, vals in players.items()])
     con.commit()
     con.close()
 
