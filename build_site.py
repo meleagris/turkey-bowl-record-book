@@ -53,7 +53,7 @@ TEMPLATE = r"""<!doctype html>
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--text); font: 400 15px/1.45 var(--body); font-variant-numeric: tabular-nums;
   padding-bottom: env(safe-area-inset-bottom, 0px); }
-.wrap { max-width: 1100px; margin: 0 auto; padding-inline: 16px; }
+.wrap { padding-inline: clamp(12px, 2vw, 32px); }
 button { font: inherit; color: inherit; }
 button:focus-visible, select:focus-visible, th:focus-visible { outline: 2px solid var(--mint); outline-offset: 2px; }
 
@@ -63,19 +63,6 @@ header { padding-top: calc(env(safe-area-inset-top, 0px) + 22px); }
 .brand .logo { width: 44px; height: 44px; border-radius: 12px; background: var(--panel-2); display: grid; place-items: center; font-size: 26px; }
 .brand h1 { margin: 0; font: 800 26px/1.1 var(--head); letter-spacing: -0.01em; }
 .brand p { margin: 2px 0 0; color: var(--muted); font-size: 13px; }
-
-/* hero: reigning champion and the turkey */
-.hero { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 18px; }
-.hcard { background: var(--panel); border: 1px solid var(--line); border-radius: 16px; padding: 16px; display: flex; align-items: center; gap: 14px; }
-.hcard .lbl { font: 600 12px/1 var(--head); text-transform: uppercase; letter-spacing: 0.08em; }
-.hcard .nm { font: 800 clamp(22px, 4.5vw, 34px)/1.05 var(--head); margin-top: 6px; }
-.hcard .sub { color: var(--muted); font-size: 13px; margin-top: 2px; }
-.hcard.champ .lbl { color: var(--gold); }
-.hcard.bird .lbl { color: var(--pink); }
-@media (max-width: 560px) {
-  .hcard { flex-direction: column; align-items: flex-start; gap: 10px; padding: 14px; }
-  .hcard .av { --s: 48px !important; }
-}
 
 /* avatars */
 .av { --s: 30px; width: var(--s); height: var(--s); flex: none; border-radius: 50%; background: var(--panel-2); color: var(--muted);
@@ -88,44 +75,39 @@ nav { position: sticky; top: 0; z-index: 10; background: var(--bg); margin-top: 
 .tabs { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; }
 .tabs::-webkit-scrollbar { display: none; }
 .tabs button { flex: none; background: none; border: 0; cursor: pointer; padding: 14px 12px 12px; color: var(--muted);
-  font: 700 14px/1 var(--head); text-transform: uppercase; letter-spacing: 0.08em; border-bottom: 3px solid transparent; }
-.tabs button[aria-selected="true"] { color: var(--mint); border-bottom-color: var(--text); }
+  font: 600 15px/1 var(--head); border-bottom: 3px solid transparent; }
+.tabs button[aria-selected="true"] { color: var(--text); border-bottom-color: var(--mint); }
 
 main { padding-block: 22px 60px; }
 section[hidden] { display: none; }
 section { scroll-margin-top: 60px; }
 
-/* cards with Sleeper's pill titles */
-.card { position: relative; background: var(--panel); border: 1px solid var(--line); border-radius: 16px; padding: 22px 16px 16px; margin-top: 30px; }
-.card:first-child { margin-top: 14px; }
-.pill { position: absolute; top: 0; left: 50%; transform: translate(-50%, -50%); background: var(--bg); border: 1px solid var(--line); border-radius: 999px;
-  padding: 6px 16px; font: 700 13px/1 var(--head); text-transform: uppercase; letter-spacing: 0.08em; white-space: nowrap; color: var(--text); }
+/* cards */
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 16px; margin-top: 16px; min-width: 0; }
+.card:first-child { margin-top: 0; }
+.card h2 { margin: 0 0 6px; font: 700 18px/1.25 var(--head); }
 .note { color: var(--muted); font-size: 13px; margin: 4px 0 12px; max-width: 70ch; }
-.cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap: 0 16px; }
-.cols > .card { margin-top: 30px; }
+.cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(380px, 1fr)); gap: 0 16px; }
+.cols > .card { margin-top: 16px; }
+.cols > .stack > .card { margin-top: 16px; }
+@media (max-width: 420px) { .cols { grid-template-columns: 1fr; } }
 
 /* tables */
 .scroll { overflow-x: auto; margin: 0 -16px; padding: 0 16px; }
 table { border-collapse: collapse; width: 100%; font-size: 14px; }
 th, td { padding: 9px 10px; text-align: right; white-space: nowrap; border-bottom: 1px solid var(--line); }
-th { color: var(--muted); font: 600 11px/1.2 var(--head); text-transform: uppercase; letter-spacing: 0.06em; cursor: pointer; user-select: none; }
+th { color: var(--muted); font: 600 12px/1.2 var(--head); cursor: pointer; user-select: none; }
 th.nosort { cursor: default; }
 th[aria-sort="descending"]::after { content: " \2193"; }
 th[aria-sort="ascending"]::after { content: " \2191"; }
 tr:last-child td { border-bottom: 0; }
 th.l, td.l { text-align: left; }
+td.wrap { white-space: normal; min-width: 160px; }
 th.c, td.c { text-align: center; }
 td.stick, th.stick { position: sticky; left: 0; background: var(--panel); z-index: 1; }
 tr.cut td { border-bottom: 2px dashed var(--mint); }
 .mint { color: var(--mint); } .pink { color: var(--pink); } .gold { color: var(--gold); } .muted { color: var(--muted); }
 .b { font-weight: 700; }
-
-/* podium */
-.podium { display: grid; grid-template-columns: 1fr 1.15fr 1fr; align-items: end; text-align: center; gap: 8px; padding-top: 6px; }
-.podium .rk { font: 800 26px/1 var(--head); color: var(--muted); margin-bottom: 10px; }
-.podium .p1 .rk { color: var(--gold); font-size: 32px; }
-.podium .nm { font: 700 15px/1.2 var(--head); margin-top: 10px; overflow-wrap: anywhere; }
-.podium .pts { color: var(--muted); font-size: 14px; }
 
 /* week picker */
 .wkpick { display: flex; align-items: center; justify-content: space-between; margin: 4px 0 6px; }
@@ -136,17 +118,12 @@ tr.cut td { border-bottom: 2px dashed var(--mint); }
 .wkpick .lab { font: 700 16px/1 var(--head); color: var(--mint); min-width: 74px; text-align: center; }
 
 /* matchup cards */
-.mlist { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 10px; }
-.mu { background: var(--bg); border: 1px solid var(--line); border-radius: 14px; padding: 12px; display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 8px; }
-.mu .side { display: flex; align-items: center; gap: 8px; min-width: 0; }
-.mu .side.r { flex-direction: row-reverse; text-align: right; }
-.mu .meta { min-width: 0; }
-.mu .n { font: 600 14px/1.2 var(--head); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.mu .s { font: 700 18px/1.1 var(--head); }
-.mu .lose .s { color: var(--muted); }
-.mu .win .s::after { content: ""; display: block; height: 3px; border-radius: 2px; background: var(--mint); margin-top: 4px; }
-.mu .vs { width: 30px; height: 30px; border-radius: 8px; background: var(--panel-2); color: var(--muted); display: grid; place-items: center; font: 700 11px/1 var(--head); }
-.tag { display: inline-block; font: 700 10px/1 var(--head); text-transform: uppercase; letter-spacing: 0.06em; padding: 4px 7px; border-radius: 999px; margin: 0 0 8px; }
+.mlist { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 10px; }
+.mu { background: var(--bg); border: 1px solid var(--line); border-radius: 12px; padding: 4px 12px; }
+.mu .t { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 8px 0; }
+.mu .t + .t { border-top: 1px solid var(--line); }
+.mu .s { font: 700 16px/1 var(--head); color: var(--muted); }
+.mu .t.won .s { color: var(--mint); }
 .tag.playoff { background: rgba(255, 205, 60, 0.14); color: var(--gold); }
 .tag.toilet_bowl { background: rgba(255, 92, 132, 0.14); color: var(--pink); }
 .mwrap { display: flex; flex-direction: column; }
@@ -154,7 +131,7 @@ tr.cut td { border-bottom: 2px dashed var(--mint); }
 /* record cards */
 .rgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 10px; }
 .rec { background: var(--bg); border: 1px solid var(--line); border-radius: 14px; padding: 14px; }
-.rec h4 { margin: 0 0 10px; font: 600 12px/1.2 var(--head); color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+.rec h4 { margin: 0 0 10px; font: 600 13px/1.2 var(--head); color: var(--muted); }
 .rec .lv { font: 800 30px/1 var(--head); }
 .rec .lh { margin-top: 8px; }
 .rec .ld { color: var(--muted); font-size: 13px; margin-top: 4px; }
@@ -162,7 +139,7 @@ tr.cut td { border-bottom: 2px dashed var(--mint); }
 .rec li { display: grid; grid-template-columns: 18px 1fr auto; gap: 6px; padding: 3px 0; }
 .rec li .d { grid-column: 2 / 4; color: var(--muted); font-size: 12px; margin-top: -2px; }
 .rec .empty { color: var(--muted); margin: 0; }
-h3.grp { font: 700 15px/1 var(--head); text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 26px 0 12px; }
+h3.grp { font: 700 18px/1 var(--head); margin: 26px 0 12px; }
 
 /* season pills */
 .spick { display: flex; gap: 8px; flex-wrap: wrap; margin: 4px 0 4px; }
@@ -170,7 +147,7 @@ h3.grp { font: 700 15px/1 var(--head); text-transform: uppercase; letter-spacing
 .spick button[aria-pressed="true"] { background: var(--mint); color: var(--bg); border-color: var(--mint); }
 .results { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
 .results .r { background: var(--bg); border: 1px solid var(--line); border-radius: 14px; padding: 12px; }
-.results .k { font: 600 11px/1 var(--head); text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin-bottom: 8px; }
+.results .k { font: 600 13px/1 var(--head); color: var(--muted); margin-bottom: 8px; }
 
 /* score grid, finishes, h2h */
 .grid td { text-align: center; padding: 8px 7px; }
@@ -203,7 +180,7 @@ td.fP { color: var(--mint); }
 /* brackets */
 .bracket { display: flex; gap: 12px; overflow-x: auto; padding-bottom: 4px; }
 .bracket .rd { flex: 1 0 250px; display: flex; flex-direction: column; gap: 10px; }
-.bracket .rd h4 { margin: 0; font: 600 12px/1.2 var(--head); color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+.bracket .rd h4 { margin: 0; font: 600 13px/1.2 var(--head); color: var(--muted); }
 .bg { background: var(--bg); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
 .bg .gn { font: 600 11px/1 var(--head); color: var(--muted); padding: 8px 10px 0; }
 .bg .t { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 8px 10px; }
@@ -219,7 +196,6 @@ footer { color: var(--muted); font-size: 13px; padding-block: 0 40px; }
 <body>
 <header class="wrap">
   <div class="brand"><div class="logo">🦃</div><div><h1>__LEAGUE__</h1><p>Record Book</p></div></div>
-  <div class="hero" id="hero"></div>
 </header>
 <nav><div class="wrap tabs" role="tablist" id="tabs"></div></nav>
 <main class="wrap">
@@ -247,7 +223,7 @@ const AV = D.avatars || {};
 const av = (name, s = 30) => `<span class="av" style="--s:${s}px">${esc((name || "?").charAt(0).toUpperCase())}${
   AV[name] ? `<img src="${esc(AV[name])}" alt="" loading="lazy" onerror="this.remove()">` : ""}</span>`;
 const who = (name, s = 28) => `<span class="who">${av(name, s)}<span>${esc(name)}</span></span>`;
-const card = (title, body, extra = "") => `<div class="card" ${extra}><div class="pill">${title}</div>${body}</div>`;
+const card = (title, body) => `<div class="card"><h2>${title}</h2>${body}</div>`;
 const tag = (type, label) => type && type !== "regular" ? `<span class="tag ${type}">${esc(label || (type === "playoff" ? "Playoffs" : "Toilet Bowl"))}</span>` : "";
 const when = (r) => `${r.season} wk ${r.week}`;
 const chip = (pos) => `<span class="chip ${esc(pos || "")}">${esc(pos || "?")}</span>`;
@@ -290,10 +266,10 @@ function spark(vals) {
   }).join("")}</svg>`;
 }
 function matchCard(m) {
-  const side = (n, s, win, r) => `<div class="side ${r ? "r" : ""} ${win ? "win" : "lose"}">${av(n, 34)}<div class="meta"><div class="s">${f2(s)}</div><div class="n">${esc(n)}</div></div></div>`;
-  return `<div class="mwrap">${tag(m.type, m.round)}<div class="mu">${side(m.winner, m.winner_points, !m.tie, false)}<div class="vs">VS</div>${side(m.loser, m.loser_points, false, true)}</div></div>`;
+  const t = (n, sc, won) => `<div class="t ${won ? "won" : ""}">${who(n, 28)}<span class="s">${f2(sc)}</span></div>`;
+  return `<div class="mwrap">${tag(m.type, m.round)}<div class="mu">${t(m.winner, m.winner_points, !m.tie)}${t(m.loser, m.loser_points, false)}</div></div>`;
 }
-function weekPicker(id, weeks, start, render, title = "Matchups") {
+function weekPicker(id, weeks, start, render, title = "") {
   let i = Math.max(0, weeks.indexOf(start));
   const draw = () => {
     const el = $(id); if (!el) return;
@@ -303,12 +279,6 @@ function weekPicker(id, weeks, start, render, title = "Matchups") {
   setTimeout(draw);
   return `<div id="${id}"></div>`;
 }
-
-/* ---------- hero ---------- */
-const lastDone = (D.seasons || []).find((s) => s.complete);
-$("hero").innerHTML = lastDone ? `
-  <div class="hcard champ">${av(lastDone.champion, 64)}<div><div class="lbl">Reigning champion</div><div class="nm">${esc(lastDone.champion)}</div><div class="sub">${lastDone.season} season</div></div></div>
-  <div class="hcard bird">${av(lastDone.turkey, 64)}<div><div class="lbl">Wearing the turkey</div><div class="nm">${esc(lastDone.turkey || "TBD")}</div><div class="sub">${lastDone.season} Toilet Bowl</div></div></div>` : "";
 
 /* ---------- tabs ---------- */
 const TABS = [["standings", "Standings"], ["power", "Power"], ["records", "Records"], ["managers", "Managers"], ["seasons", "Seasons"], ["keepers", "Keepers"]];
@@ -324,11 +294,6 @@ $("tabs").addEventListener("click", (e) => { const b = e.target.closest("[data-t
 (function () {
   if (!CUR) return;
   let h = "";
-  const LW = D.last_week;
-  if (LW && LW.top.length) {
-    const t = LW.top, slot = (x, rank, cls) => x ? `<div class="${cls}"><div class="rk">${rank}</div>${av(x.manager, cls === "p1" ? 84 : 66)}<div class="nm">${esc(x.manager)}</div><div class="pts">${f2(x.points)}</div></div>` : "<div></div>";
-    h += card(`Wk${LW.week} report`, `<div class="podium">${slot(t[1], 2, "p2")}${slot(t[0], 1, "p1")}${slot(t[2], 3, "p3")}</div>`);
-  }
   const odds = D.playoff_odds || {}, hasOdds = Object.keys(odds).length > 0, cut = CUR.playoff_teams || 6;
   const streak = (D.streaks && D.streaks.current) || {};
   const cols = [
@@ -347,7 +312,7 @@ $("tabs").addEventListener("click", (e) => { const b = e.target.closest("[data-t
     ["Playoffs", (r) => { const o = odds[r.manager]; return [o ? `<b class="${o.make >= 0.5 ? "mint" : "pink"}">${pct0(o.make)}</b>` : "", o ? o.make : -1]; }],
     ["Bye", (r) => { const o = odds[r.manager]; return [o && o.bye != null ? pct0(o.bye) : "", o ? o.bye : -1]; }],
     ["#1 seed", (r) => { const o = odds[r.manager]; return [o ? pct0(o.first) : "", o ? o.first : -1]; }]);
-  h += card(`${CUR.season} playoff picture`,
+  h += card(`${CUR.season} standings and playoff picture`,
     `<p class="note">Seeded on record, then points for. The top ${cut} make the playoffs; the dashed line is the cut.${hasOdds ? " Odds come from simulating the rest of the regular season 3,000 times." : ""} All-play is your record if you played every team every week, and luck is how many more wins you have than that predicts.</p>` +
     table(cols, CUR.standings, { rowClass: (r, i, natural) => natural && r.seed === cut ? "cut" : "" }));
 
@@ -361,12 +326,14 @@ $("tabs").addEventListener("click", (e) => { const b = e.target.closest("[data-t
 })();
 
 function highScores(S) {
-  return card("Weekly high score", `<p class="note">$${D.config.weekly_prize} a week for the top score, regular season only. A tie splits it.</p>` +
+  const note = S.weekly_prize ? `$${S.weekly_prize} a week for the top score, regular season only. A tie splits it.` : `Regular season. There was no weekly prize in ${S.season}.`;
+  return card("Weekly high score", `<p class="note">${note}</p>` +
     `<div class="scroll"><table><thead><tr><th class="c nosort">Week</th><th class="l nosort">Manager</th><th class="nosort">Score</th></tr></thead><tbody>${
       S.weekly_high_scores.map((x) => `<tr><td class="c">${x.week}</td><td class="l">${x.managers.map((m) => who(m, 24)).join(" ")}</td><td class="gold b">${f2(x.points)}</td></tr>`).join("")
     }</tbody></table></div>`);
 }
 function prizeCard(S) {
+  if (!S.weekly_prize) return "";
   return card("Prize tally", S.prize_tally.length ? `<div class="scroll"><table><thead><tr><th class="l nosort">Manager</th><th class="nosort">Weeks</th><th class="nosort">Won</th></tr></thead><tbody>${
     S.prize_tally.map((x) => `<tr><td class="l">${who(x.manager, 24)}</td><td>${+x.weeks.toFixed(2)}</td><td class="mint b">$${x.dollars % 1 ? x.dollars.toFixed(2) : x.dollars}</td></tr>`).join("")
   }</tbody></table></div>` : `<p class="note">No weeks played yet.</p>`);
@@ -535,9 +502,10 @@ function renderSeason(S) {
     ["Bench pts", (r) => [f2(r.bench_points), r.bench_points]],
   ], S.complete ? S.standings.slice().sort((a, b) => a.place - b.place) : S.standings));
 
-  if (S.awards.length) h += card("Awards", `<div class="scroll"><table><thead><tr><th class="l nosort">Award</th><th class="l nosort">Winner</th><th class="nosort">Value</th><th class="l nosort">Detail</th></tr></thead><tbody>${
-    S.awards.map((a) => `<tr><td class="l">${esc(a.label)}</td><td class="l">${a.who === "Whole league" ? `<span class="muted">Whole league</span>` : who(a.who, 24)}</td><td class="b">${esc(a.value)}</td><td class="l muted">${esc(a.detail)}</td></tr>`).join("")
+  const awards = !S.awards.length ? "" : card("Awards", `<div class="scroll"><table><thead><tr><th class="l nosort">Award</th><th class="l nosort">Winner</th><th class="nosort">Value</th><th class="l nosort">Detail</th></tr></thead><tbody>${
+    S.awards.map((a) => `<tr><td class="l">${esc(a.label)}</td><td class="l">${a.who === "Whole league" ? `<span class="muted">Whole league</span>` : who(a.who, 24)}</td><td class="b">${esc(a.value)}</td><td class="l muted wrap">${esc(a.detail)}</td></tr>`).join("")
   }</tbody></table></div>`);
+  h += `<div class="cols">${awards}<div class="stack">${highScores(S)}${prizeCard(S)}</div></div>`;
 
   if (S.weeks.length) {
     const hi = {}, lo = {};
@@ -561,10 +529,8 @@ function renderSeason(S) {
 
   if (S.matchups.length) {
     const weeks = [...new Set(S.matchups.map((m) => m.week))];
-    h += card("Every matchup", weekPicker("s-wk-" + S.season, weeks, weeks[0], (w) => `<div class="mlist">${S.matchups.filter((m) => m.week === w).map(matchCard).join("")}</div>`, "Week by week"));
+    h += card("Every matchup", weekPicker("s-wk-" + S.season, weeks, weeks[0], (w) => `<div class="mlist">${S.matchups.filter((m) => m.week === w).map(matchCard).join("")}</div>`));
   }
-  h += `<div class="cols">${highScores(S)}${prizeCard(S)}</div>`;
-
   if (S.draft) {
     const rounds = [...new Set(S.draft.picks.map((p) => p.round))].sort((a, b) => a - b);
     h += card(`${S.season} draft board`, `<p class="note">Columns follow the round one order. K marks a keeper.</p><div class="scroll"><table class="board"><thead><tr><th class="stick nosort">Rd</th>${
