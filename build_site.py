@@ -22,6 +22,31 @@ if latest:
     records["generated_through"] = {"season": latest[0], "week": latest[1]}
 con.close()
 
+# Published newsletters: every newsletters/*.md whose front matter says status: published
+issues = []
+for f in sorted((ROOT / "newsletters").glob("*.md")):
+    text = f.read_text(encoding="utf-8")
+    meta, body = {}, text
+    if text.startswith("---"):
+        head, _, body = text[3:].partition("\n---")
+        for line in head.strip().splitlines():
+            k, _, v = line.partition(":")
+            meta[k.strip()] = v.strip()
+        body = body.lstrip("-").lstrip("\n")
+    if meta.get("status", "").lower() != "published":
+        continue
+    try:
+        import markdown
+        html = markdown.markdown(body, extensions=["tables", "sane_lists"])
+    except ImportError:
+        import html as _h
+        html = "<pre>" + _h.escape(body) + "</pre>"
+    issues.append({"season": meta.get("season", ""), "week": int(meta.get("week", 0) or 0),
+                   "title": meta.get("title", f.stem), "html": html})
+issues.sort(key=lambda i: (i["season"], i["week"]), reverse=True)
+records["newsletters"] = issues
+print(f"{len(issues)} published newsletter issue(s)")
+
 TEMPLATE = r"""<!doctype html>
 <html lang="en">
 <head>
@@ -188,6 +213,20 @@ td.fP { color: var(--mint); }
 .bg .t.won .sc { color: var(--mint); font-weight: 700; }
 .bg .sc { font: 600 14px/1 var(--head); color: var(--muted); }
 
+/* newsletter */
+.issue { max-width: none; }
+.issue h1 { font: 800 30px/1.15 var(--head); margin: 6px 0 4px; }
+.issue h1 + p em { color: var(--mint); font-style: normal; font-weight: 600; font-size: 17px; }
+.issue h2 { font: 700 21px/1.2 var(--head); margin: 28px 0 10px; padding-top: 18px; border-top: 1px solid var(--line); }
+.issue h3 { font: 700 17px/1.2 var(--head); margin: 20px 0 8px; color: var(--gold); }
+.issue p, .issue li { font-size: 16px; line-height: 1.6; max-width: 90ch; }
+.issue ul { padding-left: 20px; }
+.issue strong { color: var(--text); }
+.issue table { width: auto; min-width: 50%; margin: 6px 0 4px; }
+.issue th { cursor: default; }
+.issue td, .issue th { text-align: left; }
+.issue .tblwrap { overflow-x: auto; }
+
 select { background: var(--panel-2); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font: 600 14px var(--head); }
 .row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
 footer { color: var(--muted); font-size: 13px; padding-block: 0 40px; }
@@ -200,6 +239,7 @@ footer { color: var(--muted); font-size: 13px; padding-block: 0 40px; }
 <nav><div class="wrap tabs" role="tablist" id="tabs"></div></nav>
 <main class="wrap">
   <section id="standings"></section>
+  <section id="newsletter" hidden></section>
   <section id="power" hidden></section>
   <section id="records" hidden></section>
   <section id="managers" hidden></section>
@@ -281,9 +321,12 @@ function weekPicker(id, weeks, start, render, title = "") {
 }
 
 /* ---------- tabs ---------- */
-const TABS = [["standings", "Standings"], ["power", "Power"], ["records", "Records"], ["managers", "Managers"], ["seasons", "Seasons"], ["keepers", "Keepers"]];
+const TABS = [["standings", "Standings"], ["newsletter", "Newsletter"], ["power", "Power"], ["records", "Records"], ["managers", "Managers"], ["seasons", "Seasons"], ["keepers", "Keepers"]];
 $("tabs").innerHTML = TABS.map(([id, l]) => `<button role="tab" data-tab="${id}" aria-controls="${id}">${l}</button>`).join("");
 function show(id) {
+  const [base, issue] = String(id).split("/");
+  id = base;
+  if (issue && window.openIssue) openIssue(issue);
   if (!TABS.some(([t]) => t === id)) id = "standings";
   TABS.forEach(([t]) => $(t).hidden = t !== id);
   document.querySelectorAll("[data-tab]").forEach((b) => b.setAttribute("aria-selected", b.dataset.tab === id));
@@ -338,6 +381,24 @@ function prizeCard(S) {
     S.prize_tally.map((x) => `<tr><td class="l">${who(x.manager, 24)}</td><td>${+x.weeks.toFixed(2)}</td><td class="mint b">$${x.dollars % 1 ? x.dollars.toFixed(2) : x.dollars}</td></tr>`).join("")
   }</tbody></table></div>` : `<p class="note">No weeks played yet.</p>`);
 }
+
+/* ================= NEWSLETTER ================= */
+(function () {
+  const N = D.newsletters || [];
+  const key = (i) => `${i.season}-${i.week}`;
+  if (!N.length) { $("newsletter").innerHTML = card("Newsletter", `<p class="note">No issues published yet.</p>`); return; }
+  $("newsletter").innerHTML = `<div class="card"><div class="row"><label for="nl-pick" class="muted">Issue</label><select id="nl-pick">${
+    N.map((i) => `<option value="${key(i)}">${i.season} ${esc(i.title)}</option>`).join("")}</select>
+    <a id="nl-link" class="muted" style="margin-left:auto;font-size:13px">Link to this issue</a></div><article class="issue" id="nl-body"></article></div>`;
+  window.openIssue = (k) => {
+    const i = N.find((x) => key(x) === k) || N[0];
+    $("nl-pick").value = key(i);
+    $("nl-body").innerHTML = i.html.replace(/<table>/g, '<div class="tblwrap"><table>').replace(/<\/table>/g, "</table></div>");
+    $("nl-link").href = "#newsletter/" + key(i);
+  };
+  $("nl-pick").onchange = (e) => { history.replaceState(null, "", "#newsletter/" + e.target.value); openIssue(e.target.value); };
+  openIssue(key(N[0]));
+})();
 
 /* ================= POWER ================= */
 (function () {
