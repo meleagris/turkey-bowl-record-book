@@ -1,0 +1,62 @@
+[
+ {
+  "created": 1767314509645,
+  "creators": [
+   "1128738502994202624"
+  ],
+  "draft_id": "1312615826850840576",
+  "draft_order": {
+   "1128738502994202624": 7,
+   "1128743474339127296": 5,
+   "1128748328549830656": 9,
+   "1128749478829289472": 2,
+   "1128753211101409280": 6,
+   "1128779037096144896": 3,
+   "1128883781034704896": 1,
+   "1133455527729745920": 10,
+   "1261876798367485952": 12,
+   "1269327736048984064": 8,
+   "1370631003596427264": 4,
+   "863269290936233984": 11
+  },
+  "last_message_id": "1399938559674216448",
+  "last_message_time": 1788133871529,
+  "last_picked": 1788133635570,
+  "league_id": "1312615826846654464",
+  "metadata": {
+   "description": "",
+   "league_type": "0",
+   "name": "The Turkey Bowl",
+   "scoring_type": "2qb",
+   "show_team_names": "0"
+  },
+  "season": "2026",
+  "season_type": "regular",
+  "settings": {
+   "alpha_sort": 0,
+   "autopause_enabled": 0,
+   "autopause_end_time": 840,
+   "autopause_start_time": 120,
+   "autostart": 0,
+   "cpu_autopick": 1,
+   "enforce_position_limits": 1,
+   "nomination_timer": 60,
+   "pick_timer": 60,
+   "player_type": 0,
+   "reversal_round": 0,
+   "rounds": 15,
+   "slots_bn": 5,
+   "slots_flex": 2,
+   "slots_qb": 1,
+   "slots_rb": 2,
+   "slots_super_flex": 1,
+   "slots_te": 1,
+   "slots_wr": 3,
+   "teams": 12
+  },
+  "sport": "nfl",
+  "start_time": 1788128116765,
+  "status": "complete",
+  "type": "snake"
+ }
+]

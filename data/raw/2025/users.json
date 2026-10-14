@@ -1,0 +1,142 @@
+[
+ {
+  "avatar": "6cbe25ae3c3c1be7898156927120ef37",
+  "display_name": "TassioSS",
+  "is_bot": false,
+  "is_owner": null,
+  "league_id": "1269324301664784384",
+  "metadata": {
+   "allow_pn": "on",
+   "allow_sms": "on",
+   "archived": "on",
+   "avatar": "https://sleepercdn.com/uploads/5a86abde947b3a3a5f582f5bea695087.jpg",
+   "mention_pn": "on",
+   "team_name": "That's a Penix"
+  },
+  "settings": null,
+  "user_id": "465984216409042944"
+ },
+ {
+  "avatar": "93bf7bf022ee6651a331b6bee9c32b0a",
+  "display_name": "meleagris",
+  "is_bot": false,
+  "is_owner": true,
+  "league_id": "1269324301664784384",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/7ca4334fb0574a2e37becf9f0dbefb85.jpg",
+   "mention_pn": "on",
+   "team_name": "You're dead."
+  },
+  "settings": null,
+  "user_id": "1128738502994202624"
+ },
+ {
+  "avatar": "ff3e6514e68172a6ee237ae125e68d94",
+  "display_name": "BeefStroudganoff",
+  "is_bot": false,
+  "is_owner": null,
+  "league_id": "1269324301664784384",
+  "metadata": {
+   "allow_pn": "off",
+   "league_report_pn": "off",
+   "mascot_message": "off",
+   "mention_pn": "off",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "S.T.A.Y Stay ",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "off",
+   "transaction_waiver": "off",
+   "user_message_pn": "off"
+  },
+  "settings": null,
+  "user_id": "1128743474339127296"
+ },
+ {
+  "avatar": "a9ddbdef0cf4851195abf80d58b0edeb",
+  "display_name": "filoelo",
+  "is_bot": false,
+  "is_owner": null,
+  "league_id": "1269324301664784384",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/316dfd1b0ef8c674d3b822cd57eddfb6.jpg",
+   "mention_pn": "on",
+   "team_name": "Bouta jjetas you "
+  },
+  "settings": null,
+  "user_id": "1128745068917022720"
+ },
+ {
+  "avatar": "9f0489d1de73cc4f66ec1b6dd1b1c022",
+  "display_name": "gimmeyomoneyy",
+  "is_bot": false,
+  "is_owner": null,
+  "league_id": "1269324301664784384",
+  "metadata": {
+   "allow_pn": "on",
+   "league_report_pn": "on",
+   "mention_pn": "on",
+   "player_like_pn": "on",
+   "player_nickname_update": "on",
+   "team_name": "i will HURTS you \ud83d\ude08",
+   "team_name_update": "on",
+   "trade_block_pn": "on",
+   "transaction_commissioner": "on",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "1128748328549830656"
+ },
+ {
+  "avatar": "cd1c8d80f3f6c793ca57b2c06d412270",
+  "display_name": "pepem",
+  "is_bot": false,
+  "is_owner": null,
+  "league_id": "1269324301664784384",
+  "metadata": {
+   "allow_pn": "on",
+   "mention_pn": "on",
+   "team_name": "its joever for me"
+  },
+  "settings": null,
+  "user_id": "1128779037096144896"
+ },
+ {
+  "avatar": "2e0cf50d213cbd4be3465d7ebe1c39f6",
+  "display_name": "FroyoLaggins",
+  "is_bot": false,
+  "is_owner": null,
+  "league_id": "1269324301664784384",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/55f89752e360163cc2eb3d1004194a7a.jpg",
+   "mention_pn": "on",
+   "team_name": "Jesus is King"
+  },
+  "settings": null,
+  "user_id": "1128883781034704896"
+ },
+ {
+  "avatar": "72d96729bcb8e5c193b65f32bbd79fc6",
+  "display_name": "iaminbaby",
+  "is_bot": false,
+  "is_owner": null,
+  "league_id": "1269324301664784384",
+  "metadata": {
+   "allow_pn": "on",
+   "mention_pn": "on",
+   "team_name": "We've been here before "
+  },
+  "settings": null,
+  "user_id": "1269327736048984064"
+ }
+]

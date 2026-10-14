@@ -1,0 +1,204 @@
+[
+ {
+  "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+  "display_name": "timchang98",
+  "is_bot": false,
+  "is_owner": null,
+  "league_id": "1312615826846654464",
+  "metadata": {
+   "allow_pn": "on",
+   "mention_pn": "on",
+   "team_name": "AMon-keyChong St. Barkley"
+  },
+  "settings": null,
+  "user_id": "863269290936233984"
+ },
+ {
+  "avatar": "3387b88144e4f595696d8e41b7defa4b",
+  "display_name": "meleagris",
+  "is_bot": false,
+  "is_owner": true,
+  "league_id": "1312615826846654464",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/39f06eff2c0c78decf01ab139350f7de",
+   "mention_pn": "on",
+   "team_name": "Waste Management\u2122"
+  },
+  "settings": null,
+  "user_id": "1128738502994202624"
+ },
+ {
+  "avatar": "ff3e6514e68172a6ee237ae125e68d94",
+  "display_name": "BeefStroudganoff",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1312615826846654464",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "league_report_pn": "off",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "MyTeamGah",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "off",
+   "transaction_waiver": "off",
+   "user_message_pn": "off"
+  },
+  "settings": null,
+  "user_id": "1128743474339127296"
+ },
+ {
+  "avatar": "9f0489d1de73cc4f66ec1b6dd1b1c022",
+  "display_name": "gimmeyomoneyy",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1312615826846654464",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/1c9036e89d9edc1ee9402fe5446cce52.jpg",
+   "league_report_pn": "on",
+   "mention_pn": "on",
+   "player_like_pn": "on",
+   "player_nickname_update": "on",
+   "team_name": "\ud83d\udc05 BURROW YOU ALIVE \ud83e\udea6",
+   "team_name_update": "on",
+   "trade_block_pn": "on",
+   "transaction_commissioner": "on",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "1128748328549830656"
+ },
+ {
+  "avatar": "0c77cfa620ce11894c171d97b3f59f97",
+  "display_name": "elayneee",
+  "is_bot": false,
+  "is_owner": null,
+  "league_id": "1312615826846654464",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/32782717064b98dbe7fcb481aa34bfa4.jpg",
+   "mention_pn": "on",
+   "team_name": "Baby Back GIBBS \ud83c\udf56"
+  },
+  "settings": null,
+  "user_id": "1128749478829289472"
+ },
+ {
+  "avatar": "62dbb599a453d9bb457b8131acc2a268",
+  "display_name": "RagingBill",
+  "is_bot": false,
+  "is_owner": null,
+  "league_id": "1312615826846654464",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/2918207035979bb34ee0aec4fc22e8ea.jpg",
+   "mention_pn": "on",
+   "team_name": "J&J Inc.  "
+  },
+  "settings": null,
+  "user_id": "1128753211101409280"
+ },
+ {
+  "avatar": "b144046809629bf4485600dd687c81a5",
+  "display_name": "pepem",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1312615826846654464",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/b0693c266d05ccb42c6c5734f86f442a.jpg",
+   "mention_pn": "on",
+   "team_name": "I\u2019m the Turkey now"
+  },
+  "settings": null,
+  "user_id": "1128779037096144896"
+ },
+ {
+  "avatar": "2e0cf50d213cbd4be3465d7ebe1c39f6",
+  "display_name": "FroyoLaggins",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1312615826846654464",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/d73bde72dcfbbbf75824d353811e9b2e.jpg",
+   "mention_pn": "on",
+   "team_name": "Soji My King"
+  },
+  "settings": null,
+  "user_id": "1128883781034704896"
+ },
+ {
+  "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+  "display_name": "littylytt",
+  "is_bot": false,
+  "is_owner": null,
+  "league_id": "1312615826846654464",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/bea1ee494a1d87570920b9440edc434d.jpg",
+   "mention_pn": "on",
+   "team_name": "Litty"
+  },
+  "settings": null,
+  "user_id": "1133455527729745920"
+ },
+ {
+  "avatar": "d22e52781a5d7a94bcbf2aa70e748382",
+  "display_name": "mitchelkhim",
+  "is_bot": false,
+  "is_owner": null,
+  "league_id": "1312615826846654464",
+  "metadata": {
+   "allow_pn": "on",
+   "mention_pn": "on",
+   "team_name": "apple bottom Jeantys"
+  },
+  "settings": null,
+  "user_id": "1261876798367485952"
+ },
+ {
+  "avatar": "72d96729bcb8e5c193b65f32bbd79fc6",
+  "display_name": "ThereAndBackAgain",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1312615826846654464",
+  "metadata": {
+   "allow_pn": "on",
+   "allow_sms": "on",
+   "mention_pn": "on",
+   "team_name": "Keep the hope alive!"
+  },
+  "settings": null,
+  "user_id": "1269327736048984064"
+ },
+ {
+  "avatar": "7572250c2fb084c434fed0e82229e183",
+  "display_name": "despickenbleme",
+  "is_bot": false,
+  "is_owner": null,
+  "league_id": "1312615826846654464",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/4ad20a309b1d35cd83badb9f584fda93.jpg",
+   "mention_pn": "on",
+   "team_name": "All My Friends Are Dead"
+  },
+  "settings": null,
+  "user_id": "1370631003596427264"
+ }
+]
