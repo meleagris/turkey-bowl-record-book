@@ -195,7 +195,7 @@ history = []
 finishes = defaultdict(lambda: defaultdict(int))
 for season in seasons:
     entry = {"season": season, "champion": None, "runner_up": None, "third": None,
-             "toilet_bowl_final": None}
+             "turkey": None, "toilet_bowl_opponent": None}
     for b in rows("SELECT * FROM brackets WHERE season = ? AND placement IS NOT NULL", season):
         if not b["winner_user_id"]:
             continue
@@ -207,9 +207,16 @@ for season in seasons:
             entry["third"] = nm(b["winner_user_id"])
             finishes[b["winner_user_id"]]["thirds"] += 1
         elif b["bracket"] == "toilet_bowl" and b["placement"] == 1:
-            entry["toilet_bowl_final"] = {"winner": nm(b["winner_user_id"]), "loser": nm(b["loser_user_id"])}
-    for b in rows("SELECT DISTINCT t1_user_id AS u FROM brackets WHERE season = ? AND bracket = 'playoff' "
-                  "UNION SELECT t2_user_id FROM brackets WHERE season = ? AND bracket = 'playoff'", season, season):
+            # Losers-advance bracket: Sleeper's "winner" here is the team that lost
+            # its way to the bottom, which makes them the turkey.
+            entry["turkey"] = nm(b["winner_user_id"])
+            entry["toilet_bowl_opponent"] = nm(b["loser_user_id"])
+            finishes[b["winner_user_id"]]["turkeys"] += 1
+    # Sleeper fills the bracket with projected seeds during the season, so only
+    # count appearances once the regular season is over.
+    appearances = rows("SELECT DISTINCT t1_user_id AS u FROM brackets WHERE season = ? AND bracket = 'playoff' "
+                  "UNION SELECT t2_user_id FROM brackets WHERE season = ? AND bracket = 'playoff'", season, season)
+    for b in appearances if reg_season_complete(seasons[season]) else []:
         if b["u"]:
             finishes[b["u"]]["playoff_appearances"] += 1
     srows = [r for r in season_rows if r["season"] == season]
@@ -306,7 +313,7 @@ for uid in {g["user_id"] for g in games}:
         "all_play_pct": round(ap_w / (ap_w + ap_l), 3) if ap_w + ap_l else 0,
         "playoff_record": f"{sum(g['result'] == 'W' for g in po)}-{sum(g['result'] == 'L' for g in po)}",
         "playoff_appearances": f["playoff_appearances"], "championships": f["championships"],
-        "runner_ups": f["runner_ups"], "thirds": f["thirds"],
+        "runner_ups": f["runner_ups"], "thirds": f["thirds"], "turkeys": f["turkeys"],
         "weekly_high_scores": sum(r["weekly_high_scores"] for r in mine),
         "trades": trades[uid],
     })
@@ -331,13 +338,15 @@ OUT_PATH.write_text(json.dumps(records, indent=1))
 
 print("SEASON HISTORY")
 for h in history:
-    tb = h["toilet_bowl_final"]
+    if not h["champion"]:
+        print(f"  {h['season']}: in progress")
+        continue
     print(f"  {h['season']}: champ {h['champion']}, runner-up {h['runner_up']}, 3rd {h['third']}, "
-          f"toilet bowl final {tb['winner'] + ' beat ' + tb['loser'] if tb else None}")
+          f"turkey {h['turkey']} (toilet bowl final vs {h['toilet_bowl_opponent']})")
 print("\nALL-TIME (regular season)")
 for m in managers:
     print(f"  {m['manager']:<12} {m['record']:<7} PF {m['points_for']:<8} titles {m['championships']}  "
-          f"playoffs {m['playoff_appearances']}  high scores {m['weekly_high_scores']}")
+          f"playoffs {m['playoff_appearances']}  turkeys {m['turkeys']}  high scores {m['weekly_high_scores']}")
 print("\nTOP RECORDS")
 for label, lst, fmt in [
     ("Highest score", single_game["highest_score"], lambda r: f"{r['manager']} {r['points']} ({r['season']} W{r['week']})"),
