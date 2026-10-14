@@ -327,7 +327,8 @@ import statistics
 
 RAW = ROOT / "data" / "raw"
 CONFIG = {
-    "weekly_prize": 5,                       # dollars for each regular season weekly high score
+    # dollars for each regular season weekly high score; seasons not listed use "default"
+    "weekly_prize": {"default": 5, "2025": 0},
     "power_weights": {"ppg": 2, "last3": 4, "win": 2, "all_play": 2},
     "odds_sims": 3000,
 }
@@ -517,8 +518,9 @@ def season_detail(season):
         highs.append({"week": w, "managers": [nm(u) for u in win], "points": r2(topv)})
         for u in win:
             prize[u] += 1 / len(win)
-    prize_tally = sorted([{"manager": nm(u), "weeks": round(n, 2), "dollars": round(n * CONFIG["weekly_prize"], 2)}
-                          for u, n in prize.items()], key=lambda r: -r["weeks"])
+    prize_amt = CONFIG["weekly_prize"].get(season, CONFIG["weekly_prize"]["default"])
+    prize_tally = sorted([{"manager": nm(u), "weeks": round(n, 2), "dollars": round(n * prize_amt, 2)}
+                          for u, n in prize.items()], key=lambda r: -r["weeks"]) if prize_amt else []
 
     # awards
     awards = []
@@ -602,7 +604,7 @@ def season_detail(season):
         "champion": nm(champ) if champ else None, "runner_up": nm(runner) if runner else None,
         "third": nm(third) if third else None, "turkey": nm(turkey) if turkey else None,
         "standings": table, "brackets": brackets, "awards": awards, "weekly_high_scores": highs,
-        "prize_tally": prize_tally, "matchups": matchups_out, "draft": draft,
+        "weekly_prize": prize_amt, "prize_tally": prize_tally, "matchups": matchups_out, "draft": draft,
         "_boards": boards, "_final": final, "_complete": bool(champ),
     }
 
@@ -837,7 +839,7 @@ records = {
     "rivals": rivals,
     "draft_history": draft_history,
     "keepers": keepers,
-    "config": {"weekly_prize": CONFIG["weekly_prize"], "power_weights": CONFIG["power_weights"]},
+    "config": {"power_weights": CONFIG["power_weights"]},
 }
 OUT_PATH.write_text(json.dumps(records, indent=1))
 
