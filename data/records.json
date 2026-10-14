@@ -12,7 +12,12 @@
    "turkey": "Matthew",
    "toilet_bowl_opponent": "TassioSS",
    "most_points_for": "Daniel",
-   "best_record": "Daniel"
+   "best_record": "Daniel",
+   "high_score": {
+    "manager": "Emily",
+    "points": 204.66,
+    "week": 16
+   }
   },
   {
    "season": "2026",
@@ -22,7 +27,12 @@
    "turkey": null,
    "toilet_bowl_opponent": null,
    "most_points_for": "Daniel",
-   "best_record": "Daniel"
+   "best_record": "Daniel",
+   "high_score": {
+    "manager": "Daniel",
+    "points": 217.86,
+    "week": 1
+   }
   }
  ],
  "managers": [
@@ -42,7 +52,15 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 3,
-   "trades": 2
+   "trades": 2,
+   "playoff_games": 3,
+   "playoff_wins": 3,
+   "playoff_win_pct": 1.0,
+   "playoff_points": 508.86,
+   "playoff_ppg": 169.62,
+   "career_high": 204.66,
+   "career_low": 95.28,
+   "avg_finish": 1.0
   },
   {
    "manager": "Daniel",
@@ -60,7 +78,15 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 8,
-   "trades": 4
+   "trades": 4,
+   "playoff_games": 2,
+   "playoff_wins": 1,
+   "playoff_win_pct": 0.5,
+   "playoff_points": 264.44,
+   "playoff_ppg": 132.22,
+   "career_high": 217.86,
+   "career_low": 82.34,
+   "avg_finish": 2.0
   },
   {
    "manager": "Elisha",
@@ -78,25 +104,15 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 2,
-   "trades": 5
-  },
-  {
-   "manager": "Elena",
-   "seasons": 1,
-   "record": "3-2",
-   "win_pct": 0.6,
-   "points_for": 730.82,
-   "points_against": 724.82,
-   "ppg": 146.16,
-   "all_play_pct": 0.6,
-   "playoff_record": "0-0",
-   "playoff_appearances": 0,
-   "championships": 0,
-   "runner_ups": 0,
-   "thirds": 0,
-   "turkeys": 0,
-   "weekly_high_scores": 1,
-   "trades": 2
+   "trades": 5,
+   "playoff_games": 2,
+   "playoff_wins": 0,
+   "playoff_win_pct": 0.0,
+   "playoff_points": 203.18,
+   "playoff_ppg": 101.59,
+   "career_high": 166.2,
+   "career_low": 79.12,
+   "avg_finish": 4.0
   },
   {
    "manager": "Devin",
@@ -114,7 +130,41 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 0,
-   "trades": 2
+   "trades": 2,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 151.2,
+   "career_low": 116.1,
+   "avg_finish": null
+  },
+  {
+   "manager": "Elena",
+   "seasons": 1,
+   "record": "3-2",
+   "win_pct": 0.6,
+   "points_for": 730.82,
+   "points_against": 724.82,
+   "ppg": 146.16,
+   "all_play_pct": 0.6,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "turkeys": 0,
+   "weekly_high_scores": 1,
+   "trades": 2,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 182.34,
+   "career_low": 114.68,
+   "avg_finish": null
   },
   {
    "manager": "Uncle Ben",
@@ -132,7 +182,15 @@
    "thirds": 1,
    "turkeys": 0,
    "weekly_high_scores": 0,
-   "trades": 2
+   "trades": 2,
+   "playoff_games": 3,
+   "playoff_wins": 2,
+   "playoff_win_pct": 0.667,
+   "playoff_points": 312.52,
+   "playoff_ppg": 104.17,
+   "career_high": 158.2,
+   "career_low": 71.12,
+   "avg_finish": 3.0
   },
   {
    "manager": "Elo",
@@ -150,7 +208,15 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 1,
-   "trades": 0
+   "trades": 0,
+   "playoff_games": 2,
+   "playoff_wins": 1,
+   "playoff_win_pct": 0.5,
+   "playoff_points": 235.8,
+   "playoff_ppg": 117.9,
+   "career_high": 159.46,
+   "career_low": 78.1,
+   "avg_finish": 5.0
   },
   {
    "manager": "Ellie",
@@ -168,7 +234,15 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 1,
-   "trades": 3
+   "trades": 3,
+   "playoff_games": 2,
+   "playoff_wins": 0,
+   "playoff_win_pct": 0.0,
+   "playoff_points": 259.3,
+   "playoff_ppg": 129.65,
+   "career_high": 161.92,
+   "career_low": 90.9,
+   "avg_finish": 6.0
   },
   {
    "manager": "Matthew",
@@ -186,25 +260,15 @@
    "thirds": 0,
    "turkeys": 1,
    "weekly_high_scores": 3,
-   "trades": 5
-  },
-  {
-   "manager": "Lytton",
-   "seasons": 1,
-   "record": "2-3",
-   "win_pct": 0.4,
-   "points_for": 700.02,
-   "points_against": 727.36,
-   "ppg": 140.0,
-   "all_play_pct": 0.491,
-   "playoff_record": "0-0",
-   "playoff_appearances": 0,
-   "championships": 0,
-   "runner_ups": 0,
-   "thirds": 0,
-   "turkeys": 0,
-   "weekly_high_scores": 0,
-   "trades": 4
+   "trades": 5,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 197.06,
+   "career_low": 84.7,
+   "avg_finish": 8.0
   },
   {
    "manager": "Tim",
@@ -222,7 +286,41 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 0,
-   "trades": 1
+   "trades": 1,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 152.24,
+   "career_low": 89.96,
+   "avg_finish": null
+  },
+  {
+   "manager": "Lytton",
+   "seasons": 1,
+   "record": "2-3",
+   "win_pct": 0.4,
+   "points_for": 700.02,
+   "points_against": 727.36,
+   "ppg": 140.0,
+   "all_play_pct": 0.491,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "turkeys": 0,
+   "weekly_high_scores": 0,
+   "trades": 4,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 186.68,
+   "career_low": 111.12,
+   "avg_finish": null
   },
   {
    "manager": "TassioSS",
@@ -240,25 +338,15 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 0,
-   "trades": 0
-  },
-  {
-   "manager": "Mitchel",
-   "seasons": 1,
-   "record": "1-4",
-   "win_pct": 0.2,
-   "points_for": 591.16,
-   "points_against": 605.76,
-   "ppg": 118.23,
-   "all_play_pct": 0.327,
-   "playoff_record": "0-0",
-   "playoff_appearances": 0,
-   "championships": 0,
-   "runner_ups": 0,
-   "thirds": 0,
-   "turkeys": 0,
-   "weekly_high_scores": 0,
-   "trades": 0
+   "trades": 0,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 158.3,
+   "career_low": 77.28,
+   "avg_finish": 7.0
   },
   {
    "manager": "Ellen",
@@ -276,7 +364,41 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 0,
-   "trades": 2
+   "trades": 2,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 200.68,
+   "career_low": 114.36,
+   "avg_finish": null
+  },
+  {
+   "manager": "Mitchel",
+   "seasons": 1,
+   "record": "1-4",
+   "win_pct": 0.2,
+   "points_for": 591.16,
+   "points_against": 605.76,
+   "ppg": 118.23,
+   "all_play_pct": 0.327,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "turkeys": 0,
+   "weekly_high_scores": 0,
+   "trades": 0,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 144.14,
+   "career_low": 76.3,
+   "avg_finish": null
   }
  ],
  "current_season": [
@@ -3331,6 +3453,7624 @@
     "pf": 118.44,
     "pa": 118.54
    }
+  }
+ },
+ "avatars": {
+  "TassioSS": "https://sleepercdn.com/uploads/5a86abde947b3a3a5f582f5bea695087.jpg",
+  "Daniel": "https://sleepercdn.com/uploads/39f06eff2c0c78decf01ab139350f7de",
+  "Elisha": "https://sleepercdn.com/avatars/thumbs/ff3e6514e68172a6ee237ae125e68d94",
+  "Elo": "https://sleepercdn.com/uploads/316dfd1b0ef8c674d3b822cd57eddfb6.jpg",
+  "Ellie": "https://sleepercdn.com/uploads/1c9036e89d9edc1ee9402fe5446cce52.jpg",
+  "Emily": "https://sleepercdn.com/uploads/b0693c266d05ccb42c6c5734f86f442a.jpg",
+  "Matthew": "https://sleepercdn.com/uploads/d73bde72dcfbbbf75824d353811e9b2e.jpg",
+  "Uncle Ben": "https://sleepercdn.com/avatars/thumbs/72d96729bcb8e5c193b65f32bbd79fc6",
+  "Tim": "https://sleepercdn.com/avatars/thumbs/8eb8f8bf999945d523f2c4033f70473e",
+  "Elena": "https://sleepercdn.com/uploads/32782717064b98dbe7fcb481aa34bfa4.jpg",
+  "Ellen": "https://sleepercdn.com/uploads/2918207035979bb34ee0aec4fc22e8ea.jpg",
+  "Lytton": "https://sleepercdn.com/uploads/bea1ee494a1d87570920b9440edc434d.jpg",
+  "Mitchel": "https://sleepercdn.com/avatars/thumbs/d22e52781a5d7a94bcbf2aa70e748382",
+  "Devin": "https://sleepercdn.com/uploads/4ad20a309b1d35cd83badb9f584fda93.jpg"
+ },
+ "seasons": [
+  {
+   "season": "2026",
+   "status": "in_season",
+   "complete": false,
+   "regular_complete": false,
+   "playoff_week_start": 15,
+   "playoff_teams": 6,
+   "weeks": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "champion": null,
+   "runner_up": null,
+   "third": null,
+   "turkey": null,
+   "standings": [
+    {
+     "manager": "Daniel",
+     "record": "4-1",
+     "win_pct": 0.8,
+     "pf": 856.58,
+     "pa": 699.44,
+     "diff": 157.14,
+     "ppg": 171.32,
+     "high": 217.86,
+     "low": 143.18,
+     "sd": 30.21,
+     "all_play": "47-8",
+     "all_play_pct": 0.855,
+     "luck": -0.27,
+     "lineup_efficiency": 0.942,
+     "bench_points": 52.46,
+     "scores": [
+      217.86,
+      171.88,
+      145.84,
+      177.82,
+      143.18
+     ],
+     "seed": 1,
+     "place": 1,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Matthew",
+     "record": "4-1",
+     "win_pct": 0.8,
+     "pf": 800.32,
+     "pa": 711.54,
+     "diff": 88.78,
+     "ppg": 160.06,
+     "high": 197.06,
+     "low": 136.56,
+     "sd": 24.21,
+     "all_play": "42-13",
+     "all_play_pct": 0.764,
+     "luck": 0.18,
+     "lineup_efficiency": 0.912,
+     "bench_points": 77.38,
+     "scores": [
+      166.42,
+      136.56,
+      159.8,
+      140.48,
+      197.06
+     ],
+     "seed": 2,
+     "place": 2,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Elena",
+     "record": "3-2",
+     "win_pct": 0.6,
+     "pf": 730.82,
+     "pa": 724.82,
+     "diff": 6.0,
+     "ppg": 146.16,
+     "high": 182.34,
+     "low": 114.68,
+     "sd": 32.83,
+     "all_play": "33-22",
+     "all_play_pct": 0.6,
+     "luck": 0.0,
+     "lineup_efficiency": 0.892,
+     "bench_points": 88.74,
+     "scores": [
+      115.0,
+      140.84,
+      182.34,
+      114.68,
+      177.96
+     ],
+     "seed": 3,
+     "place": 3,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Uncle Ben",
+     "record": "3-2",
+     "win_pct": 0.6,
+     "pf": 680.6,
+     "pa": 643.16,
+     "diff": 37.44,
+     "ppg": 136.12,
+     "high": 158.2,
+     "low": 100.74,
+     "sd": 22.68,
+     "all_play": "26-29",
+     "all_play_pct": 0.473,
+     "luck": 0.64,
+     "lineup_efficiency": 0.879,
+     "bench_points": 93.76,
+     "scores": [
+      150.48,
+      128.14,
+      100.74,
+      158.2,
+      143.04
+     ],
+     "seed": 4,
+     "place": 4,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Ellie",
+     "record": "3-2",
+     "win_pct": 0.6,
+     "pf": 662.66,
+     "pa": 628.4,
+     "diff": 34.26,
+     "ppg": 132.53,
+     "high": 155.36,
+     "low": 90.9,
+     "sd": 29.27,
+     "all_play": "28-27",
+     "all_play_pct": 0.509,
+     "luck": 0.45,
+     "lineup_efficiency": 0.89,
+     "bench_points": 82.2,
+     "scores": [
+      90.9,
+      155.36,
+      151.42,
+      152.68,
+      112.3
+     ],
+     "seed": 5,
+     "place": 5,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Devin",
+     "record": "3-2",
+     "win_pct": 0.6,
+     "pf": 657.1,
+     "pa": 700.62,
+     "diff": -43.52,
+     "ppg": 131.42,
+     "high": 151.2,
+     "low": 116.1,
+     "sd": 14.7,
+     "all_play": "23-32",
+     "all_play_pct": 0.418,
+     "luck": 0.91,
+     "lineup_efficiency": 0.981,
+     "bench_points": 12.4,
+     "scores": [
+      131.6,
+      139.76,
+      116.1,
+      151.2,
+      118.44
+     ],
+     "seed": 6,
+     "place": 6,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Lytton",
+     "record": "2-3",
+     "win_pct": 0.4,
+     "pf": 700.02,
+     "pa": 727.36,
+     "diff": -27.34,
+     "ppg": 140.0,
+     "high": 186.68,
+     "low": 111.12,
+     "sd": 30.24,
+     "all_play": "27-28",
+     "all_play_pct": 0.491,
+     "luck": -0.45,
+     "lineup_efficiency": 0.853,
+     "bench_points": 120.38,
+     "scores": [
+      111.12,
+      122.7,
+      126.6,
+      152.92,
+      186.68
+     ],
+     "seed": 7,
+     "place": 7,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Elisha",
+     "record": "2-3",
+     "win_pct": 0.4,
+     "pf": 659.14,
+     "pa": 697.92,
+     "diff": -38.78,
+     "ppg": 131.83,
+     "high": 166.2,
+     "low": 96.38,
+     "sd": 31.02,
+     "all_play": "24-31",
+     "all_play_pct": 0.436,
+     "luck": -0.18,
+     "lineup_efficiency": 0.864,
+     "bench_points": 103.34,
+     "scores": [
+      96.38,
+      166.2,
+      136.36,
+      103.78,
+      156.42
+     ],
+     "seed": 8,
+     "place": 8,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Tim",
+     "record": "2-3",
+     "win_pct": 0.4,
+     "pf": 638.44,
+     "pa": 756.34,
+     "diff": -117.9,
+     "ppg": 127.69,
+     "high": 152.24,
+     "low": 89.96,
+     "sd": 24.53,
+     "all_play": "23-32",
+     "all_play_pct": 0.418,
+     "luck": -0.09,
+     "lineup_efficiency": 0.866,
+     "bench_points": 99.04,
+     "scores": [
+      152.24,
+      134.0,
+      143.7,
+      89.96,
+      118.54
+     ],
+     "seed": 9,
+     "place": 9,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Emily",
+     "record": "2-3",
+     "win_pct": 0.4,
+     "pf": 578.28,
+     "pa": 601.64,
+     "diff": -23.36,
+     "ppg": 115.66,
+     "high": 136.68,
+     "low": 95.28,
+     "sd": 18.68,
+     "all_play": "12-43",
+     "all_play_pct": 0.218,
+     "luck": 0.91,
+     "lineup_efficiency": 0.862,
+     "bench_points": 92.7,
+     "scores": [
+      136.68,
+      95.28,
+      112.98,
+      132.94,
+      100.4
+     ],
+     "seed": 10,
+     "place": 10,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Ellen",
+     "record": "1-4",
+     "win_pct": 0.2,
+     "pf": 734.94,
+     "pa": 793.06,
+     "diff": -58.12,
+     "ppg": 146.99,
+     "high": 200.68,
+     "low": 114.36,
+     "sd": 37.01,
+     "all_play": "27-28",
+     "all_play_pct": 0.491,
+     "luck": -1.45,
+     "lineup_efficiency": 0.884,
+     "bench_points": 96.7,
+     "scores": [
+      200.68,
+      114.36,
+      135.52,
+      116.16,
+      168.22
+     ],
+     "seed": 11,
+     "place": 11,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Mitchel",
+     "record": "1-4",
+     "win_pct": 0.2,
+     "pf": 591.16,
+     "pa": 605.76,
+     "diff": -14.6,
+     "ppg": 118.23,
+     "high": 144.14,
+     "low": 76.3,
+     "sd": 29.0,
+     "all_play": "18-37",
+     "all_play_pct": 0.327,
+     "luck": -0.64,
+     "lineup_efficiency": 0.838,
+     "bench_points": 114.1,
+     "scores": [
+      136.34,
+      99.8,
+      144.14,
+      134.58,
+      76.3
+     ],
+     "seed": 12,
+     "place": 12,
+     "made_playoffs": false
+    }
+   ],
+   "brackets": [
+    {
+     "bracket": "playoff",
+     "round": 1,
+     "name": "Quarterfinal",
+     "week": 15,
+     "t1": "Uncle Ben",
+     "t2": "Ellie",
+     "s1": null,
+     "s2": null,
+     "winner": null
+    },
+    {
+     "bracket": "playoff",
+     "round": 1,
+     "name": "Quarterfinal",
+     "week": 15,
+     "t1": "Devin",
+     "t2": "Elena",
+     "s1": null,
+     "s2": null,
+     "winner": null
+    },
+    {
+     "bracket": "playoff",
+     "round": 2,
+     "name": "Semifinal",
+     "week": 16,
+     "t1": "Daniel",
+     "t2": null,
+     "s1": null,
+     "s2": null,
+     "winner": null
+    },
+    {
+     "bracket": "playoff",
+     "round": 2,
+     "name": "Semifinal",
+     "week": 16,
+     "t1": "Matthew",
+     "t2": null,
+     "s1": null,
+     "s2": null,
+     "winner": null
+    },
+    {
+     "bracket": "playoff",
+     "round": 2,
+     "name": "Consolation",
+     "week": 16,
+     "t1": null,
+     "t2": null,
+     "s1": null,
+     "s2": null,
+     "winner": null
+    },
+    {
+     "bracket": "playoff",
+     "round": 3,
+     "name": "Championship",
+     "week": 17,
+     "t1": null,
+     "t2": null,
+     "s1": null,
+     "s2": null,
+     "winner": null
+    },
+    {
+     "bracket": "playoff",
+     "round": 3,
+     "name": "Third place",
+     "week": 17,
+     "t1": null,
+     "t2": null,
+     "s1": null,
+     "s2": null,
+     "winner": null
+    },
+    {
+     "bracket": "toilet_bowl",
+     "round": 1,
+     "name": "Toilet Bowl",
+     "week": 15,
+     "t1": "Tim",
+     "t2": "Elisha",
+     "s1": null,
+     "s2": null,
+     "winner": null
+    },
+    {
+     "bracket": "toilet_bowl",
+     "round": 1,
+     "name": "Toilet Bowl",
+     "week": 15,
+     "t1": "Lytton",
+     "t2": "Emily",
+     "s1": null,
+     "s2": null,
+     "winner": null
+    },
+    {
+     "bracket": "toilet_bowl",
+     "round": 2,
+     "name": "Toilet Bowl",
+     "week": 16,
+     "t1": "Mitchel",
+     "t2": null,
+     "s1": null,
+     "s2": null,
+     "winner": null
+    },
+    {
+     "bracket": "toilet_bowl",
+     "round": 2,
+     "name": "Toilet Bowl",
+     "week": 16,
+     "t1": "Ellen",
+     "t2": null,
+     "s1": null,
+     "s2": null,
+     "winner": null
+    },
+    {
+     "bracket": "toilet_bowl",
+     "round": 2,
+     "name": "Toilet Bowl",
+     "week": 16,
+     "t1": null,
+     "t2": null,
+     "s1": null,
+     "s2": null,
+     "winner": null
+    },
+    {
+     "bracket": "toilet_bowl",
+     "round": 3,
+     "name": "Toilet Bowl final",
+     "week": 17,
+     "t1": null,
+     "t2": null,
+     "s1": null,
+     "s2": null,
+     "winner": null
+    },
+    {
+     "bracket": "toilet_bowl",
+     "round": 3,
+     "name": "Toilet Bowl",
+     "week": 17,
+     "t1": null,
+     "t2": null,
+     "s1": null,
+     "s2": null,
+     "winner": null
+    }
+   ],
+   "awards": [
+    {
+     "label": "Highest score, single week",
+     "who": "Daniel",
+     "value": 217.86,
+     "detail": "Week 1"
+    },
+    {
+     "label": "Lowest score, single week",
+     "who": "Mitchel",
+     "value": 76.3,
+     "detail": "Week 5"
+    },
+    {
+     "label": "Highest scoring average",
+     "who": "Daniel",
+     "value": 171.32,
+     "detail": "Points per game"
+    },
+    {
+     "label": "Biggest blowout",
+     "who": "Daniel",
+     "value": 86.26,
+     "detail": "Week 1 over Devin"
+    },
+    {
+     "label": "Closest game",
+     "who": "Tim",
+     "value": 0.1,
+     "detail": "Week 5 over Devin"
+    },
+    {
+     "label": "Best all-play record",
+     "who": "Daniel",
+     "value": "47-8",
+     "detail": "Record against the whole league every week"
+    },
+    {
+     "label": "Luckiest team",
+     "who": "Devin",
+     "value": "+0.9 wins",
+     "detail": "Wins above what the scores earned"
+    },
+    {
+     "label": "Unluckiest team",
+     "who": "Ellen",
+     "value": "-1.4 wins",
+     "detail": "Wins below what the scores earned"
+    },
+    {
+     "label": "Most weeks at #1",
+     "who": "Daniel",
+     "value": 5,
+     "detail": "Weeks holding the top power ranking"
+    },
+    {
+     "label": "Most weeks in the top 3",
+     "who": "Daniel",
+     "value": 5,
+     "detail": "Weeks ranked 3rd or better"
+    },
+    {
+     "label": "Most weekly high scores",
+     "who": "Daniel",
+     "value": 3.0,
+     "detail": "Weeks outscoring every other team"
+    },
+    {
+     "label": "Most consistent",
+     "who": "Devin",
+     "value": 14.7,
+     "detail": "Smallest week-to-week swing"
+    },
+    {
+     "label": "Most volatile",
+     "who": "Ellen",
+     "value": 37.01,
+     "detail": "Biggest week-to-week swing"
+    },
+    {
+     "label": "Best lineup setter",
+     "who": "Devin",
+     "value": "98.1%",
+     "detail": "Points scored out of the most possible"
+    },
+    {
+     "label": "Most points left on the bench",
+     "who": "Lytton",
+     "value": 120.38,
+     "detail": "Season total"
+    },
+    {
+     "label": "Highest scoring week, league-wide",
+     "who": "Whole league",
+     "value": 1705.7,
+     "detail": "Week 1"
+    },
+    {
+     "label": "Lowest scoring week, league-wide",
+     "who": "Whole league",
+     "value": 1604.88,
+     "detail": "Week 2"
+    }
+   ],
+   "weekly_high_scores": [
+    {
+     "week": 1,
+     "managers": [
+      "Daniel"
+     ],
+     "points": 217.86
+    },
+    {
+     "week": 2,
+     "managers": [
+      "Daniel"
+     ],
+     "points": 171.88
+    },
+    {
+     "week": 3,
+     "managers": [
+      "Elena"
+     ],
+     "points": 182.34
+    },
+    {
+     "week": 4,
+     "managers": [
+      "Daniel"
+     ],
+     "points": 177.82
+    },
+    {
+     "week": 5,
+     "managers": [
+      "Matthew"
+     ],
+     "points": 197.06
+    }
+   ],
+   "prize_tally": [
+    {
+     "manager": "Daniel",
+     "weeks": 3.0,
+     "dollars": 15.0
+    },
+    {
+     "manager": "Elena",
+     "weeks": 1.0,
+     "dollars": 5.0
+    },
+    {
+     "manager": "Matthew",
+     "weeks": 1.0,
+     "dollars": 5.0
+    }
+   ],
+   "matchups": [
+    {
+     "week": 1,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 217.86,
+     "loser": "Devin",
+     "loser_points": 131.6,
+     "tie": false
+    },
+    {
+     "week": 1,
+     "type": "regular",
+     "round": null,
+     "winner": "Ellen",
+     "winner_points": 200.68,
+     "loser": "Uncle Ben",
+     "loser_points": 150.48,
+     "tie": false
+    },
+    {
+     "week": 1,
+     "type": "regular",
+     "round": null,
+     "winner": "Matthew",
+     "winner_points": 166.42,
+     "loser": "Elena",
+     "loser_points": 115.0,
+     "tie": false
+    },
+    {
+     "week": 1,
+     "type": "regular",
+     "round": null,
+     "winner": "Tim",
+     "winner_points": 152.24,
+     "loser": "Emily",
+     "loser_points": 136.68,
+     "tie": false
+    },
+    {
+     "week": 1,
+     "type": "regular",
+     "round": null,
+     "winner": "Mitchel",
+     "winner_points": 136.34,
+     "loser": "Ellie",
+     "loser_points": 90.9,
+     "tie": false
+    },
+    {
+     "week": 1,
+     "type": "regular",
+     "round": null,
+     "winner": "Lytton",
+     "winner_points": 111.12,
+     "loser": "Elisha",
+     "loser_points": 96.38,
+     "tie": false
+    },
+    {
+     "week": 2,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 171.88,
+     "loser": "Ellen",
+     "loser_points": 114.36,
+     "tie": false
+    },
+    {
+     "week": 2,
+     "type": "regular",
+     "round": null,
+     "winner": "Elisha",
+     "winner_points": 166.2,
+     "loser": "Tim",
+     "loser_points": 134.0,
+     "tie": false
+    },
+    {
+     "week": 2,
+     "type": "regular",
+     "round": null,
+     "winner": "Ellie",
+     "winner_points": 155.36,
+     "loser": "Lytton",
+     "loser_points": 122.7,
+     "tie": false
+    },
+    {
+     "week": 2,
+     "type": "regular",
+     "round": null,
+     "winner": "Elena",
+     "winner_points": 140.84,
+     "loser": "Emily",
+     "loser_points": 95.28,
+     "tie": false
+    },
+    {
+     "week": 2,
+     "type": "regular",
+     "round": null,
+     "winner": "Devin",
+     "winner_points": 139.76,
+     "loser": "Matthew",
+     "loser_points": 136.56,
+     "tie": false
+    },
+    {
+     "week": 2,
+     "type": "regular",
+     "round": null,
+     "winner": "Uncle Ben",
+     "winner_points": 128.14,
+     "loser": "Mitchel",
+     "loser_points": 99.8,
+     "tie": false
+    },
+    {
+     "week": 3,
+     "type": "regular",
+     "round": null,
+     "winner": "Elena",
+     "winner_points": 182.34,
+     "loser": "Tim",
+     "loser_points": 143.7,
+     "tie": false
+    },
+    {
+     "week": 3,
+     "type": "regular",
+     "round": null,
+     "winner": "Matthew",
+     "winner_points": 159.8,
+     "loser": "Ellen",
+     "loser_points": 135.52,
+     "tie": false
+    },
+    {
+     "week": 3,
+     "type": "regular",
+     "round": null,
+     "winner": "Ellie",
+     "winner_points": 151.42,
+     "loser": "Elisha",
+     "loser_points": 136.36,
+     "tie": false
+    },
+    {
+     "week": 3,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 145.84,
+     "loser": "Mitchel",
+     "loser_points": 144.14,
+     "tie": false
+    },
+    {
+     "week": 3,
+     "type": "regular",
+     "round": null,
+     "winner": "Lytton",
+     "winner_points": 126.6,
+     "loser": "Uncle Ben",
+     "loser_points": 100.74,
+     "tie": false
+    },
+    {
+     "week": 3,
+     "type": "regular",
+     "round": null,
+     "winner": "Devin",
+     "winner_points": 116.1,
+     "loser": "Emily",
+     "loser_points": 112.98,
+     "tie": false
+    },
+    {
+     "week": 4,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 177.82,
+     "loser": "Lytton",
+     "loser_points": 152.92,
+     "tie": false
+    },
+    {
+     "week": 4,
+     "type": "regular",
+     "round": null,
+     "winner": "Uncle Ben",
+     "winner_points": 158.2,
+     "loser": "Elisha",
+     "loser_points": 103.78,
+     "tie": false
+    },
+    {
+     "week": 4,
+     "type": "regular",
+     "round": null,
+     "winner": "Ellie",
+     "winner_points": 152.68,
+     "loser": "Tim",
+     "loser_points": 89.96,
+     "tie": false
+    },
+    {
+     "week": 4,
+     "type": "regular",
+     "round": null,
+     "winner": "Devin",
+     "winner_points": 151.2,
+     "loser": "Elena",
+     "loser_points": 114.68,
+     "tie": false
+    },
+    {
+     "week": 4,
+     "type": "regular",
+     "round": null,
+     "winner": "Matthew",
+     "winner_points": 140.48,
+     "loser": "Mitchel",
+     "loser_points": 134.58,
+     "tie": false
+    },
+    {
+     "week": 4,
+     "type": "regular",
+     "round": null,
+     "winner": "Emily",
+     "winner_points": 132.94,
+     "loser": "Ellen",
+     "loser_points": 116.16,
+     "tie": false
+    },
+    {
+     "week": 5,
+     "type": "regular",
+     "round": null,
+     "winner": "Matthew",
+     "winner_points": 197.06,
+     "loser": "Lytton",
+     "loser_points": 186.68,
+     "tie": false
+    },
+    {
+     "week": 5,
+     "type": "regular",
+     "round": null,
+     "winner": "Elena",
+     "winner_points": 177.96,
+     "loser": "Ellen",
+     "loser_points": 168.22,
+     "tie": false
+    },
+    {
+     "week": 5,
+     "type": "regular",
+     "round": null,
+     "winner": "Elisha",
+     "winner_points": 156.42,
+     "loser": "Daniel",
+     "loser_points": 143.18,
+     "tie": false
+    },
+    {
+     "week": 5,
+     "type": "regular",
+     "round": null,
+     "winner": "Uncle Ben",
+     "winner_points": 143.04,
+     "loser": "Ellie",
+     "loser_points": 112.3,
+     "tie": false
+    },
+    {
+     "week": 5,
+     "type": "regular",
+     "round": null,
+     "winner": "Tim",
+     "winner_points": 118.54,
+     "loser": "Devin",
+     "loser_points": 118.44,
+     "tie": false
+    },
+    {
+     "week": 5,
+     "type": "regular",
+     "round": null,
+     "winner": "Emily",
+     "winner_points": 100.4,
+     "loser": "Mitchel",
+     "loser_points": 76.3,
+     "tie": false
+    }
+   ],
+   "draft": {
+    "order": [
+     "Matthew",
+     "Elena",
+     "Emily",
+     "Devin",
+     "Elisha",
+     "Ellen",
+     "Daniel",
+     "Uncle Ben",
+     "Ellie",
+     "Lytton",
+     "Tim",
+     "Mitchel"
+    ],
+    "picks": [
+     {
+      "round": 1,
+      "pick": 1,
+      "manager": "Matthew",
+      "player": "Josh Allen",
+      "position": "QB",
+      "team": "BUF",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 2,
+      "manager": "Elena",
+      "player": "Jahmyr Gibbs",
+      "position": "RB",
+      "team": "DET",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 3,
+      "manager": "Emily",
+      "player": "Bijan Robinson",
+      "position": "RB",
+      "team": "ATL",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 4,
+      "manager": "Devin",
+      "player": "Ja'Marr Chase",
+      "position": "WR",
+      "team": "CIN",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 5,
+      "manager": "Elisha",
+      "player": "Puka Nacua",
+      "position": "WR",
+      "team": "LAR",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 6,
+      "manager": "Ellen",
+      "player": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "team": "SEA",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 7,
+      "manager": "Daniel",
+      "player": "Lamar Jackson",
+      "position": "QB",
+      "team": "BAL",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 8,
+      "manager": "Uncle Ben",
+      "player": "James Cook",
+      "position": "RB",
+      "team": "BUF",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 9,
+      "manager": "Ellie",
+      "player": "Jonathan Taylor",
+      "position": "RB",
+      "team": "IND",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 10,
+      "manager": "Lytton",
+      "player": "Christian McCaffrey",
+      "position": "RB",
+      "team": "SF",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 11,
+      "manager": "Tim",
+      "player": "Amon-Ra St. Brown",
+      "position": "WR",
+      "team": "DET",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 12,
+      "manager": "Mitchel",
+      "player": "Ashton Jeanty",
+      "position": "RB",
+      "team": "LV",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 13,
+      "manager": "Mitchel",
+      "player": "Trey McBride",
+      "position": "TE",
+      "team": "ARI",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 14,
+      "manager": "Tim",
+      "player": "Saquon Barkley",
+      "position": "RB",
+      "team": "PHI",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 15,
+      "manager": "Lytton",
+      "player": "Chase Brown",
+      "position": "RB",
+      "team": "CIN",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 16,
+      "manager": "Ellie",
+      "player": "Joe Burrow",
+      "position": "QB",
+      "team": "CIN",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 17,
+      "manager": "Uncle Ben",
+      "player": "Drake Maye",
+      "position": "QB",
+      "team": "NE",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 18,
+      "manager": "Daniel",
+      "player": "Kenneth Walker",
+      "position": "RB",
+      "team": "KC",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 19,
+      "manager": "Ellen",
+      "player": "Justin Jefferson",
+      "position": "WR",
+      "team": "MIN",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 20,
+      "manager": "Elisha",
+      "player": "CeeDee Lamb",
+      "position": "WR",
+      "team": "DAL",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 21,
+      "manager": "Devin",
+      "player": "Brock Bowers",
+      "position": "TE",
+      "team": "LV",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 22,
+      "manager": "Emily",
+      "player": "Jalen Hurts",
+      "position": "QB",
+      "team": "PHI",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 23,
+      "manager": "Elena",
+      "player": "George Pickens",
+      "position": "WR",
+      "team": "DAL",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 24,
+      "manager": "Matthew",
+      "player": "Jayden Daniels",
+      "position": "QB",
+      "team": "WAS",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 25,
+      "manager": "Matthew",
+      "player": "A.J. Brown",
+      "position": "WR",
+      "team": "NE",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 26,
+      "manager": "Elena",
+      "player": "Dak Prescott",
+      "position": "QB",
+      "team": "DAL",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 27,
+      "manager": "Emily",
+      "player": "Caleb Williams",
+      "position": "QB",
+      "team": "CHI",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 28,
+      "manager": "Devin",
+      "player": "Justin Herbert",
+      "position": "QB",
+      "team": "LAC",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 29,
+      "manager": "Elisha",
+      "player": "Omarion Hampton",
+      "position": "RB",
+      "team": "LAC",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 30,
+      "manager": "Ellen",
+      "player": "Trevor Lawrence",
+      "position": "QB",
+      "team": "JAX",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 31,
+      "manager": "Daniel",
+      "player": "Derrick Henry",
+      "position": "RB",
+      "team": "BAL",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 32,
+      "manager": "Uncle Ben",
+      "player": "Nico Collins",
+      "position": "WR",
+      "team": "HOU",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 33,
+      "manager": "Ellie",
+      "player": "Drake London",
+      "position": "WR",
+      "team": "ATL",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 34,
+      "manager": "Lytton",
+      "player": "De'Von Achane",
+      "position": "RB",
+      "team": "MIA",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 35,
+      "manager": "Tim",
+      "player": "Jaxson Dart",
+      "position": "QB",
+      "team": "NYG",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 36,
+      "manager": "Mitchel",
+      "player": "Tee Higgins",
+      "position": "WR",
+      "team": "CIN",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 37,
+      "manager": "Mitchel",
+      "player": "Bo Nix",
+      "position": "QB",
+      "team": "DEN",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 38,
+      "manager": "Tim",
+      "player": "Chris Olave",
+      "position": "WR",
+      "team": "NO",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 39,
+      "manager": "Lytton",
+      "player": "Malik Nabers",
+      "position": "WR",
+      "team": "NYG",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 40,
+      "manager": "Ellie",
+      "player": "Colston Loveland",
+      "position": "TE",
+      "team": "CHI",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 41,
+      "manager": "Uncle Ben",
+      "player": "Bucky Irving",
+      "position": "RB",
+      "team": "TB",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 42,
+      "manager": "Daniel",
+      "player": "DeVonta Smith",
+      "position": "WR",
+      "team": "PHI",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 43,
+      "manager": "Ellen",
+      "player": "Javonte Williams",
+      "position": "RB",
+      "team": "DAL",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 44,
+      "manager": "Elisha",
+      "player": "Rashee Rice",
+      "position": "WR",
+      "team": "KC",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 45,
+      "manager": "Devin",
+      "player": "Kyren Williams",
+      "position": "RB",
+      "team": "LAR",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 46,
+      "manager": "Emily",
+      "player": "Tetairoa McMillan",
+      "position": "WR",
+      "team": "CAR",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 47,
+      "manager": "Elena",
+      "player": "Cam Skattebo",
+      "position": "RB",
+      "team": "NYG",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 48,
+      "manager": "Matthew",
+      "player": "Zay Flowers",
+      "position": "WR",
+      "team": "BAL",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 49,
+      "manager": "Matthew",
+      "player": "Jeremiyah Love",
+      "position": "RB",
+      "team": "ARI",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 50,
+      "manager": "Elena",
+      "player": "Matthew Stafford",
+      "position": "QB",
+      "team": "LAR",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 51,
+      "manager": "Emily",
+      "player": "Travis Etienne",
+      "position": "RB",
+      "team": "NO",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 52,
+      "manager": "Devin",
+      "player": "Jared Goff",
+      "position": "QB",
+      "team": "DET",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 53,
+      "manager": "Elisha",
+      "player": "Patrick Mahomes",
+      "position": "QB",
+      "team": "KC",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 54,
+      "manager": "Ellen",
+      "player": "Ladd McConkey",
+      "position": "WR",
+      "team": "LAC",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 55,
+      "manager": "Daniel",
+      "player": "Jaylen Waddle",
+      "position": "WR",
+      "team": "DEN",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 56,
+      "manager": "Uncle Ben",
+      "player": "Emeka Egbuka",
+      "position": "WR",
+      "team": "TB",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 57,
+      "manager": "Ellie",
+      "player": "Garrett Wilson",
+      "position": "WR",
+      "team": "NYJ",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 58,
+      "manager": "Lytton",
+      "player": "Tyler Warren",
+      "position": "TE",
+      "team": "IND",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 59,
+      "manager": "Tim",
+      "player": "Terry McLaurin",
+      "position": "WR",
+      "team": "WAS",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 60,
+      "manager": "Mitchel",
+      "player": "DJ Moore",
+      "position": "WR",
+      "team": "BUF",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 61,
+      "manager": "Mitchel",
+      "player": "TreVeyon Henderson",
+      "position": "RB",
+      "team": "NE",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 62,
+      "manager": "Tim",
+      "player": "Breece Hall",
+      "position": "RB",
+      "team": "NYJ",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 63,
+      "manager": "Lytton",
+      "player": "Brock Purdy",
+      "position": "QB",
+      "team": "SF",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 64,
+      "manager": "Ellie",
+      "player": "Davante Adams",
+      "position": "WR",
+      "team": "LAR",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 65,
+      "manager": "Uncle Ben",
+      "player": "Luther Burden",
+      "position": "WR",
+      "team": "CHI",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 66,
+      "manager": "Daniel",
+      "player": "D'Andre Swift",
+      "position": "RB",
+      "team": "CHI",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 67,
+      "manager": "Ellen",
+      "player": "David Montgomery",
+      "position": "RB",
+      "team": "HOU",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 68,
+      "manager": "Elisha",
+      "player": "Rome Odunze",
+      "position": "WR",
+      "team": "CHI",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 69,
+      "manager": "Devin",
+      "player": "Jadarian Price",
+      "position": "RB",
+      "team": "SEA",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 70,
+      "manager": "Emily",
+      "player": "Courtland Sutton",
+      "position": "WR",
+      "team": "DEN",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 71,
+      "manager": "Elena",
+      "player": "Jameson Williams",
+      "position": "WR",
+      "team": "DET",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 72,
+      "manager": "Matthew",
+      "player": "Mike Evans",
+      "position": "WR",
+      "team": "SF",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 73,
+      "manager": "Matthew",
+      "player": "Quinshon Judkins",
+      "position": "RB",
+      "team": "CLE",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 74,
+      "manager": "Elena",
+      "player": "Parker Washington",
+      "position": "WR",
+      "team": "JAX",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 75,
+      "manager": "Emily",
+      "player": "Jaylen Warren",
+      "position": "RB",
+      "team": "PIT",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 76,
+      "manager": "Devin",
+      "player": "Brian Thomas",
+      "position": "WR",
+      "team": "JAX",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 77,
+      "manager": "Elisha",
+      "player": "Kyler Murray",
+      "position": "QB",
+      "team": "MIN",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 78,
+      "manager": "Ellen",
+      "player": "Jordan Love",
+      "position": "QB",
+      "team": "GB",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 79,
+      "manager": "Daniel",
+      "player": "Christian Watson",
+      "position": "WR",
+      "team": "GB",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 80,
+      "manager": "Uncle Ben",
+      "player": "Bhayshul Tuten",
+      "position": "RB",
+      "team": "JAX",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 81,
+      "manager": "Ellie",
+      "player": "Carnell Tate",
+      "position": "WR",
+      "team": "TEN",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 82,
+      "manager": "Lytton",
+      "player": "Marvin Harrison",
+      "position": "WR",
+      "team": "HOU",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 83,
+      "manager": "Tim",
+      "player": "RJ Harvey",
+      "position": "RB",
+      "team": "DEN",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 84,
+      "manager": "Mitchel",
+      "player": "Tucker Kraft",
+      "position": "TE",
+      "team": "GB",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 85,
+      "manager": "Mitchel",
+      "player": "Michael Wilson",
+      "position": "WR",
+      "team": "ARI",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 86,
+      "manager": "Tim",
+      "player": "Chris Godwin",
+      "position": "WR",
+      "team": "TB",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 87,
+      "manager": "Lytton",
+      "player": "Josh Jacobs",
+      "position": "RB",
+      "team": "GB",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 88,
+      "manager": "Ellie",
+      "player": "J.K. Dobbins",
+      "position": "RB",
+      "team": "DEN",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 89,
+      "manager": "Uncle Ben",
+      "player": "Stefon Diggs",
+      "position": "WR",
+      "team": "WAS",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 90,
+      "manager": "Daniel",
+      "player": "Rhamondre Stevenson",
+      "position": "RB",
+      "team": "NE",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 91,
+      "manager": "Ellen",
+      "player": "Brenton Strange",
+      "position": "TE",
+      "team": "JAX",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 92,
+      "manager": "Elisha",
+      "player": "Tony Pollard",
+      "position": "RB",
+      "team": "TEN",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 93,
+      "manager": "Devin",
+      "player": "Quentin Johnston",
+      "position": "WR",
+      "team": "LAC",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 94,
+      "manager": "Emily",
+      "player": "Jordan Addison",
+      "position": "WR",
+      "team": "MIN",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 95,
+      "manager": "Elena",
+      "player": "Harold Fannin",
+      "position": "TE",
+      "team": "CLE",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 96,
+      "manager": "Matthew",
+      "player": "DK Metcalf",
+      "position": "WR",
+      "team": "PIT",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 97,
+      "manager": "Matthew",
+      "player": "Makai Lemon",
+      "position": "WR",
+      "team": "PHI",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 98,
+      "manager": "Elena",
+      "player": "Rico Dowdle",
+      "position": "RB",
+      "team": "PIT",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 99,
+      "manager": "Emily",
+      "player": "Kyle Pitts",
+      "position": "TE",
+      "team": "ATL",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 100,
+      "manager": "Devin",
+      "player": "Jordan Mason",
+      "position": "RB",
+      "team": "MIN",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 101,
+      "manager": "Elisha",
+      "player": "Sam LaPorta",
+      "position": "TE",
+      "team": "DET",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 102,
+      "manager": "Ellen",
+      "player": "Alec Pierce",
+      "position": "WR",
+      "team": "IND",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 103,
+      "manager": "Daniel",
+      "player": "Tyler Shough",
+      "position": "QB",
+      "team": "NO",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 104,
+      "manager": "Uncle Ben",
+      "player": "Chuba Hubbard",
+      "position": "RB",
+      "team": "CAR",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 105,
+      "manager": "Ellie",
+      "player": "Baker Mayfield",
+      "position": "QB",
+      "team": "TB",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 106,
+      "manager": "Lytton",
+      "player": "Michael Pittman",
+      "position": "WR",
+      "team": "PIT",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 107,
+      "manager": "Tim",
+      "player": "Daniel Jones",
+      "position": "QB",
+      "team": "IND",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 108,
+      "manager": "Mitchel",
+      "player": "Malik Willis",
+      "position": "QB",
+      "team": "MIA",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 109,
+      "manager": "Mitchel",
+      "player": "Woody Marks",
+      "position": "RB",
+      "team": "HOU",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 110,
+      "manager": "Tim",
+      "player": "Matthew Golden",
+      "position": "WR",
+      "team": "GB",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 111,
+      "manager": "Lytton",
+      "player": "Sam Darnold",
+      "position": "QB",
+      "team": "SEA",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 112,
+      "manager": "Ellie",
+      "player": "Jake Ferguson",
+      "position": "TE",
+      "team": "DAL",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 113,
+      "manager": "Uncle Ben",
+      "player": "C.J. Stroud",
+      "position": "QB",
+      "team": "HOU",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 114,
+      "manager": "Daniel",
+      "player": "George Kittle",
+      "position": "TE",
+      "team": "SF",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 115,
+      "manager": "Ellen",
+      "player": "Blake Corum",
+      "position": "RB",
+      "team": "LAR",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 116,
+      "manager": "Elisha",
+      "player": "Josh Downs",
+      "position": "WR",
+      "team": "IND",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 117,
+      "manager": "Devin",
+      "player": "Ja'Kobi Lane",
+      "position": "WR",
+      "team": "BAL",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 118,
+      "manager": "Emily",
+      "player": "Xavier Worthy",
+      "position": "WR",
+      "team": "KC",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 119,
+      "manager": "Elena",
+      "player": "Jayden Reed",
+      "position": "WR",
+      "team": "GB",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 120,
+      "manager": "Matthew",
+      "player": "Jonathon Brooks",
+      "position": "RB",
+      "team": "CAR",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 121,
+      "manager": "Matthew",
+      "player": "Wan'Dale Robinson",
+      "position": "WR",
+      "team": "TEN",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 122,
+      "manager": "Elena",
+      "player": "Kenny Gainwell",
+      "position": "RB",
+      "team": "TB",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 123,
+      "manager": "Emily",
+      "player": "Tyler Allgeier",
+      "position": "RB",
+      "team": "ARI",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 124,
+      "manager": "Devin",
+      "player": "Dalton Kincaid",
+      "position": "TE",
+      "team": "BUF",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 125,
+      "manager": "Elisha",
+      "player": "Kyle Monangai",
+      "position": "RB",
+      "team": "CHI",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 126,
+      "manager": "Ellen",
+      "player": "Mark Andrews",
+      "position": "TE",
+      "team": "BAL",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 127,
+      "manager": "Daniel",
+      "player": "KC Concepcion",
+      "position": "WR",
+      "team": "CLE",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 128,
+      "manager": "Uncle Ben",
+      "player": "Dallas Goedert",
+      "position": "TE",
+      "team": "PHI",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 129,
+      "manager": "Ellie",
+      "player": "Deebo Samuel",
+      "position": "WR",
+      "team": "SF",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 130,
+      "manager": "Lytton",
+      "player": "Khalil Shakir",
+      "position": "WR",
+      "team": "BUF",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 131,
+      "manager": "Tim",
+      "player": "Travis Kelce",
+      "position": "TE",
+      "team": "KC",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 132,
+      "manager": "Mitchel",
+      "player": "Romeo Doubs",
+      "position": "WR",
+      "team": "NE",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 133,
+      "manager": "Mitchel",
+      "player": "Rashid Shaheed",
+      "position": "WR",
+      "team": "SEA",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 134,
+      "manager": "Tim",
+      "player": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "team": "WAS",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 135,
+      "manager": "Lytton",
+      "player": "Cam Ward",
+      "position": "QB",
+      "team": "TEN",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 136,
+      "manager": "Ellie",
+      "player": "Chris Rodriguez",
+      "position": "RB",
+      "team": "JAX",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 137,
+      "manager": "Uncle Ben",
+      "player": "Mike Washington",
+      "position": "RB",
+      "team": "LV",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 138,
+      "manager": "Daniel",
+      "player": "De'Zhaun Stribling",
+      "position": "WR",
+      "team": "SF",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 139,
+      "manager": "Ellen",
+      "player": "Aaron Jones",
+      "position": "RB",
+      "team": "MIN",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 140,
+      "manager": "Elisha",
+      "player": "Jakobi Meyers",
+      "position": "WR",
+      "team": "JAX",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 141,
+      "manager": "Devin",
+      "player": "Jalen Coker",
+      "position": "WR",
+      "team": "CAR",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 142,
+      "manager": "Emily",
+      "player": "Oronde Gadsden",
+      "position": "TE",
+      "team": "LAC",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 143,
+      "manager": "Elena",
+      "player": "Bryce Young",
+      "position": "QB",
+      "team": "CAR",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 144,
+      "manager": "Matthew",
+      "player": "Isaiah Likely",
+      "position": "TE",
+      "team": "NYG",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 145,
+      "manager": "Matthew",
+      "player": "Rachaad White",
+      "position": "RB",
+      "team": "WAS",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 146,
+      "manager": "Elena",
+      "player": "Brian Robinson",
+      "position": "RB",
+      "team": "ATL",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 147,
+      "manager": "Emily",
+      "player": "Jauan Jennings",
+      "position": "WR",
+      "team": "MIN",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 148,
+      "manager": "Devin",
+      "player": "Fernando Mendoza",
+      "position": "QB",
+      "team": "LV",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 149,
+      "manager": "Elisha",
+      "player": "Jordyn Tyson",
+      "position": "WR",
+      "team": "NO",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 150,
+      "manager": "Ellen",
+      "player": "Jalen Nailor",
+      "position": "WR",
+      "team": "LV",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 151,
+      "manager": "Daniel",
+      "player": "MarShawn Lloyd",
+      "position": "RB",
+      "team": "GB",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 152,
+      "manager": "Uncle Ben",
+      "player": "Hunter Henry",
+      "position": "TE",
+      "team": "NE",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 153,
+      "manager": "Ellie",
+      "player": "Jonah Coleman",
+      "position": "RB",
+      "team": "DEN",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 154,
+      "manager": "Lytton",
+      "player": "Malik Washington",
+      "position": "WR",
+      "team": "MIA",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 155,
+      "manager": "Tim",
+      "player": "Jacoby Brissett",
+      "position": "QB",
+      "team": "ARI",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 156,
+      "manager": "Mitchel",
+      "player": "Aaron Rodgers",
+      "position": "QB",
+      "team": "PIT",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 157,
+      "manager": "Mitchel",
+      "player": "Tank Bigsby",
+      "position": "RB",
+      "team": "PHI",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 158,
+      "manager": "Tim",
+      "player": "Malachi Fields",
+      "position": "WR",
+      "team": "NYG",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 159,
+      "manager": "Lytton",
+      "player": "Keaton Mitchell",
+      "position": "RB",
+      "team": "LAC",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 160,
+      "manager": "Ellie",
+      "player": "Omar Cooper",
+      "position": "WR",
+      "team": "NYJ",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 161,
+      "manager": "Uncle Ben",
+      "player": "Emmett Johnson",
+      "position": "RB",
+      "team": "KC",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 162,
+      "manager": "Daniel",
+      "player": "Tyjae Spears",
+      "position": "RB",
+      "team": "TEN",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 163,
+      "manager": "Ellen",
+      "player": "Tyrone Tracy",
+      "position": "RB",
+      "team": "NYG",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 164,
+      "manager": "Elisha",
+      "player": "Dylan Sampson",
+      "position": "RB",
+      "team": "CLE",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 165,
+      "manager": "Devin",
+      "player": "Zach Charbonnet",
+      "position": "RB",
+      "team": "SEA",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 166,
+      "manager": "Emily",
+      "player": "Nicholas Singleton",
+      "position": "RB",
+      "team": "TEN",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 167,
+      "manager": "Elena",
+      "player": "Ryan Flournoy",
+      "position": "WR",
+      "team": "DAL",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 168,
+      "manager": "Matthew",
+      "player": "Isiah Pacheco",
+      "position": "RB",
+      "team": "DET",
+      "keeper": false
+     },
+     {
+      "round": 15,
+      "pick": 169,
+      "manager": "Matthew",
+      "player": "Shedeur Sanders",
+      "position": "QB",
+      "team": "CLE",
+      "keeper": false
+     },
+     {
+      "round": 15,
+      "pick": 170,
+      "manager": "Elena",
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "team": "NO",
+      "keeper": false
+     },
+     {
+      "round": 15,
+      "pick": 171,
+      "manager": "Emily",
+      "player": "Tre Tucker",
+      "position": "WR",
+      "team": "LV",
+      "keeper": false
+     },
+     {
+      "round": 15,
+      "pick": 172,
+      "manager": "Devin",
+      "player": "Tank Dell",
+      "position": "WR",
+      "team": "HOU",
+      "keeper": false
+     },
+     {
+      "round": 15,
+      "pick": 173,
+      "manager": "Elisha",
+      "player": "Braelon Allen",
+      "position": "RB",
+      "team": "NYJ",
+      "keeper": false
+     },
+     {
+      "round": 15,
+      "pick": 174,
+      "manager": "Ellen",
+      "player": "Kayshon Boutte",
+      "position": "WR",
+      "team": "HOU",
+      "keeper": false
+     },
+     {
+      "round": 15,
+      "pick": 175,
+      "manager": "Daniel",
+      "player": "Terrance Ferguson",
+      "position": "TE",
+      "team": "LAR",
+      "keeper": false
+     },
+     {
+      "round": 15,
+      "pick": 176,
+      "manager": "Uncle Ben",
+      "player": "Kirk Cousins",
+      "position": "QB",
+      "team": "LV",
+      "keeper": false
+     },
+     {
+      "round": 15,
+      "pick": 177,
+      "manager": "Ellie",
+      "player": "Keenan Allen",
+      "position": "WR",
+      "team": "IND",
+      "keeper": false
+     },
+     {
+      "round": 15,
+      "pick": 178,
+      "manager": "Lytton",
+      "player": "Denzel Boston",
+      "position": "WR",
+      "team": "CLE",
+      "keeper": false
+     },
+     {
+      "round": 15,
+      "pick": 179,
+      "manager": "Tim",
+      "player": "Carson Beck",
+      "position": "QB",
+      "team": "ARI",
+      "keeper": false
+     },
+     {
+      "round": 15,
+      "pick": 180,
+      "manager": "Mitchel",
+      "player": "Juwan Johnson",
+      "position": "TE",
+      "team": "NO",
+      "keeper": false
+     }
+    ]
+   }
+  },
+  {
+   "season": "2025",
+   "status": "complete",
+   "complete": true,
+   "regular_complete": true,
+   "playoff_week_start": 15,
+   "playoff_teams": 6,
+   "weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "champion": "Emily",
+   "runner_up": "Daniel",
+   "third": "Uncle Ben",
+   "turkey": "Matthew",
+   "standings": [
+    {
+     "manager": "Daniel",
+     "record": "11-3",
+     "win_pct": 0.786,
+     "pf": 1940.58,
+     "pa": 1723.7,
+     "diff": 216.88,
+     "ppg": 138.61,
+     "high": 174.3,
+     "low": 82.34,
+     "sd": 24.68,
+     "all_play": "76-22",
+     "all_play_pct": 0.776,
+     "luck": 0.14,
+     "lineup_efficiency": 0.888,
+     "bench_points": 243.8,
+     "scores": [
+      82.34,
+      149.4,
+      109.72,
+      165.22,
+      121.02,
+      163.34,
+      139.98,
+      156.78,
+      139.06,
+      174.3,
+      122.84,
+      132.86,
+      153.38,
+      130.34
+     ],
+     "seed": 1,
+     "place": 2,
+     "made_playoffs": true
+    },
+    {
+     "manager": "Elisha",
+     "record": "10-4",
+     "win_pct": 0.714,
+     "pf": 1652.34,
+     "pa": 1539.74,
+     "diff": 112.6,
+     "ppg": 118.02,
+     "high": 154.94,
+     "low": 79.12,
+     "sd": 24.58,
+     "all_play": "52-46",
+     "all_play_pct": 0.531,
+     "luck": 2.57,
+     "lineup_efficiency": 0.866,
+     "bench_points": 255.2,
+     "scores": [
+      118.86,
+      99.62,
+      123.32,
+      98.16,
+      96.72,
+      119.7,
+      138.82,
+      82.12,
+      113.62,
+      153.14,
+      131.68,
+      142.52,
+      79.12,
+      154.94
+     ],
+     "seed": 2,
+     "place": 4,
+     "made_playoffs": true
+    },
+    {
+     "manager": "Emily",
+     "record": "8-6",
+     "win_pct": 0.571,
+     "pf": 1839.14,
+     "pa": 1702.66,
+     "diff": 136.48,
+     "ppg": 131.37,
+     "high": 173.56,
+     "low": 104.48,
+     "sd": 20.93,
+     "all_play": "65-33",
+     "all_play_pct": 0.663,
+     "luck": -1.29,
+     "lineup_efficiency": 0.898,
+     "bench_points": 208.06,
+     "scores": [
+      115.92,
+      107.54,
+      104.48,
+      123.52,
+      131.32,
+      141.62,
+      161.34,
+      130.08,
+      159.26,
+      123.8,
+      130.5,
+      173.56,
+      126.14,
+      110.06
+     ],
+     "seed": 3,
+     "place": 1,
+     "made_playoffs": true
+    },
+    {
+     "manager": "Elo",
+     "record": "7-7",
+     "win_pct": 0.5,
+     "pf": 1704.62,
+     "pa": 1711.52,
+     "diff": -6.9,
+     "ppg": 121.76,
+     "high": 159.46,
+     "low": 78.1,
+     "sd": 23.29,
+     "all_play": "54-44",
+     "all_play_pct": 0.551,
+     "luck": -0.71,
+     "lineup_efficiency": 0.837,
+     "bench_points": 331.62,
+     "scores": [
+      96.22,
+      117.28,
+      122.96,
+      146.8,
+      145.42,
+      142.38,
+      103.44,
+      159.46,
+      95.1,
+      136.9,
+      121.94,
+      110.58,
+      128.04,
+      78.1
+     ],
+     "seed": 4,
+     "place": 5,
+     "made_playoffs": true
+    },
+    {
+     "manager": "Uncle Ben",
+     "record": "7-7",
+     "win_pct": 0.5,
+     "pf": 1439.64,
+     "pa": 1540.48,
+     "diff": -100.84,
+     "ppg": 102.83,
+     "high": 130.62,
+     "low": 71.12,
+     "sd": 19.71,
+     "all_play": "32-66",
+     "all_play_pct": 0.327,
+     "luck": 2.43,
+     "lineup_efficiency": 0.84,
+     "bench_points": 273.44,
+     "scores": [
+      130.62,
+      120.9,
+      74.12,
+      110.96,
+      115.44,
+      101.84,
+      111.34,
+      84.08,
+      91.08,
+      81.3,
+      102.06,
+      71.12,
+      115.22,
+      129.56
+     ],
+     "seed": 5,
+     "place": 3,
+     "made_playoffs": true
+    },
+    {
+     "manager": "Ellie",
+     "record": "6-8",
+     "win_pct": 0.429,
+     "pf": 1650.9,
+     "pa": 1685.98,
+     "diff": -35.08,
+     "ppg": 117.92,
+     "high": 161.92,
+     "low": 96.94,
+     "sd": 20.68,
+     "all_play": "45-53",
+     "all_play_pct": 0.459,
+     "luck": -0.43,
+     "lineup_efficiency": 0.872,
+     "bench_points": 242.26,
+     "scores": [
+      111.58,
+      96.94,
+      146.54,
+      148.3,
+      125.2,
+      161.92,
+      108.64,
+      112.86,
+      108.6,
+      102.22,
+      97.7,
+      101.36,
+      124.44,
+      104.6
+     ],
+     "seed": 6,
+     "place": 6,
+     "made_playoffs": true
+    },
+    {
+     "manager": "Matthew",
+     "record": "4-10",
+     "win_pct": 0.286,
+     "pf": 1610.96,
+     "pa": 1686.16,
+     "diff": -75.2,
+     "ppg": 115.07,
+     "high": 179.04,
+     "low": 84.7,
+     "sd": 24.85,
+     "all_play": "41-57",
+     "all_play_pct": 0.418,
+     "luck": -1.86,
+     "lineup_efficiency": 0.878,
+     "bench_points": 224.14,
+     "scores": [
+      142.46,
+      134.4,
+      103.22,
+      96.18,
+      179.04,
+      84.7,
+      130.96,
+      107.32,
+      112.16,
+      122.24,
+      96.32,
+      95.52,
+      104.4,
+      102.04
+     ],
+     "seed": 7,
+     "place": 8,
+     "made_playoffs": false
+    },
+    {
+     "manager": "TassioSS",
+     "record": "3-11",
+     "win_pct": 0.214,
+     "pf": 1427.56,
+     "pa": 1675.5,
+     "diff": -247.94,
+     "ppg": 101.97,
+     "high": 135.04,
+     "low": 77.28,
+     "sd": 18.89,
+     "all_play": "27-71",
+     "all_play_pct": 0.276,
+     "luck": -0.86,
+     "lineup_efficiency": 0.83,
+     "bench_points": 291.88,
+     "scores": [
+      130.12,
+      100.5,
+      85.28,
+      127.92,
+      111.34,
+      77.28,
+      98.0,
+      135.04,
+      101.1,
+      94.1,
+      80.04,
+      103.14,
+      78.94,
+      104.76
+     ],
+     "seed": 8,
+     "place": 7,
+     "made_playoffs": false
+    }
+   ],
+   "brackets": [
+    {
+     "bracket": "playoff",
+     "round": 1,
+     "name": "Quarterfinal",
+     "week": 15,
+     "t1": "Elo",
+     "t2": "Uncle Ben",
+     "s1": 84.12,
+     "s2": 91.3,
+     "winner": "Uncle Ben"
+    },
+    {
+     "bracket": "playoff",
+     "round": 1,
+     "name": "Quarterfinal",
+     "week": 15,
+     "t1": "Ellie",
+     "t2": "Emily",
+     "s1": 144.2,
+     "s2": 156.72,
+     "winner": "Emily"
+    },
+    {
+     "bracket": "playoff",
+     "round": 2,
+     "name": "Semifinal",
+     "week": 16,
+     "t1": "Daniel",
+     "t2": "Uncle Ben",
+     "s1": 128.3,
+     "s2": 109.7,
+     "winner": "Daniel"
+    },
+    {
+     "bracket": "playoff",
+     "round": 2,
+     "name": "Semifinal",
+     "week": 16,
+     "t1": "Elisha",
+     "t2": "Emily",
+     "s1": 120.5,
+     "s2": 204.66,
+     "winner": "Emily"
+    },
+    {
+     "bracket": "playoff",
+     "round": 2,
+     "name": "Consolation",
+     "week": 16,
+     "t1": "Elo",
+     "t2": "Ellie",
+     "s1": 151.68,
+     "s2": 115.1,
+     "winner": "Elo"
+    },
+    {
+     "bracket": "playoff",
+     "round": 3,
+     "name": "Championship",
+     "week": 17,
+     "t1": "Daniel",
+     "t2": "Emily",
+     "s1": 136.14,
+     "s2": 147.48,
+     "winner": "Emily"
+    },
+    {
+     "bracket": "playoff",
+     "round": 3,
+     "name": "Third place",
+     "week": 17,
+     "t1": "Uncle Ben",
+     "t2": "Elisha",
+     "s1": 111.52,
+     "s2": 82.68,
+     "winner": "Uncle Ben"
+    },
+    {
+     "bracket": "toilet_bowl",
+     "round": 1,
+     "name": "Toilet Bowl final",
+     "week": 15,
+     "t1": "TassioSS",
+     "t2": "Matthew",
+     "s1": 158.3,
+     "s2": 134.4,
+     "winner": "Matthew"
+    }
+   ],
+   "awards": [
+    {
+     "label": "Highest score, single week",
+     "who": "Matthew",
+     "value": 179.04,
+     "detail": "Week 5"
+    },
+    {
+     "label": "Lowest score, single week",
+     "who": "Uncle Ben",
+     "value": 71.12,
+     "detail": "Week 12"
+    },
+    {
+     "label": "Highest scoring average",
+     "who": "Daniel",
+     "value": 138.61,
+     "detail": "Points per game"
+    },
+    {
+     "label": "Biggest blowout",
+     "who": "Ellie",
+     "value": 72.42,
+     "detail": "Week 3 over Uncle Ben"
+    },
+    {
+     "label": "Closest game",
+     "who": "TassioSS",
+     "value": 0.16,
+     "detail": "Week 14 over Ellie"
+    },
+    {
+     "label": "Best all-play record",
+     "who": "Daniel",
+     "value": "76-22",
+     "detail": "Record against the whole league every week"
+    },
+    {
+     "label": "Luckiest team",
+     "who": "Elisha",
+     "value": "+2.6 wins",
+     "detail": "Wins above what the scores earned"
+    },
+    {
+     "label": "Unluckiest team",
+     "who": "Matthew",
+     "value": "-1.9 wins",
+     "detail": "Wins below what the scores earned"
+    },
+    {
+     "label": "Most weeks at #1",
+     "who": "Daniel",
+     "value": 11,
+     "detail": "Weeks holding the top power ranking"
+    },
+    {
+     "label": "Most weeks in the top 3",
+     "who": "Daniel",
+     "value": 13,
+     "detail": "Weeks ranked 3rd or better"
+    },
+    {
+     "label": "Most weekly high scores",
+     "who": "Daniel",
+     "value": 5.0,
+     "detail": "Weeks outscoring every other team"
+    },
+    {
+     "label": "Most consistent",
+     "who": "TassioSS",
+     "value": 18.89,
+     "detail": "Smallest week-to-week swing"
+    },
+    {
+     "label": "Most volatile",
+     "who": "Matthew",
+     "value": 24.85,
+     "detail": "Biggest week-to-week swing"
+    },
+    {
+     "label": "Best lineup setter",
+     "who": "Emily",
+     "value": "89.8%",
+     "detail": "Points scored out of the most possible"
+    },
+    {
+     "label": "Most points left on the bench",
+     "who": "Elo",
+     "value": 331.62,
+     "detail": "Season total"
+    },
+    {
+     "label": "Highest scoring week, league-wide",
+     "who": "Whole league",
+     "value": 1025.5,
+     "detail": "Week 5"
+    },
+    {
+     "label": "Lowest scoring week, league-wide",
+     "who": "Whole league",
+     "value": 869.64,
+     "detail": "Week 3"
+    }
+   ],
+   "weekly_high_scores": [
+    {
+     "week": 1,
+     "managers": [
+      "Matthew"
+     ],
+     "points": 142.46
+    },
+    {
+     "week": 2,
+     "managers": [
+      "Daniel"
+     ],
+     "points": 149.4
+    },
+    {
+     "week": 3,
+     "managers": [
+      "Ellie"
+     ],
+     "points": 146.54
+    },
+    {
+     "week": 4,
+     "managers": [
+      "Daniel"
+     ],
+     "points": 165.22
+    },
+    {
+     "week": 5,
+     "managers": [
+      "Matthew"
+     ],
+     "points": 179.04
+    },
+    {
+     "week": 6,
+     "managers": [
+      "Daniel"
+     ],
+     "points": 163.34
+    },
+    {
+     "week": 7,
+     "managers": [
+      "Emily"
+     ],
+     "points": 161.34
+    },
+    {
+     "week": 8,
+     "managers": [
+      "Elo"
+     ],
+     "points": 159.46
+    },
+    {
+     "week": 9,
+     "managers": [
+      "Emily"
+     ],
+     "points": 159.26
+    },
+    {
+     "week": 10,
+     "managers": [
+      "Daniel"
+     ],
+     "points": 174.3
+    },
+    {
+     "week": 11,
+     "managers": [
+      "Elisha"
+     ],
+     "points": 131.68
+    },
+    {
+     "week": 12,
+     "managers": [
+      "Emily"
+     ],
+     "points": 173.56
+    },
+    {
+     "week": 13,
+     "managers": [
+      "Daniel"
+     ],
+     "points": 153.38
+    },
+    {
+     "week": 14,
+     "managers": [
+      "Elisha"
+     ],
+     "points": 154.94
+    }
+   ],
+   "prize_tally": [
+    {
+     "manager": "Daniel",
+     "weeks": 5.0,
+     "dollars": 25.0
+    },
+    {
+     "manager": "Emily",
+     "weeks": 3.0,
+     "dollars": 15.0
+    },
+    {
+     "manager": "Matthew",
+     "weeks": 2.0,
+     "dollars": 10.0
+    },
+    {
+     "manager": "Elisha",
+     "weeks": 2.0,
+     "dollars": 10.0
+    },
+    {
+     "manager": "Ellie",
+     "weeks": 1.0,
+     "dollars": 5.0
+    },
+    {
+     "manager": "Elo",
+     "weeks": 1.0,
+     "dollars": 5.0
+    }
+   ],
+   "matchups": [
+    {
+     "week": 1,
+     "type": "regular",
+     "round": null,
+     "winner": "Matthew",
+     "winner_points": 142.46,
+     "loser": "Elo",
+     "loser_points": 96.22,
+     "tie": false
+    },
+    {
+     "week": 1,
+     "type": "regular",
+     "round": null,
+     "winner": "Uncle Ben",
+     "winner_points": 130.62,
+     "loser": "Emily",
+     "loser_points": 115.92,
+     "tie": false
+    },
+    {
+     "week": 1,
+     "type": "regular",
+     "round": null,
+     "winner": "TassioSS",
+     "winner_points": 130.12,
+     "loser": "Daniel",
+     "loser_points": 82.34,
+     "tie": false
+    },
+    {
+     "week": 1,
+     "type": "regular",
+     "round": null,
+     "winner": "Elisha",
+     "winner_points": 118.86,
+     "loser": "Ellie",
+     "loser_points": 111.58,
+     "tie": false
+    },
+    {
+     "week": 2,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 149.4,
+     "loser": "Elo",
+     "loser_points": 117.28,
+     "tie": false
+    },
+    {
+     "week": 2,
+     "type": "regular",
+     "round": null,
+     "winner": "Matthew",
+     "winner_points": 134.4,
+     "loser": "TassioSS",
+     "loser_points": 100.5,
+     "tie": false
+    },
+    {
+     "week": 2,
+     "type": "regular",
+     "round": null,
+     "winner": "Uncle Ben",
+     "winner_points": 120.9,
+     "loser": "Elisha",
+     "loser_points": 99.62,
+     "tie": false
+    },
+    {
+     "week": 2,
+     "type": "regular",
+     "round": null,
+     "winner": "Emily",
+     "winner_points": 107.54,
+     "loser": "Ellie",
+     "loser_points": 96.94,
+     "tie": false
+    },
+    {
+     "week": 3,
+     "type": "regular",
+     "round": null,
+     "winner": "Ellie",
+     "winner_points": 146.54,
+     "loser": "Uncle Ben",
+     "loser_points": 74.12,
+     "tie": false
+    },
+    {
+     "week": 3,
+     "type": "regular",
+     "round": null,
+     "winner": "Elisha",
+     "winner_points": 123.32,
+     "loser": "Emily",
+     "loser_points": 104.48,
+     "tie": false
+    },
+    {
+     "week": 3,
+     "type": "regular",
+     "round": null,
+     "winner": "Elo",
+     "winner_points": 122.96,
+     "loser": "TassioSS",
+     "loser_points": 85.28,
+     "tie": false
+    },
+    {
+     "week": 3,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 109.72,
+     "loser": "Matthew",
+     "loser_points": 103.22,
+     "tie": false
+    },
+    {
+     "week": 4,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 165.22,
+     "loser": "Emily",
+     "loser_points": 123.52,
+     "tie": false
+    },
+    {
+     "week": 4,
+     "type": "regular",
+     "round": null,
+     "winner": "Ellie",
+     "winner_points": 148.3,
+     "loser": "Elo",
+     "loser_points": 146.8,
+     "tie": false
+    },
+    {
+     "week": 4,
+     "type": "regular",
+     "round": null,
+     "winner": "TassioSS",
+     "winner_points": 127.92,
+     "loser": "Uncle Ben",
+     "loser_points": 110.96,
+     "tie": false
+    },
+    {
+     "week": 4,
+     "type": "regular",
+     "round": null,
+     "winner": "Elisha",
+     "winner_points": 98.16,
+     "loser": "Matthew",
+     "loser_points": 96.18,
+     "tie": false
+    },
+    {
+     "week": 5,
+     "type": "regular",
+     "round": null,
+     "winner": "Matthew",
+     "winner_points": 179.04,
+     "loser": "Ellie",
+     "loser_points": 125.2,
+     "tie": false
+    },
+    {
+     "week": 5,
+     "type": "regular",
+     "round": null,
+     "winner": "Elo",
+     "winner_points": 145.42,
+     "loser": "Elisha",
+     "loser_points": 96.72,
+     "tie": false
+    },
+    {
+     "week": 5,
+     "type": "regular",
+     "round": null,
+     "winner": "Emily",
+     "winner_points": 131.32,
+     "loser": "TassioSS",
+     "loser_points": 111.34,
+     "tie": false
+    },
+    {
+     "week": 5,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 121.02,
+     "loser": "Uncle Ben",
+     "loser_points": 115.44,
+     "tie": false
+    },
+    {
+     "week": 6,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 163.34,
+     "loser": "Ellie",
+     "loser_points": 161.92,
+     "tie": false
+    },
+    {
+     "week": 6,
+     "type": "regular",
+     "round": null,
+     "winner": "Elo",
+     "winner_points": 142.38,
+     "loser": "Emily",
+     "loser_points": 141.62,
+     "tie": false
+    },
+    {
+     "week": 6,
+     "type": "regular",
+     "round": null,
+     "winner": "Elisha",
+     "winner_points": 119.7,
+     "loser": "TassioSS",
+     "loser_points": 77.28,
+     "tie": false
+    },
+    {
+     "week": 6,
+     "type": "regular",
+     "round": null,
+     "winner": "Uncle Ben",
+     "winner_points": 101.84,
+     "loser": "Matthew",
+     "loser_points": 84.7,
+     "tie": false
+    },
+    {
+     "week": 7,
+     "type": "regular",
+     "round": null,
+     "winner": "Emily",
+     "winner_points": 161.34,
+     "loser": "Matthew",
+     "loser_points": 130.96,
+     "tie": false
+    },
+    {
+     "week": 7,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 139.98,
+     "loser": "Elisha",
+     "loser_points": 138.82,
+     "tie": false
+    },
+    {
+     "week": 7,
+     "type": "regular",
+     "round": null,
+     "winner": "Uncle Ben",
+     "winner_points": 111.34,
+     "loser": "Elo",
+     "loser_points": 103.44,
+     "tie": false
+    },
+    {
+     "week": 7,
+     "type": "regular",
+     "round": null,
+     "winner": "Ellie",
+     "winner_points": 108.64,
+     "loser": "TassioSS",
+     "loser_points": 98.0,
+     "tie": false
+    },
+    {
+     "week": 8,
+     "type": "regular",
+     "round": null,
+     "winner": "Elo",
+     "winner_points": 159.46,
+     "loser": "Matthew",
+     "loser_points": 107.32,
+     "tie": false
+    },
+    {
+     "week": 8,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 156.78,
+     "loser": "TassioSS",
+     "loser_points": 135.04,
+     "tie": false
+    },
+    {
+     "week": 8,
+     "type": "regular",
+     "round": null,
+     "winner": "Emily",
+     "winner_points": 130.08,
+     "loser": "Uncle Ben",
+     "loser_points": 84.08,
+     "tie": false
+    },
+    {
+     "week": 8,
+     "type": "regular",
+     "round": null,
+     "winner": "Ellie",
+     "winner_points": 112.86,
+     "loser": "Elisha",
+     "loser_points": 82.12,
+     "tie": false
+    },
+    {
+     "week": 9,
+     "type": "regular",
+     "round": null,
+     "winner": "Emily",
+     "winner_points": 159.26,
+     "loser": "Ellie",
+     "loser_points": 108.6,
+     "tie": false
+    },
+    {
+     "week": 9,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 139.06,
+     "loser": "Elo",
+     "loser_points": 95.1,
+     "tie": false
+    },
+    {
+     "week": 9,
+     "type": "regular",
+     "round": null,
+     "winner": "Elisha",
+     "winner_points": 113.62,
+     "loser": "Uncle Ben",
+     "loser_points": 91.08,
+     "tie": false
+    },
+    {
+     "week": 9,
+     "type": "regular",
+     "round": null,
+     "winner": "Matthew",
+     "winner_points": 112.16,
+     "loser": "TassioSS",
+     "loser_points": 101.1,
+     "tie": false
+    },
+    {
+     "week": 10,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 174.3,
+     "loser": "Matthew",
+     "loser_points": 122.24,
+     "tie": false
+    },
+    {
+     "week": 10,
+     "type": "regular",
+     "round": null,
+     "winner": "Elisha",
+     "winner_points": 153.14,
+     "loser": "Emily",
+     "loser_points": 123.8,
+     "tie": false
+    },
+    {
+     "week": 10,
+     "type": "regular",
+     "round": null,
+     "winner": "Elo",
+     "winner_points": 136.9,
+     "loser": "TassioSS",
+     "loser_points": 94.1,
+     "tie": false
+    },
+    {
+     "week": 10,
+     "type": "regular",
+     "round": null,
+     "winner": "Ellie",
+     "winner_points": 102.22,
+     "loser": "Uncle Ben",
+     "loser_points": 81.3,
+     "tie": false
+    },
+    {
+     "week": 11,
+     "type": "regular",
+     "round": null,
+     "winner": "Elisha",
+     "winner_points": 131.68,
+     "loser": "Matthew",
+     "loser_points": 96.32,
+     "tie": false
+    },
+    {
+     "week": 11,
+     "type": "regular",
+     "round": null,
+     "winner": "Emily",
+     "winner_points": 130.5,
+     "loser": "Daniel",
+     "loser_points": 122.84,
+     "tie": false
+    },
+    {
+     "week": 11,
+     "type": "regular",
+     "round": null,
+     "winner": "Elo",
+     "winner_points": 121.94,
+     "loser": "Ellie",
+     "loser_points": 97.7,
+     "tie": false
+    },
+    {
+     "week": 11,
+     "type": "regular",
+     "round": null,
+     "winner": "Uncle Ben",
+     "winner_points": 102.06,
+     "loser": "TassioSS",
+     "loser_points": 80.04,
+     "tie": false
+    },
+    {
+     "week": 12,
+     "type": "regular",
+     "round": null,
+     "winner": "Emily",
+     "winner_points": 173.56,
+     "loser": "TassioSS",
+     "loser_points": 103.14,
+     "tie": false
+    },
+    {
+     "week": 12,
+     "type": "regular",
+     "round": null,
+     "winner": "Elisha",
+     "winner_points": 142.52,
+     "loser": "Elo",
+     "loser_points": 110.58,
+     "tie": false
+    },
+    {
+     "week": 12,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 132.86,
+     "loser": "Uncle Ben",
+     "loser_points": 71.12,
+     "tie": false
+    },
+    {
+     "week": 12,
+     "type": "regular",
+     "round": null,
+     "winner": "Ellie",
+     "winner_points": 101.36,
+     "loser": "Matthew",
+     "loser_points": 95.52,
+     "tie": false
+    },
+    {
+     "week": 13,
+     "type": "regular",
+     "round": null,
+     "winner": "Daniel",
+     "winner_points": 153.38,
+     "loser": "Ellie",
+     "loser_points": 124.44,
+     "tie": false
+    },
+    {
+     "week": 13,
+     "type": "regular",
+     "round": null,
+     "winner": "Elo",
+     "winner_points": 128.04,
+     "loser": "Emily",
+     "loser_points": 126.14,
+     "tie": false
+    },
+    {
+     "week": 13,
+     "type": "regular",
+     "round": null,
+     "winner": "Uncle Ben",
+     "winner_points": 115.22,
+     "loser": "Matthew",
+     "loser_points": 104.4,
+     "tie": false
+    },
+    {
+     "week": 13,
+     "type": "regular",
+     "round": null,
+     "winner": "Elisha",
+     "winner_points": 79.12,
+     "loser": "TassioSS",
+     "loser_points": 78.94,
+     "tie": false
+    },
+    {
+     "week": 14,
+     "type": "regular",
+     "round": null,
+     "winner": "Elisha",
+     "winner_points": 154.94,
+     "loser": "Daniel",
+     "loser_points": 130.34,
+     "tie": false
+    },
+    {
+     "week": 14,
+     "type": "regular",
+     "round": null,
+     "winner": "Uncle Ben",
+     "winner_points": 129.56,
+     "loser": "Elo",
+     "loser_points": 78.1,
+     "tie": false
+    },
+    {
+     "week": 14,
+     "type": "regular",
+     "round": null,
+     "winner": "Emily",
+     "winner_points": 110.06,
+     "loser": "Matthew",
+     "loser_points": 102.04,
+     "tie": false
+    },
+    {
+     "week": 14,
+     "type": "regular",
+     "round": null,
+     "winner": "TassioSS",
+     "winner_points": 104.76,
+     "loser": "Ellie",
+     "loser_points": 104.6,
+     "tie": false
+    },
+    {
+     "week": 15,
+     "type": "toilet_bowl",
+     "round": "Toilet Bowl final",
+     "winner": "TassioSS",
+     "winner_points": 158.3,
+     "loser": "Matthew",
+     "loser_points": 134.4,
+     "tie": false
+    },
+    {
+     "week": 15,
+     "type": "playoff",
+     "round": "Quarterfinal",
+     "winner": "Emily",
+     "winner_points": 156.72,
+     "loser": "Ellie",
+     "loser_points": 144.2,
+     "tie": false
+    },
+    {
+     "week": 15,
+     "type": "playoff",
+     "round": "Quarterfinal",
+     "winner": "Uncle Ben",
+     "winner_points": 91.3,
+     "loser": "Elo",
+     "loser_points": 84.12,
+     "tie": false
+    },
+    {
+     "week": 16,
+     "type": "playoff",
+     "round": "Semifinal",
+     "winner": "Emily",
+     "winner_points": 204.66,
+     "loser": "Elisha",
+     "loser_points": 120.5,
+     "tie": false
+    },
+    {
+     "week": 16,
+     "type": "playoff",
+     "round": "Consolation",
+     "winner": "Elo",
+     "winner_points": 151.68,
+     "loser": "Ellie",
+     "loser_points": 115.1,
+     "tie": false
+    },
+    {
+     "week": 16,
+     "type": "playoff",
+     "round": "Semifinal",
+     "winner": "Daniel",
+     "winner_points": 128.3,
+     "loser": "Uncle Ben",
+     "loser_points": 109.7,
+     "tie": false
+    },
+    {
+     "week": 17,
+     "type": "playoff",
+     "round": "Championship",
+     "winner": "Emily",
+     "winner_points": 147.48,
+     "loser": "Daniel",
+     "loser_points": 136.14,
+     "tie": false
+    },
+    {
+     "week": 17,
+     "type": "playoff",
+     "round": "Third place",
+     "winner": "Uncle Ben",
+     "winner_points": 111.52,
+     "loser": "Elisha",
+     "loser_points": 82.68,
+     "tie": false
+    }
+   ],
+   "draft": {
+    "order": [
+     "Daniel",
+     "Ellie",
+     "Uncle Ben",
+     "Elisha",
+     "Elo",
+     "Matthew",
+     "TassioSS",
+     "Emily"
+    ],
+    "picks": [
+     {
+      "round": 1,
+      "pick": 1,
+      "manager": "Daniel",
+      "player": "Ja'Marr Chase",
+      "position": "WR",
+      "team": "CIN",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 2,
+      "manager": "Ellie",
+      "player": "Bijan Robinson",
+      "position": "RB",
+      "team": "ATL",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 3,
+      "manager": "Uncle Ben",
+      "player": "Saquon Barkley",
+      "position": "RB",
+      "team": "PHI",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 4,
+      "manager": "Elisha",
+      "player": "Jahmyr Gibbs",
+      "position": "RB",
+      "team": "DET",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 5,
+      "manager": "Elo",
+      "player": "Justin Jefferson",
+      "position": "WR",
+      "team": "MIN",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 6,
+      "manager": "Matthew",
+      "player": "CeeDee Lamb",
+      "position": "WR",
+      "team": "DAL",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 7,
+      "manager": "TassioSS",
+      "player": "Derrick Henry",
+      "position": "RB",
+      "team": "BAL",
+      "keeper": false
+     },
+     {
+      "round": 1,
+      "pick": 8,
+      "manager": "Emily",
+      "player": "Christian McCaffrey",
+      "position": "RB",
+      "team": "SF",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 9,
+      "manager": "Emily",
+      "player": "Chase Brown",
+      "position": "RB",
+      "team": "CIN",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 10,
+      "manager": "TassioSS",
+      "player": "Amon-Ra St. Brown",
+      "position": "WR",
+      "team": "DET",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 11,
+      "manager": "Matthew",
+      "player": "Puka Nacua",
+      "position": "WR",
+      "team": "LAR",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 12,
+      "manager": "Elo",
+      "player": "Ashton Jeanty",
+      "position": "RB",
+      "team": "LV",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 13,
+      "manager": "Elisha",
+      "player": "Josh Allen",
+      "position": "QB",
+      "team": "BUF",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 14,
+      "manager": "Uncle Ben",
+      "player": "Malik Nabers",
+      "position": "WR",
+      "team": "NYG",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 15,
+      "manager": "Ellie",
+      "player": "Nico Collins",
+      "position": "WR",
+      "team": "HOU",
+      "keeper": false
+     },
+     {
+      "round": 2,
+      "pick": 16,
+      "manager": "Daniel",
+      "player": "Drake London",
+      "position": "WR",
+      "team": "ATL",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 17,
+      "manager": "Daniel",
+      "player": "De'Von Achane",
+      "position": "RB",
+      "team": "MIA",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 18,
+      "manager": "Ellie",
+      "player": "Josh Jacobs",
+      "position": "RB",
+      "team": "GB",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 19,
+      "manager": "Uncle Ben",
+      "player": "Brock Bowers",
+      "position": "TE",
+      "team": "LV",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 20,
+      "manager": "Elisha",
+      "player": "Trey McBride",
+      "position": "TE",
+      "team": "ARI",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 21,
+      "manager": "Elo",
+      "player": "Jonathan Taylor",
+      "position": "RB",
+      "team": "IND",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 22,
+      "manager": "Matthew",
+      "player": "Lamar Jackson",
+      "position": "QB",
+      "team": "BAL",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 23,
+      "manager": "TassioSS",
+      "player": "Bucky Irving",
+      "position": "RB",
+      "team": "TB",
+      "keeper": false
+     },
+     {
+      "round": 3,
+      "pick": 24,
+      "manager": "Emily",
+      "player": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "team": "SEA",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 25,
+      "manager": "Emily",
+      "player": "Joe Burrow",
+      "position": "QB",
+      "team": "CIN",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 26,
+      "manager": "TassioSS",
+      "player": "Brian Thomas",
+      "position": "WR",
+      "team": "JAX",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 27,
+      "manager": "Matthew",
+      "player": "Kyren Williams",
+      "position": "RB",
+      "team": "LAR",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 28,
+      "manager": "Elo",
+      "player": "A.J. Brown",
+      "position": "WR",
+      "team": "NE",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 29,
+      "manager": "Elisha",
+      "player": "Ladd McConkey",
+      "position": "WR",
+      "team": "LAC",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 30,
+      "manager": "Uncle Ben",
+      "player": "Jayden Daniels",
+      "position": "QB",
+      "team": "WAS",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 31,
+      "manager": "Ellie",
+      "player": "Jalen Hurts",
+      "position": "QB",
+      "team": "PHI",
+      "keeper": false
+     },
+     {
+      "round": 4,
+      "pick": 32,
+      "manager": "Daniel",
+      "player": "Omarion Hampton",
+      "position": "RB",
+      "team": "LAC",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 33,
+      "manager": "Daniel",
+      "player": "Davante Adams",
+      "position": "WR",
+      "team": "LAR",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 34,
+      "manager": "Ellie",
+      "player": "Tee Higgins",
+      "position": "WR",
+      "team": "CIN",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 35,
+      "manager": "Uncle Ben",
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "team": "NO",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 36,
+      "manager": "Elisha",
+      "player": "Tyreek Hill",
+      "position": "WR",
+      "team": null,
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 37,
+      "manager": "Elo",
+      "player": "Patrick Mahomes",
+      "position": "QB",
+      "team": "KC",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 38,
+      "manager": "Matthew",
+      "player": "George Kittle",
+      "position": "TE",
+      "team": "SF",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 39,
+      "manager": "TassioSS",
+      "player": "Garrett Wilson",
+      "position": "WR",
+      "team": "NYJ",
+      "keeper": false
+     },
+     {
+      "round": 5,
+      "pick": 40,
+      "manager": "Emily",
+      "player": "Terry McLaurin",
+      "position": "WR",
+      "team": "WAS",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 41,
+      "manager": "Emily",
+      "player": "James Cook",
+      "position": "RB",
+      "team": "BUF",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 42,
+      "manager": "TassioSS",
+      "player": "Breece Hall",
+      "position": "RB",
+      "team": "NYJ",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 43,
+      "manager": "Matthew",
+      "player": "James Conner",
+      "position": "RB",
+      "team": "ARI",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 44,
+      "manager": "Elo",
+      "player": "Mike Evans",
+      "position": "WR",
+      "team": "SF",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 45,
+      "manager": "Elisha",
+      "player": "Kenneth Walker",
+      "position": "RB",
+      "team": "KC",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 46,
+      "manager": "Uncle Ben",
+      "player": "Marvin Harrison",
+      "position": "WR",
+      "team": "HOU",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 47,
+      "manager": "Ellie",
+      "player": "DK Metcalf",
+      "position": "WR",
+      "team": "PIT",
+      "keeper": false
+     },
+     {
+      "round": 6,
+      "pick": 48,
+      "manager": "Daniel",
+      "player": "TreVeyon Henderson",
+      "position": "RB",
+      "team": "NE",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 49,
+      "manager": "Daniel",
+      "player": "Tetairoa McMillan",
+      "position": "WR",
+      "team": "CAR",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 50,
+      "manager": "Ellie",
+      "player": "Courtland Sutton",
+      "position": "WR",
+      "team": "DEN",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 51,
+      "manager": "Uncle Ben",
+      "player": "Isiah Pacheco",
+      "position": "RB",
+      "team": "DET",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 52,
+      "manager": "Elisha",
+      "player": "Xavier Worthy",
+      "position": "WR",
+      "team": "KC",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 53,
+      "manager": "Elo",
+      "player": "George Pickens",
+      "position": "WR",
+      "team": "DAL",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 54,
+      "manager": "Matthew",
+      "player": "DJ Moore",
+      "position": "WR",
+      "team": "BUF",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 55,
+      "manager": "TassioSS",
+      "player": "Chuba Hubbard",
+      "position": "RB",
+      "team": "CAR",
+      "keeper": false
+     },
+     {
+      "round": 7,
+      "pick": 56,
+      "manager": "Emily",
+      "player": "Sam LaPorta",
+      "position": "TE",
+      "team": "DET",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 57,
+      "manager": "Emily",
+      "player": "D'Andre Swift",
+      "position": "RB",
+      "team": "CHI",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 58,
+      "manager": "TassioSS",
+      "player": "T.J. Hockenson",
+      "position": "TE",
+      "team": "MIN",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 59,
+      "manager": "Matthew",
+      "player": "David Montgomery",
+      "position": "RB",
+      "team": "HOU",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 60,
+      "manager": "Elo",
+      "player": "Travis Kelce",
+      "position": "TE",
+      "team": "KC",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 61,
+      "manager": "Elisha",
+      "player": "RJ Harvey",
+      "position": "RB",
+      "team": "DEN",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 62,
+      "manager": "Uncle Ben",
+      "player": "Zay Flowers",
+      "position": "WR",
+      "team": "BAL",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 63,
+      "manager": "Ellie",
+      "player": "Tony Pollard",
+      "position": "RB",
+      "team": "TEN",
+      "keeper": false
+     },
+     {
+      "round": 8,
+      "pick": 64,
+      "manager": "Daniel",
+      "player": "Jameson Williams",
+      "position": "WR",
+      "team": "DET",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 65,
+      "manager": "Daniel",
+      "player": "Emeka Egbuka",
+      "position": "WR",
+      "team": "TB",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 66,
+      "manager": "Ellie",
+      "player": "DeVonta Smith",
+      "position": "WR",
+      "team": "PHI",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 67,
+      "manager": "Uncle Ben",
+      "player": "Aaron Jones",
+      "position": "RB",
+      "team": "MIN",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 68,
+      "manager": "Elisha",
+      "player": "12530",
+      "position": null,
+      "team": null,
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 69,
+      "manager": "Elo",
+      "player": "Travis Etienne",
+      "position": "RB",
+      "team": "NO",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 70,
+      "manager": "Matthew",
+      "player": "Rashee Rice",
+      "position": "WR",
+      "team": "KC",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 71,
+      "manager": "TassioSS",
+      "player": "Calvin Ridley",
+      "position": "WR",
+      "team": "TEN",
+      "keeper": false
+     },
+     {
+      "round": 9,
+      "pick": 72,
+      "manager": "Emily",
+      "player": "Jerry Jeudy",
+      "position": "WR",
+      "team": "CLE",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 73,
+      "manager": "Emily",
+      "player": "Chris Olave",
+      "position": "WR",
+      "team": "NO",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 74,
+      "manager": "TassioSS",
+      "player": "Jaylen Waddle",
+      "position": "WR",
+      "team": "DEN",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 75,
+      "manager": "Matthew",
+      "player": "Deebo Samuel",
+      "position": "WR",
+      "team": "SF",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 76,
+      "manager": "Elo",
+      "player": "Rome Odunze",
+      "position": "WR",
+      "team": "CHI",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 77,
+      "manager": "Elisha",
+      "player": "Jakobi Meyers",
+      "position": "WR",
+      "team": "JAX",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 78,
+      "manager": "Uncle Ben",
+      "player": "Quinshon Judkins",
+      "position": "RB",
+      "team": "CLE",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 79,
+      "manager": "Ellie",
+      "player": "David Njoku",
+      "position": "TE",
+      "team": "LAC",
+      "keeper": false
+     },
+     {
+      "round": 10,
+      "pick": 80,
+      "manager": "Daniel",
+      "player": "Bo Nix",
+      "position": "QB",
+      "team": "DEN",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 81,
+      "manager": "Daniel",
+      "player": "Matthew Golden",
+      "position": "WR",
+      "team": "GB",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 82,
+      "manager": "Ellie",
+      "player": "Tyrone Tracy",
+      "position": "RB",
+      "team": "NYG",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 83,
+      "manager": "Uncle Ben",
+      "player": "Baker Mayfield",
+      "position": "QB",
+      "team": "TB",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 84,
+      "manager": "Elisha",
+      "player": "Ricky Pearsall",
+      "position": "WR",
+      "team": "SF",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 85,
+      "manager": "Elo",
+      "player": "Stefon Diggs",
+      "position": "WR",
+      "team": "WAS",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 86,
+      "manager": "Matthew",
+      "player": "Cooper Kupp",
+      "position": "WR",
+      "team": "SEA",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 87,
+      "manager": "TassioSS",
+      "player": "Jordan Addison",
+      "position": "WR",
+      "team": "MIN",
+      "keeper": false
+     },
+     {
+      "round": 11,
+      "pick": 88,
+      "manager": "Emily",
+      "player": "Michael Pittman",
+      "position": "WR",
+      "team": "PIT",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 89,
+      "manager": "Emily",
+      "player": "Brian Robinson",
+      "position": "RB",
+      "team": "ATL",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 90,
+      "manager": "TassioSS",
+      "player": "Justin Herbert",
+      "position": "QB",
+      "team": "LAC",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 91,
+      "manager": "Matthew",
+      "player": "Kaleb Johnson",
+      "position": "RB",
+      "team": "GB",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 92,
+      "manager": "Elo",
+      "player": "Khalil Shakir",
+      "position": "WR",
+      "team": "BUF",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 93,
+      "manager": "Elisha",
+      "player": "Jaylen Warren",
+      "position": "RB",
+      "team": "PIT",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 94,
+      "manager": "Uncle Ben",
+      "player": "Mark Andrews",
+      "position": "TE",
+      "team": "BAL",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 95,
+      "manager": "Ellie",
+      "player": "Chris Godwin",
+      "position": "WR",
+      "team": "TB",
+      "keeper": false
+     },
+     {
+      "round": 12,
+      "pick": 96,
+      "manager": "Daniel",
+      "player": "J.K. Dobbins",
+      "position": "RB",
+      "team": "DEN",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 97,
+      "manager": "Daniel",
+      "player": "Josh Downs",
+      "position": "WR",
+      "team": "IND",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 98,
+      "manager": "Ellie",
+      "player": "Jayden Higgins",
+      "position": "WR",
+      "team": "HOU",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 99,
+      "manager": "Uncle Ben",
+      "player": "Cam Skattebo",
+      "position": "RB",
+      "team": "NYG",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 100,
+      "manager": "Elisha",
+      "player": "Tyler Warren",
+      "position": "TE",
+      "team": "IND",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 101,
+      "manager": "Elo",
+      "player": "Zach Charbonnet",
+      "position": "RB",
+      "team": "SEA",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 102,
+      "manager": "Matthew",
+      "player": "Evan Engram",
+      "position": "TE",
+      "team": "DEN",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 103,
+      "manager": "TassioSS",
+      "player": "Michael Penix",
+      "position": "QB",
+      "team": "ATL",
+      "keeper": false
+     },
+     {
+      "round": 13,
+      "pick": 104,
+      "manager": "Emily",
+      "player": "Jordan Mason",
+      "position": "RB",
+      "team": "MIN",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 105,
+      "manager": "Emily",
+      "player": "Jared Goff",
+      "position": "QB",
+      "team": "DET",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 106,
+      "manager": "TassioSS",
+      "player": "Kyle Pitts",
+      "position": "TE",
+      "team": "ATL",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 107,
+      "manager": "Matthew",
+      "player": "Kyler Murray",
+      "position": "QB",
+      "team": "MIN",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 108,
+      "manager": "Elo",
+      "player": "C.J. Stroud",
+      "position": "QB",
+      "team": "HOU",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 109,
+      "manager": "Elisha",
+      "player": "Austin Ekeler",
+      "position": "RB",
+      "team": "WAS",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 110,
+      "manager": "Uncle Ben",
+      "player": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "team": "WAS",
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 111,
+      "manager": "Ellie",
+      "player": "Joe Mixon",
+      "position": "RB",
+      "team": null,
+      "keeper": false
+     },
+     {
+      "round": 14,
+      "pick": 112,
+      "manager": "Daniel",
+      "player": "Tucker Kraft",
+      "position": "TE",
+      "team": "GB",
+      "keeper": false
+     }
+    ]
+   }
+  }
+ ],
+ "power": [
+  {
+   "rank": 1,
+   "manager": "Daniel",
+   "move": 0,
+   "power": 97.5,
+   "ppg": 171.32,
+   "last3": 155.61,
+   "win_pct": 0.8,
+   "all_play_pct": 0.855,
+   "record": "4-1",
+   "scores": [
+    217.86,
+    171.88,
+    145.84,
+    177.82,
+    143.18
+   ],
+   "ranks": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "rank": 2,
+   "manager": "Matthew",
+   "move": 0,
+   "power": 96.6,
+   "ppg": 160.06,
+   "last3": 165.78,
+   "win_pct": 0.8,
+   "all_play_pct": 0.764,
+   "record": "4-1",
+   "scores": [
+    166.42,
+    136.56,
+    159.8,
+    140.48,
+    197.06
+   ],
+   "ranks": [
+    3,
+    2,
+    2,
+    2,
+    2
+   ]
+  },
+  {
+   "rank": 3,
+   "manager": "Elena",
+   "move": 2,
+   "power": 84.3,
+   "ppg": 146.16,
+   "last3": 158.33,
+   "win_pct": 0.6,
+   "all_play_pct": 0.6,
+   "record": "3-2",
+   "scores": [
+    115.0,
+    140.84,
+    182.34,
+    114.68,
+    177.96
+   ],
+   "ranks": [
+    10,
+    8,
+    3,
+    5,
+    3
+   ]
+  },
+  {
+   "rank": 4,
+   "manager": "Ellie",
+   "move": -1,
+   "power": 75.9,
+   "ppg": 132.53,
+   "last3": 138.8,
+   "win_pct": 0.6,
+   "all_play_pct": 0.509,
+   "record": "3-2",
+   "scores": [
+    90.9,
+    155.36,
+    151.42,
+    152.68,
+    112.3
+   ],
+   "ranks": [
+    12,
+    9,
+    4,
+    3,
+    4
+   ]
+  },
+  {
+   "rank": 5,
+   "manager": "Lytton",
+   "move": 2,
+   "power": 75.3,
+   "ppg": 140.0,
+   "last3": 155.4,
+   "win_pct": 0.4,
+   "all_play_pct": 0.491,
+   "record": "2-3",
+   "scores": [
+    111.12,
+    122.7,
+    126.6,
+    152.92,
+    186.68
+   ],
+   "ranks": [
+    6,
+    11,
+    9,
+    7,
+    5
+   ]
+  },
+  {
+   "rank": 6,
+   "manager": "Uncle Ben",
+   "move": 0,
+   "power": 74.3,
+   "ppg": 136.12,
+   "last3": 133.99,
+   "win_pct": 0.6,
+   "all_play_pct": 0.473,
+   "record": "3-2",
+   "scores": [
+    150.48,
+    128.14,
+    100.74,
+    158.2,
+    143.04
+   ],
+   "ranks": [
+    7,
+    5,
+    11,
+    6,
+    6
+   ]
+  },
+  {
+   "rank": 7,
+   "manager": "Devin",
+   "move": -3,
+   "power": 71.2,
+   "ppg": 131.42,
+   "last3": 128.58,
+   "win_pct": 0.6,
+   "all_play_pct": 0.418,
+   "record": "3-2",
+   "scores": [
+    131.6,
+    139.76,
+    116.1,
+    151.2,
+    118.44
+   ],
+   "ranks": [
+    9,
+    6,
+    7,
+    4,
+    7
+   ]
+  },
+  {
+   "rank": 8,
+   "manager": "Elisha",
+   "move": 0,
+   "power": 67.5,
+   "ppg": 131.83,
+   "last3": 132.19,
+   "win_pct": 0.4,
+   "all_play_pct": 0.436,
+   "record": "2-3",
+   "scores": [
+    96.38,
+    166.2,
+    136.36,
+    103.78,
+    156.42
+   ],
+   "ranks": [
+    11,
+    7,
+    8,
+    8,
+    8
+   ]
+  },
+  {
+   "rank": 9,
+   "manager": "Ellen",
+   "move": 0,
+   "power": 67.4,
+   "ppg": 146.99,
+   "last3": 139.97,
+   "win_pct": 0.2,
+   "all_play_pct": 0.491,
+   "record": "1-4",
+   "scores": [
+    200.68,
+    114.36,
+    135.52,
+    116.16,
+    168.22
+   ],
+   "ranks": [
+    2,
+    3,
+    5,
+    9,
+    9
+   ]
+  },
+  {
+   "rank": 10,
+   "manager": "Tim",
+   "move": 1,
+   "power": 63.0,
+   "ppg": 127.69,
+   "last3": 117.4,
+   "win_pct": 0.4,
+   "all_play_pct": 0.418,
+   "record": "2-3",
+   "scores": [
+    152.24,
+    134.0,
+    143.7,
+    89.96,
+    118.54
+   ],
+   "ranks": [
+    4,
+    4,
+    6,
+    11,
+    10
+   ]
+  },
+  {
+   "rank": 11,
+   "manager": "Emily",
+   "move": 1,
+   "power": 56.5,
+   "ppg": 115.66,
+   "last3": 115.44,
+   "win_pct": 0.4,
+   "all_play_pct": 0.218,
+   "record": "2-3",
+   "scores": [
+    136.68,
+    95.28,
+    112.98,
+    132.94,
+    100.4
+   ],
+   "ranks": [
+    8,
+    12,
+    12,
+    12,
+    11
+   ]
+  },
+  {
+   "rank": 12,
+   "manager": "Mitchel",
+   "move": -2,
+   "power": 55.0,
+   "ppg": 118.23,
+   "last3": 118.34,
+   "win_pct": 0.2,
+   "all_play_pct": 0.327,
+   "record": "1-4",
+   "scores": [
+    136.34,
+    99.8,
+    144.14,
+    134.58,
+    76.3
+   ],
+   "ranks": [
+    5,
+    10,
+    10,
+    10,
+    12
+   ]
+  }
+ ],
+ "playoff_odds": {
+  "Uncle Ben": {
+   "make": 0.633,
+   "bye": 0.084,
+   "first": 0.022
+  },
+  "Devin": {
+   "make": 0.509,
+   "bye": 0.046,
+   "first": 0.008
+  },
+  "Emily": {
+   "make": 0.068,
+   "bye": 0.003,
+   "first": 0.0
+  },
+  "Tim": {
+   "make": 0.214,
+   "bye": 0.006,
+   "first": 0.001
+  },
+  "Lytton": {
+   "make": 0.537,
+   "bye": 0.047,
+   "first": 0.006
+  },
+  "Ellie": {
+   "make": 0.528,
+   "bye": 0.057,
+   "first": 0.012
+  },
+  "Elisha": {
+   "make": 0.351,
+   "bye": 0.018,
+   "first": 0.003
+  },
+  "Ellen": {
+   "make": 0.342,
+   "bye": 0.017,
+   "first": 0.002
+  },
+  "Daniel": {
+   "make": 0.992,
+   "bye": 0.842,
+   "first": 0.596
+  },
+  "Mitchel": {
+   "make": 0.047,
+   "bye": 0.001,
+   "first": 0.001
+  },
+  "Elena": {
+   "make": 0.802,
+   "bye": 0.178,
+   "first": 0.044
+  },
+  "Matthew": {
+   "make": 0.978,
+   "bye": 0.703,
+   "first": 0.306
+  }
+ },
+ "last_week": {
+  "week": 5,
+  "top": [
+   {
+    "manager": "Matthew",
+    "points": 197.06
+   },
+   {
+    "manager": "Lytton",
+    "points": 186.68
+   },
+   {
+    "manager": "Elena",
+    "points": 177.96
+   }
+  ]
+ },
+ "finishes": {
+  "seasons": [
+   "2025"
+  ],
+  "rows": [
+   {
+    "manager": "Emily",
+    "seasons": {
+     "2025": {
+      "place": 1,
+      "title": true,
+      "turkey": false,
+      "playoffs": true
+     }
+    },
+    "avg": 1.0
+   },
+   {
+    "manager": "Daniel",
+    "seasons": {
+     "2025": {
+      "place": 2,
+      "title": false,
+      "turkey": false,
+      "playoffs": true
+     }
+    },
+    "avg": 2.0
+   },
+   {
+    "manager": "Uncle Ben",
+    "seasons": {
+     "2025": {
+      "place": 3,
+      "title": false,
+      "turkey": false,
+      "playoffs": true
+     }
+    },
+    "avg": 3.0
+   },
+   {
+    "manager": "Elisha",
+    "seasons": {
+     "2025": {
+      "place": 4,
+      "title": false,
+      "turkey": false,
+      "playoffs": true
+     }
+    },
+    "avg": 4.0
+   },
+   {
+    "manager": "Elo",
+    "seasons": {
+     "2025": {
+      "place": 5,
+      "title": false,
+      "turkey": false,
+      "playoffs": true
+     }
+    },
+    "avg": 5.0
+   },
+   {
+    "manager": "Ellie",
+    "seasons": {
+     "2025": {
+      "place": 6,
+      "title": false,
+      "turkey": false,
+      "playoffs": true
+     }
+    },
+    "avg": 6.0
+   },
+   {
+    "manager": "TassioSS",
+    "seasons": {
+     "2025": {
+      "place": 7,
+      "title": false,
+      "turkey": false,
+      "playoffs": false
+     }
+    },
+    "avg": 7.0
+   },
+   {
+    "manager": "Matthew",
+    "seasons": {
+     "2025": {
+      "place": 8,
+      "title": false,
+      "turkey": true,
+      "playoffs": false
+     }
+    },
+    "avg": 8.0
+   }
+  ]
+ },
+ "runs": [
+  {
+   "manager": "Daniel",
+   "games": 21,
+   "best": 9,
+   "worst": 1,
+   "now": "L1"
+  },
+  {
+   "manager": "Elisha",
+   "games": 21,
+   "best": 6,
+   "worst": 3,
+   "now": "W1"
+  },
+  {
+   "manager": "Emily",
+   "games": 22,
+   "best": 4,
+   "worst": 3,
+   "now": "W2"
+  },
+  {
+   "manager": "Uncle Ben",
+   "games": 22,
+   "best": 3,
+   "worst": 3,
+   "now": "W2"
+  },
+  {
+   "manager": "Matthew",
+   "games": 20,
+   "best": 3,
+   "worst": 6,
+   "now": "W3"
+  },
+  {
+   "manager": "Ellie",
+   "games": 21,
+   "best": 3,
+   "worst": 5,
+   "now": "L1"
+  },
+  {
+   "manager": "Devin",
+   "games": 5,
+   "best": 3,
+   "worst": 1,
+   "now": "L1"
+  },
+  {
+   "manager": "Elo",
+   "games": 16,
+   "best": 2,
+   "worst": 2,
+   "now": "W1"
+  },
+  {
+   "manager": "TassioSS",
+   "games": 15,
+   "best": 2,
+   "worst": 9,
+   "now": "W2"
+  },
+  {
+   "manager": "Elena",
+   "games": 5,
+   "best": 2,
+   "worst": 1,
+   "now": "W1"
+  },
+  {
+   "manager": "Tim",
+   "games": 5,
+   "best": 1,
+   "worst": 3,
+   "now": "W1"
+  },
+  {
+   "manager": "Ellen",
+   "games": 5,
+   "best": 1,
+   "worst": 4,
+   "now": "L4"
+  },
+  {
+   "manager": "Lytton",
+   "games": 5,
+   "best": 1,
+   "worst": 2,
+   "now": "L2"
+  },
+  {
+   "manager": "Mitchel",
+   "games": 5,
+   "best": 1,
+   "worst": 4,
+   "now": "L4"
+  }
+ ],
+ "rivals": [
+  {
+   "a": "Elisha",
+   "b": "Uncle Ben",
+   "games": 4,
+   "a_wins": 1,
+   "b_wins": 3,
+   "ties": 0,
+   "biggest": {
+    "winner": "Uncle Ben",
+    "margin": 54.42,
+    "season": "2026",
+    "week": 4
+   },
+   "avg_margin": 31.77
+  },
+  {
+   "a": "Ellie",
+   "b": "Emily",
+   "games": 3,
+   "a_wins": 0,
+   "b_wins": 3,
+   "ties": 0,
+   "biggest": {
+    "winner": "Emily",
+    "margin": 50.66,
+    "season": "2025",
+    "week": 9
+   },
+   "avg_margin": 24.59
+  },
+  {
+   "a": "Daniel",
+   "b": "Uncle Ben",
+   "games": 3,
+   "a_wins": 3,
+   "b_wins": 0,
+   "ties": 0,
+   "biggest": {
+    "winner": "Daniel",
+    "margin": 61.74,
+    "season": "2025",
+    "week": 12
+   },
+   "avg_margin": 28.64
+  },
+  {
+   "a": "Elo",
+   "b": "Uncle Ben",
+   "games": 3,
+   "a_wins": 0,
+   "b_wins": 3,
+   "ties": 0,
+   "biggest": {
+    "winner": "Uncle Ben",
+    "margin": 51.46,
+    "season": "2025",
+    "week": 14
+   },
+   "avg_margin": 22.18
+  },
+  {
+   "a": "Elisha",
+   "b": "Ellie",
+   "games": 3,
+   "a_wins": 1,
+   "b_wins": 2,
+   "ties": 0,
+   "biggest": {
+    "winner": "Ellie",
+    "margin": 30.74,
+    "season": "2025",
+    "week": 8
+   },
+   "avg_margin": 17.69
+  },
+  {
+   "a": "Matthew",
+   "b": "TassioSS",
+   "games": 3,
+   "a_wins": 2,
+   "b_wins": 1,
+   "ties": 0,
+   "biggest": {
+    "winner": "Matthew",
+    "margin": 33.9,
+    "season": "2025",
+    "week": 2
+   },
+   "avg_margin": 22.95
+  },
+  {
+   "a": "Ellie",
+   "b": "Uncle Ben",
+   "games": 3,
+   "a_wins": 2,
+   "b_wins": 1,
+   "ties": 0,
+   "biggest": {
+    "winner": "Ellie",
+    "margin": 72.42,
+    "season": "2025",
+    "week": 3
+   },
+   "avg_margin": 41.36
+  },
+  {
+   "a": "Elisha",
+   "b": "Emily",
+   "games": 3,
+   "a_wins": 2,
+   "b_wins": 1,
+   "ties": 0,
+   "biggest": {
+    "winner": "Emily",
+    "margin": 84.16,
+    "season": "2025",
+    "week": 16
+   },
+   "avg_margin": 44.11
+  },
+  {
+   "a": "Daniel",
+   "b": "Emily",
+   "games": 3,
+   "a_wins": 1,
+   "b_wins": 2,
+   "ties": 0,
+   "biggest": {
+    "winner": "Daniel",
+    "margin": 41.7,
+    "season": "2025",
+    "week": 4
+   },
+   "avg_margin": 20.23
+  },
+  {
+   "a": "Ellie",
+   "b": "Elo",
+   "games": 3,
+   "a_wins": 1,
+   "b_wins": 2,
+   "ties": 0,
+   "biggest": {
+    "winner": "Elo",
+    "margin": 36.58,
+    "season": "2025",
+    "week": 16
+   },
+   "avg_margin": 20.77
+  }
+ ],
+ "draft_history": {
+  "2025": [
+   "Daniel",
+   "Ellie",
+   "Uncle Ben",
+   "Elisha",
+   "Elo",
+   "Matthew",
+   "TassioSS",
+   "Emily"
+  ],
+  "2026": [
+   "Matthew",
+   "Elena",
+   "Emily",
+   "Devin",
+   "Elisha",
+   "Ellen",
+   "Daniel",
+   "Uncle Ben",
+   "Ellie",
+   "Lytton",
+   "Tim",
+   "Mitchel"
+  ]
+ },
+ "keepers": [
+  {
+   "manager": "Daniel",
+   "player": "DeVonta Smith",
+   "position": "WR",
+   "team": "PHI",
+   "drafted": "Round 4",
+   "years_kept": 0,
+   "cost": 3,
+   "status": "Round 3"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Jaylen Waddle",
+   "position": "WR",
+   "team": "DEN",
+   "drafted": "Round 5",
+   "years_kept": 0,
+   "cost": 4,
+   "status": "Round 4"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Rome Odunze",
+   "position": "WR",
+   "team": "CHI",
+   "drafted": "Round 6",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Jameis Winston",
+   "position": "QB",
+   "team": "NYG",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Christian Watson",
+   "position": "WR",
+   "team": "GB",
+   "drafted": "Round 7",
+   "years_kept": 0,
+   "cost": 6,
+   "status": "Round 6"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Rhamondre Stevenson",
+   "position": "RB",
+   "team": "NE",
+   "drafted": "Round 8",
+   "years_kept": 0,
+   "cost": 7,
+   "status": "Round 7"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Tyler Shough",
+   "position": "QB",
+   "team": "NO",
+   "drafted": "Round 9",
+   "years_kept": 0,
+   "cost": 8,
+   "status": "Round 8"
+  },
+  {
+   "manager": "Daniel",
+   "player": "George Kittle",
+   "position": "TE",
+   "team": "SF",
+   "drafted": "Round 10",
+   "years_kept": 0,
+   "cost": 9,
+   "status": "Round 9"
+  },
+  {
+   "manager": "Daniel",
+   "player": "KC Concepcion",
+   "position": "WR",
+   "team": "CLE",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Rachaad White",
+   "position": "RB",
+   "team": "WAS",
+   "drafted": "Round 13",
+   "years_kept": 0,
+   "cost": 12,
+   "status": "Round 12"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Emmett Johnson",
+   "position": "RB",
+   "team": "KC",
+   "drafted": "Round 14",
+   "years_kept": 0,
+   "cost": 13,
+   "status": "Round 13"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Alvin Kamara",
+   "position": "RB",
+   "team": "NO",
+   "drafted": "Round 15",
+   "years_kept": 0,
+   "cost": 14,
+   "status": "Round 14"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Lamar Jackson",
+   "position": "QB",
+   "team": "BAL",
+   "drafted": "Round 1",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Kenneth Walker",
+   "position": "RB",
+   "team": "KC",
+   "drafted": "Round 2",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Puka Nacua",
+   "position": "WR",
+   "team": "LAR",
+   "drafted": "Round 1",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Devin",
+   "player": "Justin Herbert",
+   "position": "QB",
+   "team": "LAC",
+   "drafted": "Round 3",
+   "years_kept": 0,
+   "cost": 2,
+   "status": "Round 2"
+  },
+  {
+   "manager": "Devin",
+   "player": "Kyren Williams",
+   "position": "RB",
+   "team": "LAR",
+   "drafted": "Round 4",
+   "years_kept": 0,
+   "cost": 3,
+   "status": "Round 3"
+  },
+  {
+   "manager": "Devin",
+   "player": "Jared Goff",
+   "position": "QB",
+   "team": "DET",
+   "drafted": "Round 5",
+   "years_kept": 0,
+   "cost": 4,
+   "status": "Round 4"
+  },
+  {
+   "manager": "Devin",
+   "player": "Michael Penix",
+   "position": "QB",
+   "team": "ATL",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Devin",
+   "player": "Roman Wilson",
+   "position": "WR",
+   "team": "PIT",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Devin",
+   "player": "Kimani Vidal",
+   "position": "RB",
+   "team": "LAC",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Devin",
+   "player": "Jadarian Price",
+   "position": "RB",
+   "team": "SEA",
+   "drafted": "Round 6",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Devin",
+   "player": "Tyler Higbee",
+   "position": "TE",
+   "team": "LAR",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Devin",
+   "player": "Brian Thomas",
+   "position": "WR",
+   "team": "JAX",
+   "drafted": "Round 7",
+   "years_kept": 0,
+   "cost": 6,
+   "status": "Round 6"
+  },
+  {
+   "manager": "Devin",
+   "player": "Quentin Johnston",
+   "position": "WR",
+   "team": "LAC",
+   "drafted": "Round 8",
+   "years_kept": 0,
+   "cost": 7,
+   "status": "Round 7"
+  },
+  {
+   "manager": "Devin",
+   "player": "Jordan Mason",
+   "position": "RB",
+   "team": "MIN",
+   "drafted": "Round 9",
+   "years_kept": 0,
+   "cost": 8,
+   "status": "Round 8"
+  },
+  {
+   "manager": "Devin",
+   "player": "Jake Ferguson",
+   "position": "TE",
+   "team": "DAL",
+   "drafted": "Round 10",
+   "years_kept": 0,
+   "cost": 9,
+   "status": "Round 9"
+  },
+  {
+   "manager": "Devin",
+   "player": "Jalen Coker",
+   "position": "WR",
+   "team": "CAR",
+   "drafted": "Round 12",
+   "years_kept": 0,
+   "cost": 11,
+   "status": "Round 11"
+  },
+  {
+   "manager": "Devin",
+   "player": "Keenan Allen",
+   "position": "WR",
+   "team": "IND",
+   "drafted": "Round 15",
+   "years_kept": 0,
+   "cost": 14,
+   "status": "Round 14"
+  },
+  {
+   "manager": "Devin",
+   "player": "Tank Dell",
+   "position": "WR",
+   "team": "HOU",
+   "drafted": "Round 15",
+   "years_kept": 0,
+   "cost": 14,
+   "status": "Round 14"
+  },
+  {
+   "manager": "Devin",
+   "player": "Brock Bowers",
+   "position": "TE",
+   "team": "LV",
+   "drafted": "Round 2",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Devin",
+   "player": "CeeDee Lamb",
+   "position": "WR",
+   "team": "DAL",
+   "drafted": "Round 2",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Elena",
+   "player": "Dak Prescott",
+   "position": "QB",
+   "team": "DAL",
+   "drafted": "Round 3",
+   "years_kept": 0,
+   "cost": 2,
+   "status": "Round 2"
+  },
+  {
+   "manager": "Elena",
+   "player": "Cam Skattebo",
+   "position": "RB",
+   "team": "NYG",
+   "drafted": "Round 4",
+   "years_kept": 0,
+   "cost": 3,
+   "status": "Round 3"
+  },
+  {
+   "manager": "Elena",
+   "player": "Matthew Stafford",
+   "position": "QB",
+   "team": "LAR",
+   "drafted": "Round 5",
+   "years_kept": 0,
+   "cost": 4,
+   "status": "Round 4"
+  },
+  {
+   "manager": "Elena",
+   "player": "Xavier Hutchinson",
+   "position": "WR",
+   "team": "HOU",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Elena",
+   "player": "Davante Adams",
+   "position": "WR",
+   "team": "LAR",
+   "drafted": "Round 6",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Elena",
+   "player": "Mike Gesicki",
+   "position": "TE",
+   "team": "CIN",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Elena",
+   "player": "Jameson Williams",
+   "position": "WR",
+   "team": "DET",
+   "drafted": "Round 6",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Elena",
+   "player": "Michael Mayer",
+   "position": "TE",
+   "team": "LV",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Elena",
+   "player": "Harold Fannin",
+   "position": "TE",
+   "team": "CLE",
+   "drafted": "Round 8",
+   "years_kept": 0,
+   "cost": 7,
+   "status": "Round 7"
+  },
+  {
+   "manager": "Elena",
+   "player": "Rico Dowdle",
+   "position": "RB",
+   "team": "PIT",
+   "drafted": "Round 9",
+   "years_kept": 0,
+   "cost": 8,
+   "status": "Round 8"
+  },
+  {
+   "manager": "Elena",
+   "player": "Jayden Reed",
+   "position": "WR",
+   "team": "GB",
+   "drafted": "Round 10",
+   "years_kept": 0,
+   "cost": 9,
+   "status": "Round 9"
+  },
+  {
+   "manager": "Elena",
+   "player": "Kenny Gainwell",
+   "position": "RB",
+   "team": "TB",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
+  },
+  {
+   "manager": "Elena",
+   "player": "Brian Robinson",
+   "position": "RB",
+   "team": "ATL",
+   "drafted": "Round 13",
+   "years_kept": 0,
+   "cost": 12,
+   "status": "Round 12"
+  },
+  {
+   "manager": "Elena",
+   "player": "Denzel Boston",
+   "position": "WR",
+   "team": "CLE",
+   "drafted": "Round 15",
+   "years_kept": 0,
+   "cost": 14,
+   "status": "Round 14"
+  },
+  {
+   "manager": "Elena",
+   "player": "George Pickens",
+   "position": "WR",
+   "team": "DAL",
+   "drafted": "Round 2",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Elena",
+   "player": "Jahmyr Gibbs",
+   "position": "RB",
+   "team": "DET",
+   "drafted": "Round 1",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Omarion Hampton",
+   "position": "RB",
+   "team": "LAC",
+   "drafted": "Round 3",
+   "years_kept": 0,
+   "cost": 2,
+   "status": "Round 2"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Derrick Henry",
+   "position": "RB",
+   "team": "BAL",
+   "drafted": "Round 3",
+   "years_kept": 0,
+   "cost": 2,
+   "status": "Round 2"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Rashee Rice",
+   "position": "WR",
+   "team": "KC",
+   "drafted": "Round 4",
+   "years_kept": 0,
+   "cost": 3,
+   "status": "Round 3"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Patrick Mahomes",
+   "position": "QB",
+   "team": "KC",
+   "drafted": "Round 5",
+   "years_kept": 0,
+   "cost": 4,
+   "status": "Round 4"
+  },
+  {
+   "manager": "Elisha",
+   "player": "D'Andre Swift",
+   "position": "RB",
+   "team": "CHI",
+   "drafted": "Round 6",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Chris Godwin",
+   "position": "WR",
+   "team": "TB",
+   "drafted": "Round 8",
+   "years_kept": 0,
+   "cost": 7,
+   "status": "Round 7"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Tony Pollard",
+   "position": "RB",
+   "team": "TEN",
+   "drafted": "Round 8",
+   "years_kept": 0,
+   "cost": 7,
+   "status": "Round 7"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Sam LaPorta",
+   "position": "TE",
+   "team": "DET",
+   "drafted": "Round 9",
+   "years_kept": 0,
+   "cost": 8,
+   "status": "Round 8"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Josh Downs",
+   "position": "WR",
+   "team": "IND",
+   "drafted": "Round 10",
+   "years_kept": 0,
+   "cost": 9,
+   "status": "Round 9"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Kyle Monangai",
+   "position": "RB",
+   "team": "CHI",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Jakobi Meyers",
+   "position": "WR",
+   "team": "JAX",
+   "drafted": "Round 12",
+   "years_kept": 0,
+   "cost": 11,
+   "status": "Round 11"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Jordyn Tyson",
+   "position": "WR",
+   "team": "NO",
+   "drafted": "Round 13",
+   "years_kept": 0,
+   "cost": 12,
+   "status": "Round 12"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Tyjae Spears",
+   "position": "RB",
+   "team": "TEN",
+   "drafted": "Round 14",
+   "years_kept": 0,
+   "cost": 13,
+   "status": "Round 13"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Drake Maye",
+   "position": "QB",
+   "team": "NE",
+   "drafted": "Round 2",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Ja'Marr Chase",
+   "position": "WR",
+   "team": "CIN",
+   "drafted": "Round 1",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Trevor Lawrence",
+   "position": "QB",
+   "team": "JAX",
+   "drafted": "Round 3",
+   "years_kept": 0,
+   "cost": 2,
+   "status": "Round 2"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Javonte Williams",
+   "position": "RB",
+   "team": "DAL",
+   "drafted": "Round 4",
+   "years_kept": 0,
+   "cost": 3,
+   "status": "Round 3"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Roschon Johnson",
+   "position": "RB",
+   "team": "CHI",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Emanuel Wilson",
+   "position": "RB",
+   "team": "SEA",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Devaughn Vele",
+   "position": "WR",
+   "team": "NO",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Tre' Harris",
+   "position": "WR",
+   "team": "LAC",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Mack Hollins",
+   "position": "WR",
+   "team": "NE",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Ellen",
+   "player": "David Montgomery",
+   "position": "RB",
+   "team": "HOU",
+   "drafted": "Round 6",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Jordan Love",
+   "position": "QB",
+   "team": "GB",
+   "drafted": "Round 7",
+   "years_kept": 0,
+   "cost": 6,
+   "status": "Round 6"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Brenton Strange",
+   "position": "TE",
+   "team": "JAX",
+   "drafted": "Round 8",
+   "years_kept": 0,
+   "cost": 7,
+   "status": "Round 7"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Jordan Addison",
+   "position": "WR",
+   "team": "MIN",
+   "drafted": "Round 8",
+   "years_kept": 0,
+   "cost": 7,
+   "status": "Round 7"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Alec Pierce",
+   "position": "WR",
+   "team": "IND",
+   "drafted": "Round 9",
+   "years_kept": 0,
+   "cost": 8,
+   "status": "Round 8"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Mark Andrews",
+   "position": "TE",
+   "team": "BAL",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Aaron Jones",
+   "position": "RB",
+   "team": "MIN",
+   "drafted": "Round 12",
+   "years_kept": 0,
+   "cost": 11,
+   "status": "Round 11"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Malik Washington",
+   "position": "WR",
+   "team": "MIA",
+   "drafted": "Round 13",
+   "years_kept": 0,
+   "cost": 12,
+   "status": "Round 12"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Justin Jefferson",
+   "position": "WR",
+   "team": "MIN",
+   "drafted": "Round 2",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Jaxon Smith-Njigba",
+   "position": "WR",
+   "team": "SEA",
+   "drafted": "Round 1",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Drake London",
+   "position": "WR",
+   "team": "ATL",
+   "drafted": "Round 3",
+   "years_kept": 0,
+   "cost": 2,
+   "status": "Round 2"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Colston Loveland",
+   "position": "TE",
+   "team": "CHI",
+   "drafted": "Round 4",
+   "years_kept": 0,
+   "cost": 3,
+   "status": "Round 3"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Garrett Wilson",
+   "position": "WR",
+   "team": "NYJ",
+   "drafted": "Round 5",
+   "years_kept": 0,
+   "cost": 4,
+   "status": "Round 4"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Tyreek Hill",
+   "position": "WR",
+   "team": null,
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Carnell Tate",
+   "position": "WR",
+   "team": "TEN",
+   "drafted": "Round 7",
+   "years_kept": 0,
+   "cost": 6,
+   "status": "Round 6"
+  },
+  {
+   "manager": "Ellie",
+   "player": "J.K. Dobbins",
+   "position": "RB",
+   "team": "DEN",
+   "drafted": "Round 8",
+   "years_kept": 0,
+   "cost": 7,
+   "status": "Round 7"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Baker Mayfield",
+   "position": "QB",
+   "team": "TB",
+   "drafted": "Round 9",
+   "years_kept": 0,
+   "cost": 8,
+   "status": "Round 8"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Dalton Kincaid",
+   "position": "TE",
+   "team": "BUF",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Deebo Samuel",
+   "position": "WR",
+   "team": "SF",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Chris Rodriguez",
+   "position": "RB",
+   "team": "JAX",
+   "drafted": "Round 12",
+   "years_kept": 0,
+   "cost": 11,
+   "status": "Round 11"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Cam Ward",
+   "position": "QB",
+   "team": "TEN",
+   "drafted": "Round 12",
+   "years_kept": 0,
+   "cost": 11,
+   "status": "Round 11"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Bryce Young",
+   "position": "QB",
+   "team": "CAR",
+   "drafted": "Round 12",
+   "years_kept": 0,
+   "cost": 11,
+   "status": "Round 11"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Jonah Coleman",
+   "position": "RB",
+   "team": "DEN",
+   "drafted": "Round 13",
+   "years_kept": 0,
+   "cost": 12,
+   "status": "Round 12"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Omar Cooper",
+   "position": "WR",
+   "team": "NYJ",
+   "drafted": "Round 14",
+   "years_kept": 0,
+   "cost": 13,
+   "status": "Round 13"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Zach Charbonnet",
+   "position": "RB",
+   "team": "SEA",
+   "drafted": "Round 14",
+   "years_kept": 0,
+   "cost": 13,
+   "status": "Round 13"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Joe Burrow",
+   "position": "QB",
+   "team": "CIN",
+   "drafted": "Round 2",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Jonathan Taylor",
+   "position": "RB",
+   "team": "IND",
+   "drafted": "Round 1",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Emily",
+   "player": "Caleb Williams",
+   "position": "QB",
+   "team": "CHI",
+   "drafted": "Round 3",
+   "years_kept": 0,
+   "cost": 2,
+   "status": "Round 2"
+  },
+  {
+   "manager": "Emily",
+   "player": "Tetairoa McMillan",
+   "position": "WR",
+   "team": "CAR",
+   "drafted": "Round 4",
+   "years_kept": 0,
+   "cost": 3,
+   "status": "Round 3"
+  },
+  {
+   "manager": "Emily",
+   "player": "Travis Etienne",
+   "position": "RB",
+   "team": "NO",
+   "drafted": "Round 5",
+   "years_kept": 0,
+   "cost": 4,
+   "status": "Round 4"
+  },
+  {
+   "manager": "Emily",
+   "player": "AJ Barner",
+   "position": "TE",
+   "team": "SEA",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Emily",
+   "player": "Jaylen Wright",
+   "position": "RB",
+   "team": "MIA",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Emily",
+   "player": "Pat Bryant",
+   "position": "WR",
+   "team": "DEN",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Emily",
+   "player": "Deshaun Watson",
+   "position": "QB",
+   "team": "CLE",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Emily",
+   "player": "Dalton Schultz",
+   "position": "TE",
+   "team": "HOU",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Emily",
+   "player": "Courtland Sutton",
+   "position": "WR",
+   "team": "DEN",
+   "drafted": "Round 6",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Emily",
+   "player": "Dontayvion Wicks",
+   "position": "WR",
+   "team": "PHI",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Emily",
+   "player": "Blake Corum",
+   "position": "RB",
+   "team": "LAR",
+   "drafted": "Round 10",
+   "years_kept": 0,
+   "cost": 9,
+   "status": "Round 9"
+  },
+  {
+   "manager": "Emily",
+   "player": "Xavier Worthy",
+   "position": "WR",
+   "team": "KC",
+   "drafted": "Round 10",
+   "years_kept": 0,
+   "cost": 9,
+   "status": "Round 9"
+  },
+  {
+   "manager": "Emily",
+   "player": "Tyler Allgeier",
+   "position": "RB",
+   "team": "ARI",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
+  },
+  {
+   "manager": "Emily",
+   "player": "Tre Tucker",
+   "position": "WR",
+   "team": "LV",
+   "drafted": "Round 15",
+   "years_kept": 0,
+   "cost": 14,
+   "status": "Round 14"
+  },
+  {
+   "manager": "Emily",
+   "player": "Kayshon Boutte",
+   "position": "WR",
+   "team": "HOU",
+   "drafted": "Round 15",
+   "years_kept": 0,
+   "cost": 14,
+   "status": "Round 14"
+  },
+  {
+   "manager": "Emily",
+   "player": "Jalen Hurts",
+   "position": "QB",
+   "team": "PHI",
+   "drafted": "Round 2",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Emily",
+   "player": "Bijan Robinson",
+   "position": "RB",
+   "team": "ATL",
+   "drafted": "Round 1",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Malik Nabers",
+   "position": "WR",
+   "team": "NYG",
+   "drafted": "Round 4",
+   "years_kept": 0,
+   "cost": 3,
+   "status": "Round 3"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Ladd McConkey",
+   "position": "WR",
+   "team": "LAC",
+   "drafted": "Round 5",
+   "years_kept": 0,
+   "cost": 4,
+   "status": "Round 4"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Emeka Egbuka",
+   "position": "WR",
+   "team": "TB",
+   "drafted": "Round 5",
+   "years_kept": 0,
+   "cost": 4,
+   "status": "Round 4"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Tyler Warren",
+   "position": "TE",
+   "team": "IND",
+   "drafted": "Round 5",
+   "years_kept": 0,
+   "cost": 4,
+   "status": "Round 4"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Brock Purdy",
+   "position": "QB",
+   "team": "SF",
+   "drafted": "Round 6",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Parker Washington",
+   "position": "WR",
+   "team": "JAX",
+   "drafted": "Round 7",
+   "years_kept": 0,
+   "cost": 6,
+   "status": "Round 6"
+  },
+  {
+   "manager": "Lytton",
+   "player": "DK Metcalf",
+   "position": "WR",
+   "team": "PIT",
+   "drafted": "Round 8",
+   "years_kept": 0,
+   "cost": 7,
+   "status": "Round 7"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Josh Jacobs",
+   "position": "RB",
+   "team": "GB",
+   "drafted": "Round 8",
+   "years_kept": 0,
+   "cost": 7,
+   "status": "Round 7"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Michael Pittman",
+   "position": "WR",
+   "team": "PIT",
+   "drafted": "Round 9",
+   "years_kept": 0,
+   "cost": 8,
+   "status": "Round 8"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Kyle Pitts",
+   "position": "TE",
+   "team": "ATL",
+   "drafted": "Round 9",
+   "years_kept": 0,
+   "cost": 8,
+   "status": "Round 8"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Malik Willis",
+   "position": "QB",
+   "team": "MIA",
+   "drafted": "Round 9",
+   "years_kept": 0,
+   "cost": 8,
+   "status": "Round 8"
+  },
+  {
+   "manager": "Lytton",
+   "player": "MarShawn Lloyd",
+   "position": "RB",
+   "team": "GB",
+   "drafted": "Round 13",
+   "years_kept": 0,
+   "cost": 12,
+   "status": "Round 12"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Keaton Mitchell",
+   "position": "RB",
+   "team": "LAC",
+   "drafted": "Round 14",
+   "years_kept": 0,
+   "cost": 13,
+   "status": "Round 13"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Braelon Allen",
+   "position": "RB",
+   "team": "NYJ",
+   "drafted": "Round 15",
+   "years_kept": 0,
+   "cost": 14,
+   "status": "Round 14"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Kirk Cousins",
+   "position": "QB",
+   "team": "LV",
+   "drafted": "Round 15",
+   "years_kept": 0,
+   "cost": 14,
+   "status": "Round 14"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Christian McCaffrey",
+   "position": "RB",
+   "team": "SF",
+   "drafted": "Round 1",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Chase Brown",
+   "position": "RB",
+   "team": "CIN",
+   "drafted": "Round 2",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Matthew",
+   "player": "A.J. Brown",
+   "position": "WR",
+   "team": "NE",
+   "drafted": "Round 3",
+   "years_kept": 0,
+   "cost": 2,
+   "status": "Round 2"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Zay Flowers",
+   "position": "WR",
+   "team": "BAL",
+   "drafted": "Round 4",
+   "years_kept": 0,
+   "cost": 3,
+   "status": "Round 3"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Jeremiyah Love",
+   "position": "RB",
+   "team": "ARI",
+   "drafted": "Round 5",
+   "years_kept": 0,
+   "cost": 4,
+   "status": "Round 4"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Keon Coleman",
+   "position": "WR",
+   "team": "BUF",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Ollie Gordon",
+   "position": "RB",
+   "team": "MIA",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Kenyon Sadiq",
+   "position": "TE",
+   "team": "NYJ",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Geno Smith",
+   "position": "QB",
+   "team": "NYJ",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Mike Evans",
+   "position": "WR",
+   "team": "SF",
+   "drafted": "Round 6",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Quinshon Judkins",
+   "position": "RB",
+   "team": "CLE",
+   "drafted": "Round 7",
+   "years_kept": 0,
+   "cost": 6,
+   "status": "Round 6"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Jaylen Warren",
+   "position": "RB",
+   "team": "PIT",
+   "drafted": "Round 7",
+   "years_kept": 0,
+   "cost": 6,
+   "status": "Round 6"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Wan'Dale Robinson",
+   "position": "WR",
+   "team": "TEN",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Khalil Shakir",
+   "position": "WR",
+   "team": "BUF",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Isaiah Likely",
+   "position": "TE",
+   "team": "NYG",
+   "drafted": "Round 12",
+   "years_kept": 0,
+   "cost": 11,
+   "status": "Round 11"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Jayden Daniels",
+   "position": "QB",
+   "team": "WAS",
+   "drafted": "Round 2",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Josh Allen",
+   "position": "QB",
+   "team": "BUF",
+   "drafted": "Round 1",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "Tee Higgins",
+   "position": "WR",
+   "team": "CIN",
+   "drafted": "Round 3",
+   "years_kept": 0,
+   "cost": 2,
+   "status": "Round 2"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "Bo Nix",
+   "position": "QB",
+   "team": "DEN",
+   "drafted": "Round 4",
+   "years_kept": 0,
+   "cost": 3,
+   "status": "Round 3"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "DJ Moore",
+   "position": "WR",
+   "team": "BUF",
+   "drafted": "Round 5",
+   "years_kept": 0,
+   "cost": 4,
+   "status": "Round 4"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "Tyson Bagent",
+   "position": "QB",
+   "team": "CHI",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "TreVeyon Henderson",
+   "position": "RB",
+   "team": "NE",
+   "drafted": "Round 6",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "Case Keenum",
+   "position": "QB",
+   "team": "CHI",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "Tucker Kraft",
+   "position": "TE",
+   "team": "GB",
+   "drafted": "Round 7",
+   "years_kept": 0,
+   "cost": 6,
+   "status": "Round 6"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "Michael Wilson",
+   "position": "WR",
+   "team": "ARI",
+   "drafted": "Round 8",
+   "years_kept": 0,
+   "cost": 7,
+   "status": "Round 7"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "Woody Marks",
+   "position": "RB",
+   "team": "HOU",
+   "drafted": "Round 10",
+   "years_kept": 0,
+   "cost": 9,
+   "status": "Round 9"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "Romeo Doubs",
+   "position": "WR",
+   "team": "NE",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "Rashid Shaheed",
+   "position": "WR",
+   "team": "SEA",
+   "drafted": "Round 12",
+   "years_kept": 0,
+   "cost": 11,
+   "status": "Round 11"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "Juwan Johnson",
+   "position": "TE",
+   "team": "NO",
+   "drafted": "Round 15",
+   "years_kept": 0,
+   "cost": 14,
+   "status": "Round 14"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "Ashton Jeanty",
+   "position": "RB",
+   "team": "LV",
+   "drafted": "Round 1",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Mitchel",
+   "player": "Trey McBride",
+   "position": "TE",
+   "team": "ARI",
+   "drafted": "Round 2",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Tim",
+   "player": "Chris Olave",
+   "position": "WR",
+   "team": "NO",
+   "drafted": "Round 4",
+   "years_kept": 0,
+   "cost": 3,
+   "status": "Round 3"
+  },
+  {
+   "manager": "Tim",
+   "player": "Terry McLaurin",
+   "position": "WR",
+   "team": "WAS",
+   "drafted": "Round 5",
+   "years_kept": 0,
+   "cost": 4,
+   "status": "Round 4"
+  },
+  {
+   "manager": "Tim",
+   "player": "Kalif Raymond",
+   "position": "WR",
+   "team": "CHI",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Tim",
+   "player": "James Conner",
+   "position": "RB",
+   "team": "ARI",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Tim",
+   "player": "T.J. Hockenson",
+   "position": "TE",
+   "team": "MIN",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Tim",
+   "player": "Breece Hall",
+   "position": "RB",
+   "team": "NYJ",
+   "drafted": "Round 6",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Tim",
+   "player": "Marvin Harrison",
+   "position": "WR",
+   "team": "HOU",
+   "drafted": "Round 7",
+   "years_kept": 0,
+   "cost": 6,
+   "status": "Round 6"
+  },
+  {
+   "manager": "Tim",
+   "player": "RJ Harvey",
+   "position": "RB",
+   "team": "DEN",
+   "drafted": "Round 7",
+   "years_kept": 0,
+   "cost": 6,
+   "status": "Round 6"
+  },
+  {
+   "manager": "Tim",
+   "player": "Kyler Murray",
+   "position": "QB",
+   "team": "MIN",
+   "drafted": "Round 7",
+   "years_kept": 0,
+   "cost": 6,
+   "status": "Round 6"
+  },
+  {
+   "manager": "Tim",
+   "player": "Makai Lemon",
+   "position": "WR",
+   "team": "PHI",
+   "drafted": "Round 9",
+   "years_kept": 0,
+   "cost": 8,
+   "status": "Round 8"
+  },
+  {
+   "manager": "Tim",
+   "player": "Daniel Jones",
+   "position": "QB",
+   "team": "IND",
+   "drafted": "Round 9",
+   "years_kept": 0,
+   "cost": 8,
+   "status": "Round 8"
+  },
+  {
+   "manager": "Tim",
+   "player": "Matthew Golden",
+   "position": "WR",
+   "team": "GB",
+   "drafted": "Round 10",
+   "years_kept": 0,
+   "cost": 9,
+   "status": "Round 9"
+  },
+  {
+   "manager": "Tim",
+   "player": "Travis Kelce",
+   "position": "TE",
+   "team": "KC",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
+  },
+  {
+   "manager": "Tim",
+   "player": "Jacory Croskey-Merritt",
+   "position": "RB",
+   "team": "WAS",
+   "drafted": "Round 12",
+   "years_kept": 0,
+   "cost": 11,
+   "status": "Round 11"
+  },
+  {
+   "manager": "Tim",
+   "player": "Jacoby Brissett",
+   "position": "QB",
+   "team": "ARI",
+   "drafted": "Round 13",
+   "years_kept": 0,
+   "cost": 12,
+   "status": "Round 12"
+  },
+  {
+   "manager": "Tim",
+   "player": "Saquon Barkley",
+   "position": "RB",
+   "team": "PHI",
+   "drafted": "Round 2",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Tim",
+   "player": "Amon-Ra St. Brown",
+   "position": "WR",
+   "team": "DET",
+   "drafted": "Round 1",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Nico Collins",
+   "position": "WR",
+   "team": "HOU",
+   "drafted": "Round 3",
+   "years_kept": 0,
+   "cost": 2,
+   "status": "Round 2"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Bucky Irving",
+   "position": "RB",
+   "team": "TB",
+   "drafted": "Round 4",
+   "years_kept": 0,
+   "cost": 3,
+   "status": "Round 3"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Isaiah Williams",
+   "position": "WR",
+   "team": "NYJ",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Luther Burden",
+   "position": "WR",
+   "team": "CHI",
+   "drafted": "Round 6",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Caleb Douglas",
+   "position": "WR",
+   "team": "MIA",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Pat Freiermuth",
+   "position": "TE",
+   "team": "PIT",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Bhayshul Tuten",
+   "position": "RB",
+   "team": "JAX",
+   "drafted": "Round 7",
+   "years_kept": 0,
+   "cost": 6,
+   "status": "Round 6"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Stefon Diggs",
+   "position": "WR",
+   "team": "WAS",
+   "drafted": "Round 8",
+   "years_kept": 0,
+   "cost": 7,
+   "status": "Round 7"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Chuba Hubbard",
+   "position": "RB",
+   "team": "CAR",
+   "drafted": "Round 9",
+   "years_kept": 0,
+   "cost": 8,
+   "status": "Round 8"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Sam Darnold",
+   "position": "QB",
+   "team": "SEA",
+   "drafted": "Round 10",
+   "years_kept": 0,
+   "cost": 9,
+   "status": "Round 9"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "C.J. Stroud",
+   "position": "QB",
+   "team": "HOU",
+   "drafted": "Round 10",
+   "years_kept": 0,
+   "cost": 9,
+   "status": "Round 9"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Dallas Goedert",
+   "position": "TE",
+   "team": "PHI",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Mike Washington",
+   "position": "RB",
+   "team": "LV",
+   "drafted": "Round 12",
+   "years_kept": 0,
+   "cost": 11,
+   "status": "Round 11"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Aaron Rodgers",
+   "position": "QB",
+   "team": "PIT",
+   "drafted": "Round 13",
+   "years_kept": 0,
+   "cost": 12,
+   "status": "Round 12"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "James Cook",
+   "position": "RB",
+   "team": "BUF",
+   "drafted": "Round 1",
+   "years_kept": 0,
+   "cost": null,
+   "status": "Not keepable"
+  }
+ ],
+ "config": {
+  "weekly_prize": 5,
+  "power_weights": {
+   "ppg": 2,
+   "last3": 4,
+   "win": 2,
+   "all_play": 2
   }
  }
 }
