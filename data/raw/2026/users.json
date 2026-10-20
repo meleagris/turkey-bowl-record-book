@@ -195,8 +195,17 @@
   "metadata": {
    "allow_pn": "on",
    "avatar": "https://sleepercdn.com/uploads/4ad20a309b1d35cd83badb9f584fda93.jpg",
+   "league_report_pn": "off",
    "mention_pn": "on",
-   "team_name": "All My Friends Are Dead"
+   "player_nickname_update": "off",
+   "team_name": "All My Friends Are Dead",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "off",
+   "transaction_waiver": "off",
+   "user_message_pn": "off"
   },
   "settings": null,
   "user_id": "1370631003596427264"
