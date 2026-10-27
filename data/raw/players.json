@@ -1,5 +1,5 @@
 {
- "fetched": 1792604649,
+ "fetched": 1793126065,
  "players": {
   "1": [
    "GJ Kinne",
@@ -83,7 +83,7 @@
    "Jake Haener",
    "QB",
    "NYG",
-   null
+   "Out"
   ],
   "10216": [
    "Kenny McIntosh",
@@ -104,7 +104,7 @@
    null
   ],
   "10219": [
-   "Chris Rodriguez",
+   "Chris Rodriguez Jr.",
    "RB",
    "JAX",
    null
@@ -173,7 +173,7 @@
    "Rashee Rice",
    "WR",
    "KC",
-   "Questionable"
+   "Out"
   ],
   "10230": [
    "Jalen Wayne",
@@ -374,7 +374,7 @@
    null
   ],
   "10857": [
-   "Stetson Bennett",
+   "Stetson Bennett IV",
    "QB",
    "LAR",
    null
@@ -431,7 +431,7 @@
    "Aidan O'Connell",
    "QB",
    "LV",
-   null
+   "Out"
   ],
   "10867": [
    "Jake Bobo",
@@ -527,7 +527,7 @@
    "Jalen Brooks",
    "WR",
    "ARI",
-   null
+   "Out"
   ],
   "1104": [
    "DeVier Posey",
@@ -848,7 +848,7 @@
    null
   ],
   "11186": [
-   "Carlos Washington",
+   "Carlos Washington Jr.",
    "RB",
    "MIA",
    null
@@ -887,7 +887,7 @@
    "Emari Demercado",
    "RB",
    "DAL",
-   null
+   "Out"
   ],
   "11201": [
    "Blake Whiteheart",
@@ -1055,7 +1055,7 @@
    "Ben VanSumeren",
    "RB",
    "KC",
-   null
+   "Out"
   ],
   "11276": [
    "Joseph Ngata",
@@ -1120,7 +1120,7 @@
   "11304": [
    "E.J. Jenkins",
    "TE",
-   "PHI",
+   "ATL",
    null
   ],
   "11306": [
@@ -1646,7 +1646,7 @@
    null
   ],
   "11559": [
-   "Michael Penix",
+   "Michael Penix Jr.",
    "QB",
    "ATL",
    null
@@ -1730,7 +1730,7 @@
    null
   ],
   "11573": [
-   "Frank Gore",
+   "Frank Gore Jr.",
    "RB",
    "BUF",
    null
@@ -1769,7 +1769,7 @@
    "Audric Estime",
    "RB",
    "CLE",
-   null
+   "Out"
   ],
   "1158": [
    "Kellen Moore",
@@ -1793,7 +1793,7 @@
    "Carson Steele",
    "RB",
    null,
-   "Out"
+   "IR"
   ],
   "11583": [
    "Jonathon Brooks",
@@ -1850,10 +1850,10 @@
    null
   ],
   "11592": [
-   "Erick All",
+   "Erick All Jr.",
    "TE",
    "CIN",
-   null
+   "Questionable"
   ],
   "11593": [
    "Brevyn Spann-Ford",
@@ -1883,7 +1883,7 @@
    "Theo Johnson",
    "TE",
    "NYG",
-   "Questionable"
+   "Out"
   ],
   "11598": [
    "Tanner McLachlan",
@@ -1901,7 +1901,7 @@
    "Ja'Tavion Sanders",
    "TE",
    "CAR",
-   null
+   "Out"
   ],
   "11601": [
    "Trey Knox",
@@ -2051,7 +2051,7 @@
    "Adonai Mitchell",
    "WR",
    "NYJ",
-   "Questionable"
+   null
   ],
   "11626": [
    "Xavier Legette",
@@ -2066,7 +2066,7 @@
    null
   ],
   "11628": [
-   "Marvin Harrison",
+   "Marvin Harrison Jr.",
    "WR",
    "HOU",
    null
@@ -2084,7 +2084,7 @@
    "IR"
   ],
   "11631": [
-   "Brian Thomas",
+   "Brian Thomas Jr.",
    "WR",
    "JAX",
    null
@@ -2153,7 +2153,7 @@
    "Jaylen Wright",
    "RB",
    "MIA",
-   null
+   "Questionable"
   ],
   "11644": [
    "Cody Schrader",
@@ -2171,7 +2171,7 @@
    "Jalen Coker",
    "WR",
    "CAR",
-   null
+   "Questionable"
   ],
   "11647": [
    "Kimani Vidal",
@@ -2228,10 +2228,10 @@
    null
   ],
   "11655": [
-   "Tyrone Tracy",
+   "Tyrone Tracy Jr.",
    "RB",
    "NYG",
-   null
+   "Out"
   ],
   "1166": [
    "Kirk Cousins",
@@ -2279,13 +2279,13 @@
    "Anthony Gould",
    "WR",
    "IND",
-   "Questionable"
+   "Out"
   ],
   "11773": [
    "Keilan Robinson",
    "RB",
    null,
-   "Questionable"
+   null
   ],
   "11783": [
    "Ryan Flournoy",
@@ -2788,7 +2788,7 @@
   "12062": [
    "Cam Grandy",
    "TE",
-   "MIN",
+   "CIN",
    null
   ],
   "12063": [
@@ -2831,7 +2831,7 @@
    "Treyton Welch",
    "TE",
    "NO",
-   null
+   "Out"
   ],
   "1208": [
    "Brian Quick",
@@ -3683,7 +3683,7 @@
    "Brashard Smith",
    "RB",
    "KC",
-   null
+   "IR"
   ],
   "12456": [
    "Player Invalid",
@@ -3694,7 +3694,7 @@
   "12457": [
    "Jaydon Blue",
    "RB",
-   null,
+   "PHI",
    null
   ],
   "12458": [
@@ -3716,7 +3716,7 @@
    null
   ],
   "12460": [
-   "Antwane Wells",
+   "Antwane Wells Jr.",
    "WR",
    "ATL",
    null
@@ -3773,7 +3773,7 @@
    "Dylan Sampson",
    "RB",
    "CLE",
-   "IR"
+   null
   ],
   "1247": [
    "Griff Whalen",
@@ -3785,7 +3785,7 @@
    "Riley Leonard",
    "QB",
    "IND",
-   null
+   "Out"
   ],
   "12471": [
    "DJ Giddens",
@@ -3809,10 +3809,10 @@
    "Woody Marks",
    "RB",
    "HOU",
-   null
+   "Questionable"
   ],
   "12475": [
-   "Ricky White",
+   "Ricky White III",
    "WR",
    "SEA",
    null
@@ -3827,7 +3827,7 @@
    "Kurtis Rourke",
    "QB",
    "SF",
-   null
+   "Out"
   ],
   "12478": [
    "Nick Nash",
@@ -3851,7 +3851,7 @@
    "Cam Skattebo",
    "RB",
    "NYG",
-   null
+   "Questionable"
   ],
   "12482": [
    "Savion Williams",
@@ -3932,7 +3932,7 @@
    null
   ],
   "12495": [
-   "Ollie Gordon",
+   "Ollie Gordon II",
    "RB",
    "MIA",
    null
@@ -3977,7 +3977,7 @@
    "Matthew Golden",
    "WR",
    "GB",
-   null
+   "Questionable"
   ],
   "12502": [
    "Gunnar Helm",
@@ -3995,7 +3995,7 @@
    "Kaleb Johnson",
    "RB",
    "GB",
-   null
+   "Out"
   ],
   "12505": [
    "Jalen Royals",
@@ -4004,7 +4004,7 @@
    null
   ],
   "12506": [
-   "Harold Fannin",
+   "Harold Fannin Jr.",
    "TE",
    "CLE",
    null
@@ -4037,19 +4037,19 @@
    "Will Howard",
    "QB",
    "PIT",
-   null
+   "Out"
   ],
   "12512": [
    "Quinshon Judkins",
    "RB",
    "CLE",
-   "Questionable"
+   null
   ],
   "12514": [
    "Emeka Egbuka",
    "WR",
    "TB",
-   null
+   "Out"
   ],
   "12515": [
    "Donovan Edwards",
@@ -4073,10 +4073,10 @@
    "Tyler Warren",
    "TE",
    "IND",
-   "Questionable"
+   "Out"
   ],
   "12519": [
-   "Luther Burden",
+   "Luther Burden III",
    "WR",
    "CHI",
    null
@@ -4091,7 +4091,7 @@
    "Elijah Arroyo",
    "TE",
    "SEA",
-   "Out"
+   "IR"
   ],
   "12522": [
    "Cam Ward",
@@ -4100,7 +4100,7 @@
    null
   ],
   "12523": [
-   "Jimmy Horn",
+   "Jimmy Horn Jr.",
    "WR",
    "CLE",
    null
@@ -4157,7 +4157,7 @@
    "Kyle Monangai",
    "RB",
    "CHI",
-   "Questionable"
+   "Out"
   ],
   "12535": [
    "Isaac TeSlaa",
@@ -4169,7 +4169,7 @@
    "Jaylin Noel",
    "WR",
    "HOU",
-   null
+   "Questionable"
   ],
   "12538": [
    "Brady Cook",
@@ -4190,13 +4190,13 @@
    null
   ],
   "12541": [
-   "Dont'e Thornton",
+   "Dont'e Thornton Jr.",
    "WR",
    "LV",
    "IR"
   ],
   "12542": [
-   "Efton Chism",
+   "Efton Chism III",
    "WR",
    "NE",
    null
@@ -4208,7 +4208,7 @@
    null
   ],
   "12544": [
-   "LeQuint Allen",
+   "LeQuint Allen Jr.",
    "RB",
    "JAX",
    null
@@ -4370,7 +4370,7 @@
    null
   ],
   "12715": [
-   "Thomas Fidone",
+   "Thomas Fidone II",
    "TE",
    "NYG",
    null
@@ -4517,7 +4517,7 @@
    "Max Brosmer",
    "QB",
    "MIN",
-   null
+   "Out"
   ],
   "12776": [
    "Connor Bazelak",
@@ -4712,7 +4712,7 @@
    null
   ],
   "12860": [
-   "Theo Wease",
+   "Theo Wease Jr.",
    "WR",
    "LAC",
    null
@@ -4760,7 +4760,7 @@
    null
   ],
   "12884": [
-   "Quincy Skinner",
+   "Quincy Skinner Jr.",
    "WR",
    "GB",
    null
@@ -4876,7 +4876,7 @@
   "12933": [
    "Caden Prieskorn",
    "TE",
-   null,
+   "CIN",
    null
   ],
   "12935": [
@@ -4889,10 +4889,10 @@
    "Jackson Meeks",
    "TE",
    "DET",
-   null
+   "Out"
   ],
   "12939": [
-   "Anthony Tyus",
+   "Anthony Tyus III",
    "RB",
    "CAR",
    null
@@ -5183,7 +5183,7 @@
    "Myles Price",
    "WR",
    "MIN",
-   null
+   "Questionable"
   ],
   "13079": [
    "Jahdae Walker",
@@ -5462,7 +5462,7 @@
    null
   ],
   "13199": [
-   "Montorie Foster",
+   "Montorie Foster Jr.",
    "WR",
    "SEA",
    null
@@ -5645,7 +5645,7 @@
    "Elijah Sarratt",
    "WR",
    "BAL",
-   null
+   "Out"
   ],
   "13269": [
    "Fernando Mendoza",
@@ -5669,7 +5669,7 @@
    "Carson Beck",
    "QB",
    "ARI",
-   null
+   "Out"
   ],
   "13273": [
    "Josh Cuevas",
@@ -5687,10 +5687,10 @@
    "Ty Simpson",
    "QB",
    "LAR",
-   null
+   "Out"
   ],
   "13276": [
-   "Omar Cooper",
+   "Omar Cooper Jr.",
    "WR",
    "NYJ",
    null
@@ -5699,13 +5699,13 @@
    "CJ Donaldson",
    "RB",
    "NO",
-   null
+   "Out"
   ],
   "13278": [
    "Max Klare",
    "TE",
    "LAR",
-   null
+   "Out"
   ],
   "13279": [
    "Carnell Tate",
@@ -5759,19 +5759,19 @@
    "Jeremiyah Love",
    "RB",
    "ARI",
-   "Questionable"
+   "Out"
   ],
   "13288": [
    "Nicholas Singleton",
    "RB",
    "TEN",
-   null
+   "Out"
   ],
   "13289": [
    "Drew Allar",
    "QB",
    "PIT",
-   null
+   "Out"
   ],
   "1329": [
    "Chris Hogan",
@@ -5813,13 +5813,13 @@
    "Behren Morton",
    "QB",
    "NE",
-   null
+   "Out"
   ],
   "13296": [
    "Caleb Douglas",
    "WR",
    "MIA",
-   "Questionable"
+   null
   ],
   "13297": [
    "Reggie Virgil",
@@ -5828,7 +5828,7 @@
    null
   ],
   "13298": [
-   "KC Concepcion",
+   "KC Concepcion Jr.",
    "WR",
    "CLE",
    null
@@ -5882,7 +5882,7 @@
    null
   ],
   "13305": [
-   "Mike Washington",
+   "Mike Washington Jr.",
    "RB",
    "LV",
    null
@@ -5891,13 +5891,13 @@
    "Taylen Green",
    "QB",
    "CLE",
-   null
+   "Out"
   ],
   "13307": [
    "Marlin Klein",
    "TE",
    "HOU",
-   null
+   "Out"
   ],
   "13308": [
    "Bauer Sharp",
@@ -5927,10 +5927,10 @@
    "Josh Kattus",
    "TE",
    "CIN",
-   null
+   "Out"
   ],
   "13313": [
-   "Emmanuel Henderson",
+   "Emmanuel Henderson Jr.",
    "WR",
    "SEA",
    null
@@ -5948,13 +5948,13 @@
    null
   ],
   "13316": [
-   "Eric Rivers",
+   "Eric Rivers Jr.",
    "WR",
    "TB",
    null
   ],
   "13317": [
-   "Ted Hurst",
+   "Ted Hurst III",
    "WR",
    "TB",
    null
@@ -6005,7 +6005,7 @@
    "Matt Hibner",
    "TE",
    "BAL",
-   "Questionable"
+   null
   ],
   "13325": [
    "Jordan Hudson",
@@ -6077,7 +6077,7 @@
    "Cole Payton",
    "QB",
    "PHI",
-   null
+   "Out"
   ],
   "13336": [
    "Dane Key",
@@ -6092,7 +6092,7 @@
    null
   ],
   "13338": [
-   "Kevin Coleman",
+   "Kevin Coleman Jr.",
    "WR",
    "MIA",
    null
@@ -6110,7 +6110,7 @@
    "IR"
   ],
   "13343": [
-   "Vinny Anthony",
+   "Vinny Anthony II",
    "WR",
    "ATL",
    null
@@ -6125,7 +6125,7 @@
    "Jonah Coleman",
    "RB",
    "DEN",
-   "IR"
+   null
   ],
   "13346": [
    "Denzel Boston",
@@ -6137,7 +6137,7 @@
    "Demond Claiborne",
    "RB",
    "MIN",
-   null
+   "Out"
   ],
   "13348": [
    "J'Mari Taylor",
@@ -6149,7 +6149,7 @@
    "Eli Stowers",
    "TE",
    "PHI",
-   "IR"
+   null
   ],
   "13350": [
    "Joe Fagnano",
@@ -6170,7 +6170,7 @@
    "Questionable"
   ],
   "13353": [
-   "Chris Brazzell",
+   "Chris Brazzell II",
    "WR",
    "CAR",
    "IR"
@@ -6215,7 +6215,7 @@
    "Brenen Thompson",
    "WR",
    "LAC",
-   null
+   "Questionable"
   ],
   "1339": [
    "Zach Ertz",
@@ -6239,7 +6239,7 @@
    "Justin Joly",
    "TE",
    "MIA",
-   "Questionable"
+   null
   ],
   "13401": [
    "Michael Trigg",
@@ -6263,7 +6263,7 @@
    "Garrett Nussmeier",
    "QB",
    "KC",
-   null
+   "Out"
   ],
   "13405": [
    "Kaytron Allen",
@@ -6323,7 +6323,7 @@
    "Haynes King",
    "QB",
    "CAR",
-   null
+   "Out"
   ],
   "13416": [
    "Roman Hemby",
@@ -6338,10 +6338,10 @@
    "IR"
   ],
   "13418": [
-   "Robert Henry",
+   "Robert Henry Jr.",
    "RB",
    "SEA",
-   null
+   "Out"
   ],
   "13419": [
    "Jaydn Ott",
@@ -6371,7 +6371,7 @@
    "Eli Heidenreich",
    "RB",
    "PIT",
-   null
+   "Out"
   ],
   "13424": [
    "Seth McGowan",
@@ -6485,7 +6485,7 @@
    "Colbie Young",
    "WR",
    "CIN",
-   "Questionable"
+   null
   ],
   "1348": [
    "Dustin Hopkins",
@@ -6563,7 +6563,7 @@
    "Dallen Bentley",
    "TE",
    "DEN",
-   null
+   "Out"
   ],
   "1358": [
    "Caleb Sturgis",
@@ -6574,7 +6574,7 @@
   "13580": [
    "Carsen Ryan",
    "TE",
-   "CLE",
+   null,
    null
   ],
   "13582": [
@@ -6617,7 +6617,7 @@
    "Jack Strand",
    "QB",
    "ATL",
-   null
+   "Out"
   ],
   "13603": [
    "Gregory Desrosiers",
@@ -6740,7 +6740,7 @@
    null
   ],
   "13670": [
-   "Harrison Wallace",
+   "Harrison Wallace III",
    "WR",
    "ARI",
    null
@@ -7072,7 +7072,7 @@
   "13846": [
    "Jack Velling",
    "TE",
-   "ATL",
+   null,
    null
   ],
   "13849": [
@@ -7406,7 +7406,7 @@
    null
   ],
   "14020": [
-   "Dean Patterson",
+   "Dean Patterson IV",
    "WR",
    "TB",
    null
@@ -7504,7 +7504,7 @@
   "14058": [
    "Malick Meiga",
    "WR",
-   null,
+   "SEA",
    null
   ],
   "1406": [
@@ -8327,7 +8327,7 @@
    "Case Keenum",
    "QB",
    "CHI",
-   null
+   "Out"
   ],
   "1738": [
    "Matt Blanchard",
@@ -9128,7 +9128,7 @@
    null
   ],
   "2078": [
-   "Odell Beckham",
+   "Odell Beckham Jr.",
    "WR",
    "MIN",
    null
@@ -9437,7 +9437,7 @@
    "Mike Evans",
    "WR",
    "SF",
-   "Questionable"
+   "Out"
   ],
   "2217": [
    "Robert Herron",
@@ -9752,7 +9752,7 @@
    null
   ],
   "2334": [
-   "Phillip Dorsett",
+   "Phillip Dorsett II",
    "WR",
    "LV",
    null
@@ -10793,7 +10793,7 @@
    "Raheem Mostert",
    "RB",
    null,
-   "Questionable"
+   null
   ],
   "275": [
    "Josh Scobee",
@@ -12089,7 +12089,7 @@
    "Tyreek Hill",
    "WR",
    null,
-   "Questionable"
+   ""
   ],
   "3327": [
    "Alex Collins",
@@ -13661,7 +13661,7 @@
    "Christian McCaffrey",
    "RB",
    "SF",
-   null
+   "Questionable"
   ],
   "4035": [
    "Alvin Kamara",
@@ -13676,7 +13676,7 @@
    null
   ],
   "4037": [
-   "Chris Godwin",
+   "Chris Godwin Jr.",
    "WR",
    "TB",
    null
@@ -14042,10 +14042,10 @@
    "Questionable"
   ],
   "4199": [
-   "Aaron Jones",
+   "Aaron Jones Sr.",
    "RB",
    "MIN",
-   null
+   "Questionable"
   ],
   "4200": [
    "DeAngelo Yancey",
@@ -15473,13 +15473,13 @@
    "Lamar Jackson",
    "QB",
    "BAL",
-   "Questionable"
+   "Out"
   ],
   "4892": [
    "Baker Mayfield",
    "QB",
    "TB",
-   "Questionable"
+   null
   ],
   "4895": [
    "Lamar Atkins",
@@ -15641,7 +15641,7 @@
    "Christian Kirk",
    "WR",
    "SF",
-   "IR"
+   null
   ],
   "4951": [
    "DJ Chark",
@@ -15689,7 +15689,7 @@
    "Calvin Ridley",
    "WR",
    "TEN",
-   null
+   "Out"
   ],
   "4983": [
    "DJ Moore",
@@ -15743,7 +15743,7 @@
    "Ian Thomas",
    "TE",
    "LV",
-   null
+   "Questionable"
   ],
   "4996": [
    "Kyle Lauletta",
@@ -17717,7 +17717,7 @@
    "T.J. Hockenson",
    "TE",
    "MIN",
-   "Questionable"
+   null
   ],
   "5845": [
    "Dwayne Haskins",
@@ -17753,7 +17753,7 @@
    "Drew Lock",
    "QB",
    "SEA",
-   null
+   "Out"
   ],
   "5857": [
    "Noah Fant",
@@ -17765,7 +17765,7 @@
    "A.J. Brown",
    "WR",
    "NE",
-   "Questionable"
+   null
   ],
   "586": [
    "Mike Kafka",
@@ -17792,7 +17792,7 @@
    null
   ],
   "5872": [
-   "Deebo Samuel",
+   "Deebo Samuel Sr.",
    "WR",
    "SF",
    "Out"
@@ -17849,7 +17849,7 @@
    "David Montgomery",
    "RB",
    "HOU",
-   "Questionable"
+   "Out"
   ],
   "59": [
    "Mason Crosby",
@@ -17894,7 +17894,7 @@
    null
   ],
   "5917": [
-   "Mecole Hardman",
+   "Mecole Hardman Jr.",
    "WR",
    "IND",
    null
@@ -18098,7 +18098,7 @@
    null
   ],
   "6011": [
-   "Gardner Minshew",
+   "Gardner Minshew II",
    "QB",
    "ARI",
    null
@@ -18410,10 +18410,10 @@
    null
   ],
   "6154": [
-   "David Sills",
+   "David Sills V",
    "WR",
    "TB",
-   "IR"
+   null
   ],
   "6155": [
    "Jaylen Smith",
@@ -18725,7 +18725,7 @@
    "Olamide Zaccheaus",
    "WR",
    "ATL",
-   null
+   "Out"
   ],
   "6279": [
    "Brandon Dillon",
@@ -19049,7 +19049,7 @@
    "Ashton Dulin",
    "WR",
    "IND",
-   "Questionable"
+   null
   ],
   "6428": [
    "Taylor Cornelius",
@@ -19874,7 +19874,7 @@
    null
   ],
   "6819": [
-   "Michael Pittman",
+   "Michael Pittman Jr.",
    "WR",
    "PIT",
    "IR"
@@ -19907,13 +19907,13 @@
    "Cole Kmet",
    "TE",
    "CHI",
-   null
+   "IR"
   ],
   "6828": [
    "AJ Dillon",
    "RB",
    "CAR",
-   "Questionable"
+   "Out"
   ],
   "6832": [
    "Kalija Lipscomb",
@@ -20579,7 +20579,7 @@
    "Darnell Mooney",
    "WR",
    "NYG",
-   "Questionable"
+   null
   ],
   "7091": [
    "Aaron Parker",
@@ -21503,13 +21503,13 @@
    "DeVonta Smith",
    "WR",
    "PHI",
-   null
+   "Out"
   ],
   "7526": [
    "Jaylen Waddle",
    "WR",
    "DEN",
-   null
+   "Questionable"
   ],
   "7527": [
    "Mac Jones",
@@ -21581,7 +21581,7 @@
    "Zach Wilson",
    "QB",
    "NO",
-   null
+   "Out"
   ],
   "7539": [
    "Gerrid Doaks",
@@ -21602,7 +21602,7 @@
    null
   ],
   "7543": [
-   "Travis Etienne",
+   "Travis Etienne Jr.",
    "RB",
    "NO",
    "IR"
@@ -21629,7 +21629,7 @@
    "Amon-Ra St. Brown",
    "WR",
    "DET",
-   null
+   "Questionable"
   ],
   "7548": [
    "Tyler Vaughns",
@@ -21662,7 +21662,7 @@
    null
   ],
   "7553": [
-   "Kyle Pitts",
+   "Kyle Pitts Sr.",
    "TE",
    "ATL",
    null
@@ -21749,7 +21749,7 @@
    "Kenny Gainwell",
    "RB",
    "TB",
-   null
+   "Questionable"
   ],
   "7568": [
    "Brevin Jordan",
@@ -21773,7 +21773,7 @@
    "Rashod Bateman",
    "WR",
    "BAL",
-   "Questionable"
+   null
   ],
   "7572": [
    "Kylin Hill",
@@ -21839,7 +21839,7 @@
    "Sam Ehlinger",
    "QB",
    "DEN",
-   null
+   "Out"
   ],
   "7584": [
    "Brennan Eagles",
@@ -21935,7 +21935,7 @@
    "Kylen Granson",
    "TE",
    "TEN",
-   null
+   "Out"
   ],
   "7603": [
    "Shi Smith",
@@ -22121,7 +22121,7 @@
    "Kene Nwangwu",
    "RB",
    "NYJ",
-   null
+   "Out"
   ],
   "7729": [
    "Dez Fitzpatrick",
@@ -22187,7 +22187,7 @@
    "Ben Skowronek",
    "WR",
    "PIT",
-   "Questionable"
+   "Out"
   ],
   "7771": [
    "Jake Funk",
@@ -22865,7 +22865,7 @@
    "Drake London",
    "WR",
    "ATL",
-   null
+   "Questionable"
   ],
   "8113": [
    "Player Invalid",
@@ -22886,7 +22886,7 @@
    null
   ],
   "8116": [
-   "Pierre Strong",
+   "Pierre Strong Jr.",
    "RB",
    "GB",
    null
@@ -22895,7 +22895,7 @@
    "Jalen Tolbert",
    "WR",
    "MIA",
-   null
+   "Out"
   ],
   "8118": [
    "David Bell",
@@ -22946,7 +22946,7 @@
    null
   ],
   "8125": [
-   "Calvin Austin",
+   "Calvin Austin III",
    "WR",
    "NYG",
    "IR"
@@ -22973,7 +22973,7 @@
    "Dameon Pierce",
    "RB",
    "PHI",
-   null
+   "Questionable"
   ],
   "8130": [
    "Trey McBride",
@@ -23024,7 +23024,7 @@
    null
   ],
   "8138": [
-   "James Cook",
+   "James Cook III",
    "RB",
    "BUF",
    null
@@ -23084,7 +23084,7 @@
    null
   ],
   "8147": [
-   "John Metchie",
+   "John Metchie III",
    "WR",
    "CAR",
    null
@@ -23108,7 +23108,7 @@
    null
   ],
   "8151": [
-   "Kenneth Walker",
+   "Kenneth Walker III",
    "RB",
    "KC",
    null
@@ -23126,16 +23126,16 @@
    null
   ],
   "8154": [
-   "Brian Robinson",
+   "Brian Robinson Jr.",
    "RB",
    "ATL",
-   null
+   "Out"
   ],
   "8155": [
    "Breece Hall",
    "RB",
    "NYJ",
-   "Questionable"
+   "Out"
   ],
   "8156": [
    "Player Invalid",
@@ -23267,7 +23267,7 @@
    "Grant Calcaterra",
    "TE",
    "PHI",
-   "IR"
+   null
   ],
   "8178": [
    "Braylon Sanders",
@@ -23465,7 +23465,7 @@
    "Tyler Badie",
    "RB",
    "DEN",
-   "Questionable"
+   "IR"
   ],
   "8209": [
    "Makai Polk",
@@ -23558,10 +23558,10 @@
    null
   ],
   "8223": [
-   "Velus Jones",
+   "Velus Jones Jr.",
    "WR",
    "SEA",
-   null
+   "Out"
   ],
   "8224": [
    "Cole Kelley",
@@ -23801,7 +23801,7 @@
    "Andy Dalton",
    "QB",
    "ATL",
-   null
+   "Out"
   ],
   "83": [
    "Tim Hightower",
@@ -23849,7 +23849,7 @@
    "Jordan Mason",
    "RB",
    "MIN",
-   "IR"
+   null
   ],
   "8409": [
    "Tyler Snead",
@@ -23879,7 +23879,7 @@
    "Britain Covey",
    "WR",
    "PHI",
-   null
+   "Out"
   ],
   "8416": [
    "Jalen Virgil",
@@ -24329,7 +24329,7 @@
    "Rashid Shaheed",
    "WR",
    "SEA",
-   null
+   "Out"
   ],
   "868": [
    "Virgil Green",
@@ -24749,7 +24749,7 @@
    "KaVontae Turpin",
    "WR",
    "DAL",
-   "Questionable"
+   "Out"
   ],
   "8921": [
    "Maurice Alexander",
@@ -24932,7 +24932,7 @@
    null
   ],
   "9229": [
-   "Anthony Richardson",
+   "Anthony Richardson Sr.",
    "QB",
    "IND",
    null
@@ -25061,7 +25061,7 @@
    "Dontayvion Wicks",
    "WR",
    "PHI",
-   null
+   "Out"
   ],
   "9487": [
    "Parker Washington",
@@ -25090,8 +25090,8 @@
   "9490": [
    "Tyler Scott",
    "WR",
-   "LV",
-   "Out"
+   null,
+   "Questionable"
   ],
   "9491": [
    "Ty Scott",
@@ -25112,7 +25112,7 @@
    null
   ],
   "9494": [
-   "Marvin Mims",
+   "Marvin Mims Jr.",
    "WR",
    "DEN",
    null
@@ -25163,7 +25163,7 @@
    "Tank Dell",
    "WR",
    "HOU",
-   "IR"
+   null
   ],
   "9503": [
    "Jacob Copeland",
@@ -25187,7 +25187,7 @@
    "Sean Tucker",
    "RB",
    "TB",
-   "Questionable"
+   null
   ],
   "9507": [
    "Titus Swen",
@@ -25199,7 +25199,7 @@
    "Tyjae Spears",
    "RB",
    "TEN",
-   "Questionable"
+   "Out"
   ],
   "9509": [
    "Bijan Robinson",
@@ -25301,7 +25301,7 @@
    "Zach Charbonnet",
    "RB",
    "SEA",
-   "PUP"
+   "Out"
   ],
   "9754": [
    "Quentin Johnston",
@@ -25319,7 +25319,7 @@
    "Jordan Addison",
    "WR",
    "MIN",
-   "Questionable"
+   null
   ],
   "9757": [
    "Kendre Miller",

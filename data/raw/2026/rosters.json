@@ -29,8 +29,8 @@
    "p_nick_9226": "A-Train",
    "p_nick_9484": "Kraft Mac",
    "p_nick_9500": "Downs Syndrome",
-   "record": "WLLLWL",
-   "streak": "1L"
+   "record": "WLLLWLL",
+   "streak": "2L"
   },
   "owner_id": "863269290936233984",
   "player_map": null,
@@ -40,7 +40,7 @@
    "12501",
    "12533",
    "13287",
-   "13294",
+   "13424",
    "1466",
    "3257",
    "3634",
@@ -55,33 +55,33 @@
   ],
   "reserve": [
    "12533",
-   "5844"
+   "13287"
   ],
   "roster_id": 1,
   "settings": {
-   "fpts": 752,
-   "fpts_against": 929,
-   "fpts_against_decimal": 84,
-   "fpts_decimal": 72,
-   "losses": 4,
-   "ppts": 851,
-   "ppts_decimal": 76,
+   "fpts": 882,
+   "fpts_against": 1061,
+   "fpts_against_decimal": 24,
+   "fpts_decimal": 46,
+   "losses": 5,
+   "ppts": 986,
+   "ppts_decimal": 44,
    "ties": 0,
    "total_moves": 0,
    "waiver_budget_used": 110,
-   "waiver_position": 7,
+   "waiver_position": 5,
    "wins": 2
   },
   "starters": [
    "5849",
    "8155",
-   "13287",
-   "7547",
+   "13424",
    "12501",
-   "8144",
-   "1466",
+   "7547",
+   "3634",
+   "5844",
    "12489",
-   "4866",
+   "1466",
    "3257"
   ],
   "taxi": null
@@ -93,18 +93,24 @@
   "metadata": {
    "p_nick_11566": "2nd year jixed",
    "p_nick_11581": "GB RB1c",
+   "p_nick_11583": "r u alive",
    "p_nick_11604": "Brock BowedOut",
-   "p_nick_11620": "Do something please",
+   "p_nick_11620": "Really good player !",
    "p_nick_12481": "Skiddydoo",
    "p_nick_12487": "His time is ending...",
+   "p_nick_12490": "Quasimodo",
    "p_nick_12512": "Quish boy",
    "p_nick_12545": "Taxi Squad for life",
+   "p_nick_13293": "please break out",
    "p_nick_13298": "The Immaculate Concepcion",
+   "p_nick_13301": "please break out",
    "p_nick_13417": "Preseason God is dead",
    "p_nick_2307": "ACTUAL last hope for the Commanders",
    "p_nick_3198": "King Henry",
    "p_nick_4217": "El Extremos Apretado",
    "p_nick_4881": "Super Lamario World",
+   "p_nick_4950": "WE CARRY THE FLAME",
+   "p_nick_5022": "See ya later, Goddard",
    "p_nick_6786": "Lamb Chop",
    "p_nick_7525": "Slim Reaper",
    "p_nick_7526": "Mr. Glass",
@@ -115,23 +121,23 @@
    "p_nick_9493": "War Daddy",
    "p_nick_9508": "In a committee with Tony Pollard. Yikes.",
    "p_nick_96": "Pushing Daisies",
-   "record": "WWWWLW",
-   "streak": "1W"
+   "record": "WWWWLWW",
+   "streak": "2W"
   },
   "owner_id": "1128738502994202624",
   "player_map": null,
   "players": [
-   "11583",
    "11620",
    "12490",
    "12545",
    "13293",
    "13298",
-   "13425",
+   "13301",
    "4217",
    "4881",
    "4950",
    "5022",
+   "7083",
    "7526",
    "7611",
    "8136",
@@ -140,35 +146,35 @@
    "9493"
   ],
   "reserve": [
-   "11583",
+   "4881",
    "4950"
   ],
   "roster_id": 2,
   "settings": {
-   "fpts": 1012,
-   "fpts_against": 836,
-   "fpts_against_decimal": 16,
-   "fpts_decimal": 34,
+   "fpts": 1165,
+   "fpts_against": 976,
+   "fpts_against_decimal": 6,
+   "fpts_decimal": 68,
    "losses": 1,
-   "ppts": 1070,
-   "ppts_decimal": 70,
+   "ppts": 1225,
+   "ppts_decimal": 4,
    "ties": 0,
    "total_moves": 0,
-   "waiver_budget_used": 97,
-   "waiver_position": 1,
-   "wins": 5
+   "waiver_budget_used": 100,
+   "waiver_position": 9,
+   "wins": 6
   },
   "starters": [
-   "4881",
+   "12545",
    "8151",
    "7611",
-   "7526",
    "11620",
+   "7526",
    "13298",
    "4217",
-   "9493",
    "8167",
-   "12545"
+   "9493",
+   "7083"
   ],
   "taxi": null
  },
@@ -198,9 +204,9 @@
    "p_nick_7564": "Prodigal Son",
    "p_nick_9493": "Pukei Pukei",
    "p_nick_9500": "Got the Downs",
-   "record": "LWLLWL",
+   "record": "LWLLWLW",
    "restrict_pn_scoring_starters_only": "on",
-   "streak": "1L"
+   "streak": "1W"
   },
   "owner_id": "1128743474339127296",
   "player_map": null,
@@ -208,6 +214,7 @@
    "10229",
    "10859",
    "11564",
+   "11625",
    "12507",
    "12534",
    "13281",
@@ -223,22 +230,23 @@
    "9508"
   ],
   "reserve": [
+   "12534",
    "13281"
   ],
   "roster_id": 3,
   "settings": {
-   "fpts": 782,
-   "fpts_against": 834,
-   "fpts_against_decimal": 32,
-   "fpts_decimal": 42,
+   "fpts": 923,
+   "fpts_against": 952,
+   "fpts_against_decimal": 66,
+   "fpts_decimal": 86,
    "losses": 4,
-   "ppts": 885,
-   "ppts_decimal": 76,
+   "ppts": 1027,
+   "ppts_decimal": 20,
    "ties": 0,
    "total_moves": 0,
    "waiver_budget_used": 142,
-   "waiver_position": 3,
-   "wins": 2
+   "waiver_position": 2,
+   "wins": 3
   },
   "starters": [
    "11564",
@@ -246,10 +254,10 @@
    "3198",
    "4037",
    "7564",
-   "9500",
-   "10859",
+   "5947",
+   "3214",
    "5967",
-   "10229",
+   "10859",
    "4046"
   ],
   "taxi": null
@@ -277,8 +285,8 @@
    "p_nick_8112": "\ud83e\udd70\ud83e\udd70\ud83e\udd70",
    "p_nick_8146": "Gumby",
    "p_nick_9228": "NFL YoungBoy",
-   "record": "LWWWLL",
-   "streak": "2L"
+   "record": "LWWWLLW",
+   "streak": "1W"
   },
   "owner_id": "1128748328549830656",
   "player_map": null,
@@ -302,23 +310,23 @@
    "9753"
   ],
   "reserve": [
-   "12469",
-   "13345"
+   "5872",
+   "5892"
   ],
   "roster_id": 4,
   "settings": {
-   "fpts": 799,
-   "fpts_against": 784,
-   "fpts_against_decimal": 16,
-   "fpts_decimal": 38,
+   "fpts": 944,
+   "fpts_against": 917,
+   "fpts_against_decimal": 44,
+   "fpts_decimal": 8,
    "losses": 3,
-   "ppts": 898,
-   "ppts_decimal": 38,
+   "ppts": 1062,
+   "ppts_decimal": 46,
    "ties": 0,
    "total_moves": 0,
    "waiver_budget_used": 40,
-   "waiver_position": 2,
-   "wins": 3
+   "waiver_position": 1,
+   "wins": 4
   },
   "starters": [
    "6770",
@@ -329,7 +337,7 @@
    "13279",
    "12517",
    "11834",
-   "13276",
+   "12469",
    "9228"
   ],
   "taxi": null
@@ -341,8 +349,8 @@
   "metadata": {
    "p_nick_4034": "dont disappoint me or ur ded",
    "p_nick_6770": "my king",
-   "record": "LWWLWL",
-   "streak": "1L"
+   "record": "LWWLWLL",
+   "streak": "2L"
   },
   "owner_id": "1128749478829289472",
   "player_map": null,
@@ -365,21 +373,22 @@
    "9482"
   ],
   "reserve": [
-   "10222"
+   "10222",
+   "2133"
   ],
   "roster_id": 5,
   "settings": {
-   "fpts": 807,
-   "fpts_against": 815,
-   "fpts_against_decimal": 40,
-   "fpts_decimal": 52,
-   "losses": 3,
-   "ppts": 905,
-   "ppts_decimal": 96,
+   "fpts": 955,
+   "fpts_against": 964,
+   "fpts_against_decimal": 32,
+   "fpts_decimal": 70,
+   "losses": 4,
+   "ppts": 1074,
+   "ppts_decimal": 34,
    "ties": 0,
    "total_moves": 0,
    "waiver_budget_used": 72,
-   "waiver_position": 5,
+   "waiver_position": 4,
    "wins": 3
   },
   "starters": [
@@ -389,8 +398,8 @@
    "8137",
    "8148",
    "13346",
-   "12506",
    "9482",
+   "12481",
    "12536",
    "421"
   ],
@@ -404,9 +413,9 @@
    "allow_pn_inactive_starters": "on",
    "allow_pn_player_injury_status": "on",
    "allow_pn_scoring": "off",
-   "record": "WLLLLW",
+   "record": "WLLLLWW",
    "restrict_pn_scoring_starters_only": "on",
-   "streak": "1W"
+   "streak": "2W"
   },
   "owner_id": "1128753211101409280",
   "player_map": null,
@@ -415,15 +424,15 @@
    "11610",
    "12522",
    "12718",
+   "4035",
    "4199",
    "4993",
    "6794",
    "6804",
-   "6865",
    "7523",
    "7588",
+   "8122",
    "8129",
-   "8135",
    "8142",
    "9480",
    "9488"
@@ -433,18 +442,18 @@
   ],
   "roster_id": 6,
   "settings": {
-   "fpts": 859,
-   "fpts_against": 905,
-   "fpts_against_decimal": 92,
-   "fpts_decimal": 72,
+   "fpts": 991,
+   "fpts_against": 1035,
+   "fpts_against_decimal": 66,
+   "fpts_decimal": 12,
    "losses": 4,
-   "ppts": 956,
-   "ppts_decimal": 42,
+   "ppts": 1102,
+   "ppts_decimal": 48,
    "ties": 0,
    "total_moves": 0,
-   "waiver_budget_used": 107,
+   "waiver_budget_used": 113,
    "waiver_position": 11,
-   "wins": 2
+   "wins": 3
   },
   "starters": [
    "6804",
@@ -453,10 +462,10 @@
    "9488",
    "6794",
    "11610",
-   "4993",
-   "8129",
+   "9480",
    "11435",
-   "12522"
+   "8122",
+   "7523"
   ],
   "taxi": null
  },
@@ -472,8 +481,8 @@
    "p_nick_7049": "vickings suck",
    "p_nick_7553": "arm pitt",
    "p_nick_9509": "my shayla",
-   "record": "LLLWWL",
-   "streak": "1L"
+   "record": "LLLWWLL",
+   "streak": "2L"
   },
   "owner_id": "1128779037096144896",
   "player_map": null,
@@ -489,27 +498,29 @@
    "4017",
    "5001",
    "5045",
+   "6865",
    "7543",
    "8132",
    "9486",
    "9509"
   ],
   "reserve": [
-   "7543"
+   "7543",
+   "9486"
   ],
   "roster_id": 7,
   "settings": {
-   "fpts": 718,
-   "fpts_against": 782,
-   "fpts_against_decimal": 62,
-   "fpts_decimal": 96,
-   "losses": 4,
-   "ppts": 812,
-   "ppts_decimal": 64,
+   "fpts": 837,
+   "fpts_against": 924,
+   "fpts_against_decimal": 6,
+   "fpts_decimal": 30,
+   "losses": 5,
+   "ppts": 953,
+   "ppts_decimal": 8,
    "ties": 0,
    "total_moves": 0,
    "waiver_budget_used": 95,
-   "waiver_position": 9,
+   "waiver_position": 6,
    "wins": 2
   },
   "starters": [
@@ -518,11 +529,11 @@
    "8132",
    "12526",
    "13274",
-   "10213",
+   "5045",
    "5001",
    "11624",
    "11586",
-   "2306"
+   "4017"
   ],
   "taxi": null
  },
@@ -533,10 +544,8 @@
   "metadata": {
    "p_nick_13294": "Zesty boy",
    "p_nick_4984": "All hail King Soji",
-   "p_nick_5859": "We\u2019re so back",
-   "p_nick_8228": "Pookie",
-   "record": "WLWWWW",
-   "streak": "4W"
+   "record": "WLWWWWL",
+   "streak": "1L"
   },
   "owner_id": "1128883781034704896",
   "player_map": null,
@@ -544,7 +553,7 @@
    "11566",
    "11637",
    "12512",
-   "12634",
+   "13150",
    "1373",
    "2216",
    "4454",
@@ -560,17 +569,17 @@
   "reserve": null,
   "roster_id": 8,
   "settings": {
-   "fpts": 936,
-   "fpts_against": 834,
-   "fpts_against_decimal": 82,
-   "fpts_decimal": 72,
-   "losses": 1,
-   "ppts": 1024,
-   "ppts_decimal": 50,
+   "fpts": 1069,
+   "fpts_against": 979,
+   "fpts_against_decimal": 52,
+   "fpts_decimal": 99,
+   "losses": 2,
+   "ppts": 1157,
+   "ppts_decimal": 78,
    "ties": 0,
    "total_moves": 0,
    "waiver_budget_used": 87,
-   "waiver_position": 10,
+   "waiver_position": 7,
    "wins": 5
   },
   "starters": [
@@ -583,7 +592,7 @@
    "8131",
    "5012",
    "12512",
-   "12634"
+   "13150"
   ],
   "taxi": null
  },
@@ -593,14 +602,13 @@
   "league_id": "1312615826846654464",
   "metadata": {
    "p_nick_8183": "GLOCK PURDY",
-   "record": "WLWLLW",
-   "streak": "1W"
+   "record": "WLWLLWW",
+   "streak": "2W"
   },
   "owner_id": "1133455527729745920",
   "player_map": null,
   "players": [
    "11576",
-   "11581",
    "11632",
    "11635",
    "1166",
@@ -609,8 +617,9 @@
    "4034",
    "5846",
    "5850",
-   "6819",
    "7553",
+   "8119",
+   "8135",
    "8161",
    "8183",
    "9224",
@@ -619,33 +628,33 @@
   ],
   "reserve": [
    "11635",
-   "6819"
+   "12518"
   ],
   "roster_id": 9,
   "settings": {
-   "fpts": 880,
-   "fpts_against": 868,
-   "fpts_against_decimal": 4,
-   "fpts_decimal": 99,
+   "fpts": 1029,
+   "fpts_against": 1016,
+   "fpts_against_decimal": 22,
+   "fpts_decimal": 92,
    "losses": 3,
-   "ppts": 1003,
-   "ppts_decimal": 8,
+   "ppts": 1163,
+   "ppts_decimal": 99,
    "ties": 0,
    "total_moves": 0,
    "waiver_budget_used": 104,
-   "waiver_position": 8,
-   "wins": 3
+   "waiver_position": 12,
+   "wins": 4
   },
   "starters": [
-   "8183",
-   "4034",
+   "8161",
+   "5850",
    "9224",
-   "11632",
    "12514",
+   "9756",
    "5846",
    "7553",
    "11576",
-   "5850",
+   "9487",
    "1166"
   ],
   "taxi": null
@@ -655,8 +664,8 @@
   "keepers": null,
   "league_id": "1312615826846654464",
   "metadata": {
-   "record": "WLLLLW",
-   "streak": "1W"
+   "record": "WLLLLWW",
+   "streak": "2W"
   },
   "owner_id": "1261876798367485952",
   "player_map": null,
@@ -667,6 +676,7 @@
    "12474",
    "12527",
    "12529",
+   "3271",
    "4983",
    "6801",
    "7002",
@@ -681,18 +691,18 @@
   ],
   "roster_id": 10,
   "settings": {
-   "fpts": 681,
-   "fpts_against": 682,
-   "fpts_against_decimal": 46,
-   "fpts_decimal": 74,
+   "fpts": 836,
+   "fpts_against": 796,
+   "fpts_against_decimal": 70,
+   "fpts_decimal": 10,
    "losses": 4,
-   "ppts": 798,
-   "ppts_decimal": 84,
+   "ppts": 953,
+   "ppts_decimal": 20,
    "ties": 0,
    "total_moves": 0,
-   "waiver_budget_used": 60,
-   "waiver_position": 6,
-   "wins": 2
+   "waiver_budget_used": 81,
+   "waiver_position": 10,
+   "wins": 3
   },
   "starters": [
    "11565",
@@ -717,27 +727,31 @@
    "p_nick_11584": "Bucee",
    "p_nick_12490": "Rooten Tooten",
    "p_nick_12514": "Amoeba",
-   "p_nick_12519": "Not so bad WR1",
+   "p_nick_12519": "Call me impressed!",
    "p_nick_13296": "Pay Day",
    "p_nick_2449": "Sorry, Terry",
    "p_nick_3214": "Duck Dynasty",
+   "p_nick_4147": "Chasing Chase",
    "p_nick_5022": "Jimmy's dog",
+   "p_nick_7525": "My new WR1? Eagles... yuk",
    "p_nick_7569": "Missed you, man!",
    "p_nick_7594": "Hubba Chuba",
+   "p_nick_7600": "Minecraft face",
    "p_nick_8138": "2000 yard season!",
    "p_nick_9486": "Donta Sticks",
    "p_nick_9504": "Butt crack",
-   "p_nick_9758": "His game is shrouded",
-   "record": "LWLWWW",
-   "streak": "3W"
+   "p_nick_96": "AaRp",
+   "p_nick_9758": "Contract year looking good",
+   "record": "LWLWWWL",
+   "streak": "1L"
   },
   "owner_id": "1269327736048984064",
   "player_map": null,
   "players": [
    "11584",
-   "11783",
    "12487",
    "12519",
+   "13294",
    "13296",
    "2449",
    "4147",
@@ -756,17 +770,17 @@
   ],
   "roster_id": 11,
   "settings": {
-   "fpts": 854,
-   "fpts_against": 757,
-   "fpts_against_decimal": 44,
-   "fpts_decimal": 10,
-   "losses": 2,
-   "ppts": 957,
-   "ppts_decimal": 36,
+   "fpts": 993,
+   "fpts_against": 910,
+   "fpts_against_decimal": 78,
+   "fpts_decimal": 99,
+   "losses": 3,
+   "ppts": 1104,
+   "ppts_decimal": 16,
    "ties": 0,
    "total_moves": 0,
    "waiver_budget_used": 125,
-   "waiver_position": 4,
+   "waiver_position": 3,
    "wins": 4
   },
   "starters": [
@@ -774,12 +788,12 @@
    "7594",
    "11584",
    "12519",
-   "7569",
-   "11783",
+   "2449",
+   "13294",
    "7600",
-   "7525",
-   "9501",
-   "9758"
+   "13296",
+   "8138",
+   "4943"
   ],
   "taxi": null
  },
@@ -791,9 +805,9 @@
    "allow_pn_inactive_starters": "on",
    "allow_pn_player_injury_status": "off",
    "allow_pn_scoring": "off",
-   "record": "LWWWLL",
+   "record": "LWWWLLL",
    "restrict_pn_scoring_starters_only": "off",
-   "streak": "2L"
+   "streak": "3L"
   },
   "owner_id": "1370631003596427264",
   "player_map": null,
@@ -816,22 +830,21 @@
    "9502"
   ],
   "reserve": [
-   "13286",
-   "9502"
+   "13286"
   ],
   "roster_id": 12,
   "settings": {
-   "fpts": 769,
-   "fpts_against": 825,
-   "fpts_against_decimal": 40,
-   "fpts_decimal": 96,
-   "losses": 3,
-   "ppts": 782,
-   "ppts_decimal": 36,
+   "fpts": 884,
+   "fpts_against": 979,
+   "fpts_against_decimal": 76,
+   "fpts_decimal": 20,
+   "losses": 4,
+   "ppts": 907,
+   "ppts_decimal": 0,
    "ties": 0,
    "total_moves": 0,
    "waiver_budget_used": 100,
-   "waiver_position": 12,
+   "waiver_position": 8,
    "wins": 3
   },
   "starters": [
@@ -843,7 +856,7 @@
    "8126",
    "11604",
    "1479",
-   "12482",
+   "8408",
    "3163"
   ],
   "taxi": null
