@@ -1,0 +1,1362 @@
+{
+ "league": "The Turkey Bowl",
+ "season": "2026",
+ "week": 8,
+ "next_week": 9,
+ "playoff_teams": 6,
+ "regular_complete": false,
+ "top": {
+  "manager": "Elisha",
+  "points": 180.4
+ },
+ "bottom": {
+  "manager": "Devin",
+  "points": 106.04
+ },
+ "blowout": {
+  "winner": "Mitchel",
+  "loser": "Ellen",
+  "winner_points": 177.26,
+  "loser_points": 134.82,
+  "margin": 42.44,
+  "type": "regular"
+ },
+ "close": {
+  "winner": "Ellie",
+  "loser": "Emily",
+  "winner_points": 115.74,
+  "loser_points": 110.54,
+  "margin": 5.199999999999989,
+  "type": "regular"
+ },
+ "upset": {
+  "winner": "Mitchel",
+  "loser": "Ellen",
+  "winner_rank": 11,
+  "loser_rank": 6,
+  "gap": 5
+ },
+ "potw": {
+  "player": "Joe Burrow",
+  "points": 42.48,
+  "manager": "Ellie"
+ },
+ "dud": {
+  "player": "Lamar Jackson",
+  "points": 0.0,
+  "manager": "Daniel"
+ },
+ "blunder": {
+  "manager": "Ellie",
+  "left": 24.29999999999997,
+  "best": {
+   "player": "Dalton Kincaid",
+   "points": 18.6
+  }
+ },
+ "results": [
+  {
+   "winner": "Daniel",
+   "loser": "Tim",
+   "winner_points": 143.5,
+   "loser_points": 116.56,
+   "margin": 26.939999999999998,
+   "type": "regular"
+  },
+  {
+   "winner": "Elisha",
+   "loser": "Elena",
+   "winner_points": 180.4,
+   "loser_points": 146.68,
+   "margin": 33.72,
+   "type": "regular"
+  },
+  {
+   "winner": "Ellie",
+   "loser": "Emily",
+   "winner_points": 115.74,
+   "loser_points": 110.54,
+   "margin": 5.199999999999989,
+   "type": "regular"
+  },
+  {
+   "winner": "Mitchel",
+   "loser": "Ellen",
+   "winner_points": 177.26,
+   "loser_points": 134.82,
+   "margin": 42.44,
+   "type": "regular"
+  },
+  {
+   "winner": "Uncle Ben",
+   "loser": "Matthew",
+   "winner_points": 159.7,
+   "loser_points": 118.24,
+   "margin": 41.459999999999994,
+   "type": "regular"
+  },
+  {
+   "winner": "Lytton",
+   "loser": "Devin",
+   "winner_points": 124.04,
+   "loser_points": 106.04,
+   "margin": 18.0,
+   "type": "regular"
+  }
+ ],
+ "teams": {
+  "Daniel": {
+   "record": "7-1",
+   "seed": 1,
+   "ppg": 163.65,
+   "power_rank": 1,
+   "move": 0,
+   "last3": 150.87,
+   "odds": 1.0,
+   "week": {
+    "points": 143.5,
+    "result": "W",
+    "opponent": "Tim",
+    "opp_points": 116.56,
+    "bench_left": 16.400000000000006,
+    "best_bench": {
+     "player": "Rome Odunze",
+     "points": 12.7
+    }
+   }
+  },
+  "Matthew": {
+   "record": "5-3",
+   "seed": 2,
+   "ppg": 148.53,
+   "power_rank": 4,
+   "move": -2,
+   "last3": 129.31,
+   "odds": 0.957,
+   "week": {
+    "points": 118.24,
+    "result": "L",
+    "opponent": "Uncle Ben",
+    "opp_points": 159.7,
+    "bench_left": 11.300000000000026,
+    "best_bench": {
+     "player": "Kyle Williams",
+     "points": 11.3
+    }
+   }
+  },
+  "Lytton": {
+   "record": "5-3",
+   "seed": 3,
+   "ppg": 144.25,
+   "power_rank": 3,
+   "move": 0,
+   "last3": 151.31,
+   "odds": 0.902,
+   "week": {
+    "points": 124.04,
+    "result": "W",
+    "opponent": "Devin",
+    "opp_points": 106.04,
+    "bench_left": 7.059999999999988,
+    "best_bench": {
+     "player": "Daniel Jones",
+     "points": 8.46
+    }
+   }
+  },
+  "Uncle Ben": {
+   "record": "5-3",
+   "seed": 4,
+   "ppg": 144.21,
+   "power_rank": 2,
+   "move": 2,
+   "last3": 157.7,
+   "odds": 0.933,
+   "week": {
+    "points": 159.7,
+    "result": "W",
+    "opponent": "Matthew",
+    "opp_points": 118.24,
+    "bench_left": 2.420000000000016,
+    "best_bench": {
+     "player": "Caleb Douglas",
+     "points": 8.3
+    }
+   }
+  },
+  "Ellie": {
+   "record": "5-3",
+   "seed": 5,
+   "ppg": 132.48,
+   "power_rank": 6,
+   "move": -1,
+   "last3": 132.39,
+   "odds": 0.709,
+   "week": {
+    "points": 115.74,
+    "result": "W",
+    "opponent": "Emily",
+    "opp_points": 110.54,
+    "bench_left": 24.29999999999997,
+    "best_bench": {
+     "player": "Dalton Kincaid",
+     "points": 18.6
+    }
+   }
+  },
+  "Elisha": {
+   "record": "4-4",
+   "seed": 6,
+   "ppg": 138.03,
+   "power_rank": 5,
+   "move": 3,
+   "last3": 148.37,
+   "odds": 0.611,
+   "week": {
+    "points": 180.4,
+    "result": "W",
+    "opponent": "Elena",
+    "opp_points": 146.68,
+    "bench_left": 12.300000000000011,
+    "best_bench": {
+     "player": "Josh Downs",
+     "points": 12.3
+    }
+   }
+  },
+  "Mitchel": {
+   "record": "4-4",
+   "seed": 7,
+   "ppg": 126.66,
+   "power_rank": 7,
+   "move": 4,
+   "last3": 140.7,
+   "odds": 0.275,
+   "week": {
+    "points": 177.26,
+    "result": "W",
+    "opponent": "Ellen",
+    "opp_points": 134.82,
+    "bench_left": 2.842170943040401e-14,
+    "best_bench": {
+     "player": "Tyler Higbee",
+     "points": 2.4
+    }
+   }
+  },
+  "Ellen": {
+   "record": "3-5",
+   "seed": 8,
+   "ppg": 140.74,
+   "power_rank": 9,
+   "move": -3,
+   "last3": 130.33,
+   "odds": 0.263,
+   "week": {
+    "points": 134.82,
+    "result": "L",
+    "opponent": "Mitchel",
+    "opp_points": 177.26,
+    "bench_left": 17.960000000000008,
+    "best_bench": {
+     "player": "Cam Ward",
+     "points": 26.26
+    }
+   }
+  },
+  "Elena": {
+   "record": "3-5",
+   "seed": 9,
+   "ppg": 137.8,
+   "power_rank": 8,
+   "move": -1,
+   "last3": 123.85,
+   "odds": 0.269,
+   "week": {
+    "points": 146.68,
+    "result": "L",
+    "opponent": "Elisha",
+    "opp_points": 180.4,
+    "bench_left": 4.299999999999983,
+    "best_bench": {
+     "player": "Treylon Burks",
+     "points": 11.1
+    }
+   }
+  },
+  "Devin": {
+   "record": "3-5",
+   "seed": 10,
+   "ppg": 123.78,
+   "power_rank": 11,
+   "move": -2,
+   "last3": 111.05,
+   "odds": 0.056,
+   "week": {
+    "points": 106.04,
+    "result": "L",
+    "opponent": "Lytton",
+    "opp_points": 124.04,
+    "bench_left": 11.379999999999981,
+    "best_bench": {
+     "player": "Justin Herbert",
+     "points": 9.78
+    }
+   }
+  },
+  "Tim": {
+   "record": "2-6",
+   "seed": 11,
+   "ppg": 124.88,
+   "power_rank": 10,
+   "move": 0,
+   "last3": 120.19,
+   "odds": 0.021,
+   "week": {
+    "points": 116.56,
+    "result": "L",
+    "opponent": "Daniel",
+    "opp_points": 143.5,
+    "bench_left": 4.11999999999999,
+    "best_bench": {
+     "player": "Tanner McKee",
+     "points": 7.98
+    }
+   }
+  },
+  "Emily": {
+   "record": "2-6",
+   "seed": 12,
+   "ppg": 118.48,
+   "power_rank": 12,
+   "move": 0,
+   "last3": 123.19,
+   "odds": 0.003,
+   "week": {
+    "points": 110.54,
+    "result": "L",
+    "opponent": "Ellie",
+    "opp_points": 115.74,
+    "bench_left": 12.699999999999974,
+    "best_bench": {
+     "player": "Courtland Sutton",
+     "points": 9.3
+    }
+   }
+  }
+ },
+ "h2h": {
+  "Daniel|Matthew": [
+   2,
+   0,
+   0
+  ],
+  "Daniel|Lytton": [
+   1,
+   0,
+   0
+  ],
+  "Daniel|Uncle Ben": [
+   4,
+   0,
+   0
+  ],
+  "Daniel|Ellie": [
+   3,
+   0,
+   0
+  ],
+  "Daniel|Elisha": [
+   1,
+   2,
+   0
+  ],
+  "Daniel|Mitchel": [
+   1,
+   0,
+   0
+  ],
+  "Daniel|Ellen": [
+   1,
+   0,
+   0
+  ],
+  "Daniel|Devin": [
+   1,
+   0,
+   0
+  ],
+  "Daniel|Tim": [
+   1,
+   0,
+   0
+  ],
+  "Daniel|Emily": [
+   1,
+   2,
+   0
+  ],
+  "Matthew|Daniel": [
+   0,
+   2,
+   0
+  ],
+  "Matthew|Lytton": [
+   1,
+   0,
+   0
+  ],
+  "Matthew|Uncle Ben": [
+   0,
+   3,
+   0
+  ],
+  "Matthew|Ellie": [
+   1,
+   2,
+   0
+  ],
+  "Matthew|Elisha": [
+   1,
+   2,
+   0
+  ],
+  "Matthew|Mitchel": [
+   1,
+   0,
+   0
+  ],
+  "Matthew|Ellen": [
+   1,
+   0,
+   0
+  ],
+  "Matthew|Elena": [
+   1,
+   0,
+   0
+  ],
+  "Matthew|Devin": [
+   0,
+   1,
+   0
+  ],
+  "Matthew|Emily": [
+   0,
+   2,
+   0
+  ],
+  "Lytton|Daniel": [
+   0,
+   1,
+   0
+  ],
+  "Lytton|Matthew": [
+   0,
+   1,
+   0
+  ],
+  "Lytton|Uncle Ben": [
+   1,
+   0,
+   0
+  ],
+  "Lytton|Ellie": [
+   0,
+   1,
+   0
+  ],
+  "Lytton|Elisha": [
+   1,
+   0,
+   0
+  ],
+  "Lytton|Elena": [
+   1,
+   0,
+   0
+  ],
+  "Lytton|Devin": [
+   1,
+   0,
+   0
+  ],
+  "Lytton|Emily": [
+   1,
+   0,
+   0
+  ],
+  "Uncle Ben|Daniel": [
+   0,
+   4,
+   0
+  ],
+  "Uncle Ben|Matthew": [
+   3,
+   0,
+   0
+  ],
+  "Uncle Ben|Lytton": [
+   0,
+   1,
+   0
+  ],
+  "Uncle Ben|Ellie": [
+   1,
+   2,
+   0
+  ],
+  "Uncle Ben|Elisha": [
+   3,
+   1,
+   0
+  ],
+  "Uncle Ben|Mitchel": [
+   1,
+   0,
+   0
+  ],
+  "Uncle Ben|Ellen": [
+   0,
+   1,
+   0
+  ],
+  "Uncle Ben|Tim": [
+   1,
+   0,
+   0
+  ],
+  "Uncle Ben|Emily": [
+   1,
+   1,
+   0
+  ],
+  "Ellie|Daniel": [
+   0,
+   3,
+   0
+  ],
+  "Ellie|Matthew": [
+   2,
+   1,
+   0
+  ],
+  "Ellie|Lytton": [
+   1,
+   0,
+   0
+  ],
+  "Ellie|Uncle Ben": [
+   2,
+   1,
+   0
+  ],
+  "Ellie|Elisha": [
+   2,
+   1,
+   0
+  ],
+  "Ellie|Mitchel": [
+   0,
+   1,
+   0
+  ],
+  "Ellie|Tim": [
+   1,
+   0,
+   0
+  ],
+  "Ellie|Emily": [
+   1,
+   3,
+   0
+  ],
+  "Elisha|Daniel": [
+   2,
+   1,
+   0
+  ],
+  "Elisha|Matthew": [
+   2,
+   1,
+   0
+  ],
+  "Elisha|Lytton": [
+   0,
+   1,
+   0
+  ],
+  "Elisha|Uncle Ben": [
+   1,
+   3,
+   0
+  ],
+  "Elisha|Ellie": [
+   1,
+   2,
+   0
+  ],
+  "Elisha|Elena": [
+   1,
+   0,
+   0
+  ],
+  "Elisha|Tim": [
+   1,
+   0,
+   0
+  ],
+  "Elisha|Emily": [
+   3,
+   1,
+   0
+  ],
+  "Mitchel|Daniel": [
+   0,
+   1,
+   0
+  ],
+  "Mitchel|Matthew": [
+   0,
+   1,
+   0
+  ],
+  "Mitchel|Uncle Ben": [
+   0,
+   1,
+   0
+  ],
+  "Mitchel|Ellie": [
+   1,
+   0,
+   0
+  ],
+  "Mitchel|Ellen": [
+   1,
+   0,
+   0
+  ],
+  "Mitchel|Elena": [
+   1,
+   0,
+   0
+  ],
+  "Mitchel|Devin": [
+   1,
+   0,
+   0
+  ],
+  "Mitchel|Emily": [
+   0,
+   1,
+   0
+  ],
+  "Ellen|Daniel": [
+   0,
+   1,
+   0
+  ],
+  "Ellen|Matthew": [
+   0,
+   1,
+   0
+  ],
+  "Ellen|Uncle Ben": [
+   1,
+   0,
+   0
+  ],
+  "Ellen|Mitchel": [
+   0,
+   1,
+   0
+  ],
+  "Ellen|Elena": [
+   0,
+   1,
+   0
+  ],
+  "Ellen|Devin": [
+   1,
+   0,
+   0
+  ],
+  "Ellen|Tim": [
+   1,
+   0,
+   0
+  ],
+  "Ellen|Emily": [
+   0,
+   1,
+   0
+  ],
+  "Elena|Matthew": [
+   0,
+   1,
+   0
+  ],
+  "Elena|Lytton": [
+   0,
+   1,
+   0
+  ],
+  "Elena|Elisha": [
+   0,
+   1,
+   0
+  ],
+  "Elena|Mitchel": [
+   0,
+   1,
+   0
+  ],
+  "Elena|Ellen": [
+   1,
+   0,
+   0
+  ],
+  "Elena|Devin": [
+   0,
+   1,
+   0
+  ],
+  "Elena|Tim": [
+   1,
+   0,
+   0
+  ],
+  "Elena|Emily": [
+   1,
+   0,
+   0
+  ],
+  "Devin|Daniel": [
+   0,
+   1,
+   0
+  ],
+  "Devin|Matthew": [
+   1,
+   0,
+   0
+  ],
+  "Devin|Lytton": [
+   0,
+   1,
+   0
+  ],
+  "Devin|Mitchel": [
+   0,
+   1,
+   0
+  ],
+  "Devin|Ellen": [
+   0,
+   1,
+   0
+  ],
+  "Devin|Elena": [
+   1,
+   0,
+   0
+  ],
+  "Devin|Tim": [
+   0,
+   1,
+   0
+  ],
+  "Devin|Emily": [
+   1,
+   0,
+   0
+  ],
+  "Tim|Daniel": [
+   0,
+   1,
+   0
+  ],
+  "Tim|Uncle Ben": [
+   0,
+   1,
+   0
+  ],
+  "Tim|Ellie": [
+   0,
+   1,
+   0
+  ],
+  "Tim|Elisha": [
+   0,
+   1,
+   0
+  ],
+  "Tim|Ellen": [
+   0,
+   1,
+   0
+  ],
+  "Tim|Elena": [
+   0,
+   1,
+   0
+  ],
+  "Tim|Devin": [
+   1,
+   0,
+   0
+  ],
+  "Tim|Emily": [
+   1,
+   0,
+   0
+  ],
+  "Emily|Daniel": [
+   2,
+   1,
+   0
+  ],
+  "Emily|Matthew": [
+   2,
+   0,
+   0
+  ],
+  "Emily|Lytton": [
+   0,
+   1,
+   0
+  ],
+  "Emily|Uncle Ben": [
+   1,
+   1,
+   0
+  ],
+  "Emily|Ellie": [
+   3,
+   1,
+   0
+  ],
+  "Emily|Elisha": [
+   1,
+   3,
+   0
+  ],
+  "Emily|Mitchel": [
+   1,
+   0,
+   0
+  ],
+  "Emily|Ellen": [
+   1,
+   0,
+   0
+  ],
+  "Emily|Elena": [
+   0,
+   1,
+   0
+  ],
+  "Emily|Devin": [
+   0,
+   1,
+   0
+  ],
+  "Emily|Tim": [
+   0,
+   1,
+   0
+  ]
+ },
+ "power": [
+  {
+   "rank": 1,
+   "move": 0,
+   "manager": "Daniel",
+   "record": "7-1",
+   "power": 98.3,
+   "win_pct": 0.875,
+   "all_play_pct": 0.83,
+   "ppg": 163.65,
+   "last3": 150.87,
+   "scores": [
+    217.86,
+    171.88,
+    145.84,
+    177.82,
+    143.18,
+    155.76,
+    153.34,
+    143.5
+   ]
+  },
+  {
+   "rank": 2,
+   "move": 2,
+   "manager": "Uncle Ben",
+   "record": "5-3",
+   "power": 85.6,
+   "win_pct": 0.625,
+   "all_play_pct": 0.568,
+   "ppg": 144.21,
+   "last3": 157.7,
+   "scores": [
+    150.48,
+    128.14,
+    100.74,
+    158.2,
+    143.04,
+    173.5,
+    139.9,
+    159.7
+   ]
+  },
+  {
+   "rank": 3,
+   "move": 0,
+   "manager": "Lytton",
+   "record": "5-3",
+   "power": 84.5,
+   "win_pct": 0.625,
+   "all_play_pct": 0.591,
+   "ppg": 144.25,
+   "last3": 151.31,
+   "scores": [
+    111.12,
+    122.7,
+    126.6,
+    152.92,
+    186.68,
+    180.98,
+    148.92,
+    124.04
+   ]
+  },
+  {
+   "rank": 4,
+   "move": -2,
+   "manager": "Matthew",
+   "record": "5-3",
+   "power": 80.6,
+   "win_pct": 0.625,
+   "all_play_pct": 0.636,
+   "ppg": 148.53,
+   "last3": 129.31,
+   "scores": [
+    166.42,
+    136.56,
+    159.8,
+    140.48,
+    197.06,
+    136.4,
+    133.28,
+    118.24
+   ]
+  },
+  {
+   "rank": 5,
+   "move": 3,
+   "manager": "Elisha",
+   "record": "4-4",
+   "power": 78.3,
+   "win_pct": 0.5,
+   "all_play_pct": 0.511,
+   "ppg": 138.03,
+   "last3": 148.37,
+   "scores": [
+    96.38,
+    166.2,
+    136.36,
+    103.78,
+    156.42,
+    123.28,
+    141.44,
+    180.4
+   ]
+  },
+  {
+   "rank": 6,
+   "move": -1,
+   "manager": "Ellie",
+   "record": "5-3",
+   "power": 76.1,
+   "win_pct": 0.625,
+   "all_play_pct": 0.5,
+   "ppg": 132.48,
+   "last3": 132.39,
+   "scores": [
+    90.9,
+    155.36,
+    151.42,
+    152.68,
+    112.3,
+    136.72,
+    144.7,
+    115.74
+   ]
+  },
+  {
+   "rank": 7,
+   "move": 4,
+   "manager": "Mitchel",
+   "record": "4-4",
+   "power": 73.6,
+   "win_pct": 0.5,
+   "all_play_pct": 0.455,
+   "ppg": 126.66,
+   "last3": 140.7,
+   "scores": [
+    136.34,
+    99.8,
+    144.14,
+    134.58,
+    76.3,
+    90.58,
+    154.26,
+    177.26
+   ]
+  },
+  {
+   "rank": 8,
+   "move": -1,
+   "manager": "Elena",
+   "record": "3-5",
+   "power": 70.3,
+   "win_pct": 0.375,
+   "all_play_pct": 0.557,
+   "ppg": 137.8,
+   "last3": 123.85,
+   "scores": [
+    115.0,
+    140.84,
+    182.34,
+    114.68,
+    177.96,
+    76.7,
+    148.18,
+    146.68
+   ]
+  },
+  {
+   "rank": 9,
+   "move": -3,
+   "manager": "Ellen",
+   "record": "3-5",
+   "power": 70.1,
+   "win_pct": 0.375,
+   "all_play_pct": 0.466,
+   "ppg": 140.74,
+   "last3": 130.33,
+   "scores": [
+    200.68,
+    114.36,
+    135.52,
+    116.16,
+    168.22,
+    124.78,
+    131.4,
+    134.82
+   ]
+  },
+  {
+   "rank": 10,
+   "move": 0,
+   "manager": "Tim",
+   "record": "2-6",
+   "power": 60.0,
+   "win_pct": 0.25,
+   "all_play_pct": 0.352,
+   "ppg": 124.88,
+   "last3": 120.19,
+   "scores": [
+    152.24,
+    134.0,
+    143.7,
+    89.96,
+    118.54,
+    114.28,
+    129.74,
+    116.56
+   ]
+  },
+  {
+   "rank": 11,
+   "move": -2,
+   "manager": "Devin",
+   "record": "3-5",
+   "power": 58.7,
+   "win_pct": 0.375,
+   "all_play_pct": 0.284,
+   "ppg": 123.78,
+   "last3": 111.05,
+   "scores": [
+    131.6,
+    139.76,
+    116.1,
+    151.2,
+    118.44,
+    112.86,
+    114.24,
+    106.04
+   ]
+  },
+  {
+   "rank": 12,
+   "move": 0,
+   "manager": "Emily",
+   "record": "2-6",
+   "power": 57.5,
+   "win_pct": 0.25,
+   "all_play_pct": 0.25,
+   "ppg": 118.48,
+   "last3": 123.19,
+   "scores": [
+    136.68,
+    95.28,
+    112.98,
+    132.94,
+    100.4,
+    140.68,
+    118.34,
+    110.54
+   ]
+  }
+ ],
+ "injuries": {
+  "Tim": [
+   [
+    "RJ Harvey",
+    "IR"
+   ],
+   [
+    "Jeremiyah Love",
+    "O"
+   ],
+   [
+    "Kyler Murray",
+    "Q"
+   ],
+   [
+    "Amon-Ra St. Brown",
+    "Q"
+   ],
+   [
+    "Breece Hall",
+    "O"
+   ]
+  ],
+  "Daniel": [
+   [
+    "Bhayshul Tuten",
+    "Q"
+   ],
+   [
+    "Lamar Jackson",
+    "O"
+   ],
+   [
+    "Christian Watson",
+    "Q"
+   ]
+  ],
+  "Elisha": [
+   [
+    "Kyle Monangai",
+    "O"
+   ],
+   [
+    "Jordyn Tyson",
+    "IR"
+   ],
+   [
+    "Hunter Henry",
+    "O"
+   ],
+   [
+    "Jakobi Meyers",
+    "Q"
+   ],
+   [
+    "Tyjae Spears",
+    "O"
+   ]
+  ],
+  "Ellie": [
+   [
+    "Carnell Tate",
+    "O"
+   ],
+   [
+    "Deebo Samuel Sr.",
+    "O"
+   ],
+   [
+    "David Montgomery",
+    "O"
+   ],
+   [
+    "Drake London",
+    "Q"
+   ]
+  ],
+  "Elena": [
+   [
+    "Jayden Reed",
+    "IR"
+   ],
+   [
+    "Cam Skattebo",
+    "Q"
+   ],
+   [
+    "Jaylin Noel",
+    "IR"
+   ],
+   [
+    "Davante Adams",
+    "IR"
+   ],
+   [
+    "Matthew Stafford",
+    "Q"
+   ]
+  ],
+  "Ellen": [
+   [
+    "Dameon Pierce",
+    "IR"
+   ],
+   [
+    "Alec Pierce",
+    "IR"
+   ]
+  ],
+  "Emily": [
+   [
+    "Travis Etienne Jr.",
+    "IR"
+   ],
+   [
+    "Dontayvion Wicks",
+    "O"
+   ]
+  ],
+  "Matthew": [
+   [
+    "Mike Evans",
+    "O"
+   ],
+   [
+    "A.J. Brown",
+    "O"
+   ]
+  ],
+  "Lytton": [
+   [
+    "Emeka Egbuka",
+    "O"
+   ],
+   [
+    "Christian McCaffrey",
+    "Q"
+   ]
+  ],
+  "Mitchel": [
+   [
+    "Michael Wilson",
+    "Q"
+   ],
+   [
+    "Woody Marks",
+    "Q"
+   ],
+   [
+    "TreVeyon Henderson",
+    "O"
+   ],
+   [
+    "DJ Moore",
+    "Q"
+   ],
+   [
+    "Romeo Doubs",
+    "IR"
+   ]
+  ],
+  "Uncle Ben": [
+   [
+    "Terrance Ferguson",
+    "IR"
+   ],
+   [
+    "DeVonta Smith",
+    "O"
+   ],
+   [
+    "James Cook III",
+    "Q"
+   ]
+  ],
+  "Devin": [
+   [
+    "Jake Ferguson",
+    "O"
+   ]
+  ]
+ },
+ "trades": [
+  {
+   "Emily": [
+    "Malachi Fields",
+    "Devin Singletary"
+   ],
+   "Uncle Ben": [
+    "Dalton Schultz"
+   ]
+  },
+  {
+   "Lytton": [
+    "J.J. McCarthy",
+    "Trey McBride"
+   ],
+   "Mitchel": [
+    "Ladd McConkey",
+    "Kirk Cousins",
+    "Tyler Warren"
+   ]
+  }
+ ],
+ "slate": [
+  [
+   "Tim",
+   "Mitchel",
+   null
+  ],
+  [
+   "Daniel",
+   "Matthew",
+   null
+  ],
+  [
+   "Elisha",
+   "Devin",
+   null
+  ],
+  [
+   "Ellie",
+   "Elena",
+   null
+  ],
+  [
+   "Ellen",
+   "Lytton",
+   null
+  ],
+  [
+   "Emily",
+   "Uncle Ben",
+   null
+  ]
+ ],
+ "turkey": "Emily"
+}
