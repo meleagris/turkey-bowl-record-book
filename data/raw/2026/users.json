@@ -89,9 +89,9 @@
   "league_id": "1312615826846654464",
   "metadata": {
    "allow_pn": "on",
-   "avatar": "https://sleepercdn.com/uploads/32782717064b98dbe7fcb481aa34bfa4.jpg",
+   "avatar": "https://sleepercdn.com/uploads/4965de07098112357016376a6dc2bb5f.jpg",
    "mention_pn": "on",
-   "team_name": "Baby Back GIBBS \ud83c\udf56"
+   "team_name": "drip university\ud83d\udca7\u2728\ud83d\udc8e"
   },
   "settings": null,
   "user_id": "1128749478829289472"
@@ -136,8 +136,17 @@
    "allow_pn": "on",
    "archived": "off",
    "avatar": "https://sleepercdn.com/uploads/d73bde72dcfbbbf75824d353811e9b2e.jpg",
+   "league_report_pn": "on",
    "mention_pn": "on",
-   "team_name": "Soji My King"
+   "player_nickname_update": "on",
+   "team_name": "Soji My King",
+   "team_name_update": "on",
+   "trade_block_pn": "on",
+   "transaction_commissioner": "on",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
   },
   "settings": null,
   "user_id": "1128883781034704896"
