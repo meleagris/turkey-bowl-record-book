@@ -78,7 +78,7 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 9,
-   "trades": 8,
+   "trades": 10,
    "playoff_games": 2,
    "playoff_wins": 1,
    "playoff_win_pct": 0.5,
@@ -130,7 +130,7 @@
    "thirds": 1,
    "turkeys": 0,
    "weekly_high_scores": 0,
-   "trades": 4,
+   "trades": 5,
    "playoff_games": 3,
    "playoff_wins": 2,
    "playoff_win_pct": 0.667,
@@ -297,32 +297,6 @@
    "avg_finish": 8.0
   },
   {
-   "manager": "Devin",
-   "seasons": 1,
-   "record": "3-6",
-   "win_pct": 0.333,
-   "points_for": 1115.52,
-   "points_against": 1237.84,
-   "ppg": 123.95,
-   "all_play_pct": 0.323,
-   "playoff_record": "0-0",
-   "playoff_appearances": 0,
-   "championships": 0,
-   "runner_ups": 0,
-   "thirds": 0,
-   "turkeys": 0,
-   "weekly_high_scores": 0,
-   "trades": 4,
-   "playoff_games": 0,
-   "playoff_wins": 0,
-   "playoff_win_pct": null,
-   "playoff_points": 0.0,
-   "playoff_ppg": null,
-   "career_high": 151.2,
-   "career_low": 106.04,
-   "avg_finish": null
-  },
-  {
    "manager": "Tim",
    "seasons": 1,
    "record": "3-6",
@@ -338,7 +312,7 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 0,
-   "trades": 3,
+   "trades": 4,
    "playoff_games": 0,
    "playoff_wins": 0,
    "playoff_win_pct": null,
@@ -372,6 +346,32 @@
    "playoff_ppg": null,
    "career_high": 182.34,
    "career_low": 76.7,
+   "avg_finish": null
+  },
+  {
+   "manager": "Devin",
+   "seasons": 1,
+   "record": "3-6",
+   "win_pct": 0.333,
+   "points_for": 1115.52,
+   "points_against": 1237.84,
+   "ppg": 123.95,
+   "all_play_pct": 0.323,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "turkeys": 0,
+   "weekly_high_scores": 0,
+   "trades": 4,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 151.2,
+   "career_low": 106.04,
    "avg_finish": null
   },
   {
@@ -2672,23 +2672,23 @@
    },
    {
     "season": "2026",
+    "manager": "Lytton",
+    "spent": 150
+   },
+   {
+    "season": "2026",
     "manager": "Emily",
-    "spent": 130
+    "spent": 140
    },
    {
     "season": "2026",
     "manager": "Daniel",
-    "spent": 125
+    "spent": 135
    },
    {
     "season": "2026",
     "manager": "Uncle Ben",
     "spent": 125
-   },
-   {
-    "season": "2026",
-    "manager": "Lytton",
-    "spent": 115
    }
   ],
   "most_pickups_season": [
@@ -2700,7 +2700,12 @@
    {
     "season": "2026",
     "manager": "Daniel",
-    "pickups": 35
+    "pickups": 36
+   },
+   {
+    "season": "2026",
+    "manager": "Ellen",
+    "pickups": 32
    },
    {
     "season": "2025",
@@ -2709,13 +2714,8 @@
    },
    {
     "season": "2026",
-    "manager": "Ellen",
-    "pickups": 28
-   },
-   {
-    "season": "2026",
-    "manager": "Matthew",
-    "pickups": 23
+    "manager": "Tim",
+    "pickups": 29
    }
   ]
  },
@@ -6085,7 +6085,7 @@
       "manager": "Elisha",
       "player": "Josh Downs",
       "position": "WR",
-      "team": "IND",
+      "team": "KC",
       "keeper": false
      },
      {
@@ -8804,7 +8804,7 @@
       "manager": "Daniel",
       "player": "Josh Downs",
       "position": "WR",
-      "team": "IND",
+      "team": "KC",
       "keeper": false
      },
      {
@@ -9345,34 +9345,39 @@
   }
  ],
  "playoff_odds": {
-  "Daniel": {
-   "make": 1.0,
-   "bye": 0.997,
-   "first": 0.984
-  },
-  "Mitchel": {
-   "make": 0.113,
-   "bye": 0.002,
-   "first": 0.0
-  },
-  "Matthew": {
-   "make": 0.886,
-   "bye": 0.127,
-   "first": 0.0
-  },
-  "Ellie": {
-   "make": 0.873,
-   "bye": 0.144,
-   "first": 0.002
-  },
   "Emily": {
    "make": 0.001,
    "bye": 0.0,
    "first": 0.0
   },
   "Lytton": {
-   "make": 0.844,
-   "bye": 0.111,
+   "make": 0.841,
+   "bye": 0.112,
+   "first": 0.0
+  },
+  "Mitchel": {
+   "make": 0.106,
+   "bye": 0.001,
+   "first": 0.0
+  },
+  "Ellen": {
+   "make": 0.38,
+   "bye": 0.011,
+   "first": 0.0
+  },
+  "Matthew": {
+   "make": 0.884,
+   "bye": 0.13,
+   "first": 0.001
+  },
+  "Tim": {
+   "make": 0.038,
+   "bye": 0.0,
+   "first": 0.0
+  },
+  "Elena": {
+   "make": 0.098,
+   "bye": 0.001,
    "first": 0.0
   },
   "Devin": {
@@ -9380,30 +9385,25 @@
    "bye": 0.0,
    "first": 0.0
   },
-  "Uncle Ben": {
-   "make": 0.985,
-   "bye": 0.542,
-   "first": 0.014
-  },
-  "Tim": {
-   "make": 0.034,
-   "bye": 0.0,
-   "first": 0.0
-  },
-  "Elena": {
-   "make": 0.101,
-   "bye": 0.001,
-   "first": 0.0
-  },
   "Elisha": {
-   "make": 0.772,
-   "bye": 0.062,
+   "make": 0.77,
+   "bye": 0.054,
    "first": 0.0
   },
-  "Ellen": {
-   "make": 0.376,
-   "bye": 0.014,
-   "first": 0.0
+  "Uncle Ben": {
+   "make": 0.982,
+   "bye": 0.545,
+   "first": 0.007
+  },
+  "Daniel": {
+   "make": 1.0,
+   "bye": 0.999,
+   "first": 0.985
+  },
+  "Ellie": {
+   "make": 0.885,
+   "bye": 0.147,
+   "first": 0.007
   }
  },
  "last_week": {
@@ -9807,6 +9807,26 @@
  "keepers": [
   {
    "manager": "Daniel",
+   "player": "Jeremiyah Love",
+   "position": "RB",
+   "team": "ARI",
+   "drafted": "Round 5",
+   "years_kept": 0,
+   "cost": 4,
+   "status": "Round 4"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Audric Estime",
+   "position": "RB",
+   "team": "NO",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Daniel",
    "player": "Rome Odunze",
    "position": "WR",
    "team": "CHI",
@@ -9817,9 +9837,9 @@
   },
   {
    "manager": "Daniel",
-   "player": "Antonio Williams",
+   "player": "Konata Mumpfield",
    "position": "WR",
-   "team": "WAS",
+   "team": "LAR",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -9837,29 +9857,9 @@
   },
   {
    "manager": "Daniel",
-   "player": "Demarcus Robinson",
-   "position": "WR",
-   "team": "SF",
-   "drafted": "Undrafted",
-   "years_kept": 0,
-   "cost": 5,
-   "status": "Round 5"
-  },
-  {
-   "manager": "Daniel",
    "player": "Drew Lock",
    "position": "QB",
    "team": "SEA",
-   "drafted": "Undrafted",
-   "years_kept": 0,
-   "cost": 5,
-   "status": "Round 5"
-  },
-  {
-   "manager": "Daniel",
-   "player": "Anthony Richardson Sr.",
-   "position": "QB",
-   "team": "IND",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -9927,16 +9927,6 @@
   },
   {
    "manager": "Daniel",
-   "player": "Dallas Goedert",
-   "position": "TE",
-   "team": "PHI",
-   "drafted": "Round 11",
-   "years_kept": 0,
-   "cost": 10,
-   "status": "Round 10"
-  },
-  {
-   "manager": "Daniel",
    "player": "Rachaad White",
    "position": "RB",
    "team": "WAS",
@@ -9944,6 +9934,16 @@
    "years_kept": 0,
    "cost": 12,
    "status": "Round 12"
+  },
+  {
+   "manager": "Daniel",
+   "player": "Terrance Ferguson",
+   "position": "TE",
+   "team": "LAR",
+   "drafted": "Round 15",
+   "years_kept": 0,
+   "cost": 14,
+   "status": "Round 14"
   },
   {
    "manager": "Daniel",
@@ -10317,9 +10317,9 @@
   },
   {
    "manager": "Elisha",
-   "player": "Gardner Minshew II",
+   "player": "Kyle McCord",
    "position": "QB",
-   "team": "ARI",
+   "team": "MIA",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -10334,16 +10334,6 @@
    "years_kept": 0,
    "cost": 5,
    "status": "Round 5"
-  },
-  {
-   "manager": "Elisha",
-   "player": "Chris Godwin Jr.",
-   "position": "WR",
-   "team": "TB",
-   "drafted": "Round 8",
-   "years_kept": 0,
-   "cost": 7,
-   "status": "Round 7"
   },
   {
    "manager": "Elisha",
@@ -10369,7 +10359,7 @@
    "manager": "Elisha",
    "player": "Josh Downs",
    "position": "WR",
-   "team": "IND",
+   "team": "KC",
    "drafted": "Round 10",
    "years_kept": 0,
    "cost": 9,
@@ -10487,16 +10477,6 @@
   },
   {
    "manager": "Ellen",
-   "player": "Carson Wentz",
-   "position": "QB",
-   "team": "MIN",
-   "drafted": "Undrafted",
-   "years_kept": 0,
-   "cost": 5,
-   "status": "Round 5"
-  },
-  {
-   "manager": "Ellen",
    "player": "Mike Gesicki",
    "position": "TE",
    "team": "CIN",
@@ -10507,9 +10487,29 @@
   },
   {
    "manager": "Ellen",
-   "player": "Jahan Dotson",
+   "player": "Tutu Atwell",
    "position": "WR",
-   "team": "ATL",
+   "team": "LAR",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Pierre Strong Jr.",
+   "position": "RB",
+   "team": "GB",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Zonovan Knight",
+   "position": "RB",
+   "team": "ARI",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -10597,16 +10597,6 @@
   },
   {
    "manager": "Ellen",
-   "player": "Alvin Kamara",
-   "position": "RB",
-   "team": "NO",
-   "drafted": "Round 15",
-   "years_kept": 0,
-   "cost": 14,
-   "status": "Round 14"
-  },
-  {
-   "manager": "Ellen",
    "player": "Justin Jefferson",
    "position": "WR",
    "team": "MIN",
@@ -10654,16 +10644,6 @@
    "years_kept": 0,
    "cost": 4,
    "status": "Round 4"
-  },
-  {
-   "manager": "Ellie",
-   "player": "Devaughn Vele",
-   "position": "WR",
-   "team": "NO",
-   "drafted": "Undrafted",
-   "years_kept": 0,
-   "cost": 5,
-   "status": "Round 5"
   },
   {
    "manager": "Ellie",
@@ -10867,6 +10847,16 @@
   },
   {
    "manager": "Emily",
+   "player": "Colby Parkinson",
+   "position": "TE",
+   "team": "LAR",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Emily",
    "player": "Greg Dulcich",
    "position": "TE",
    "team": "MIA",
@@ -10977,9 +10967,9 @@
   },
   {
    "manager": "Lytton",
-   "player": "Chris Bell",
+   "player": "Pat Bryant",
    "position": "WR",
-   "team": "MIA",
+   "team": "DEN",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -11060,6 +11050,16 @@
    "player": "Braelon Allen",
    "position": "RB",
    "team": "NYJ",
+   "drafted": "Round 15",
+   "years_kept": 0,
+   "cost": 14,
+   "status": "Round 14"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Carson Beck",
+   "position": "QB",
+   "team": "ARI",
    "drafted": "Round 15",
    "years_kept": 0,
    "cost": 14,
@@ -11359,7 +11359,7 @@
    "manager": "Mitchel",
    "player": "Kendre Miller",
    "position": "RB",
-   "team": null,
+   "team": "DAL",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -11394,16 +11394,6 @@
    "years_kept": 0,
    "cost": 9,
    "status": "Round 9"
-  },
-  {
-   "manager": "Mitchel",
-   "player": "Romeo Doubs",
-   "position": "WR",
-   "team": "NE",
-   "drafted": "Round 11",
-   "years_kept": 0,
-   "cost": 10,
-   "status": "Round 10"
   },
   {
    "manager": "Mitchel",
@@ -11457,16 +11447,6 @@
   },
   {
    "manager": "Tim",
-   "player": "Jeremiyah Love",
-   "position": "RB",
-   "team": "ARI",
-   "drafted": "Round 5",
-   "years_kept": 0,
-   "cost": 4,
-   "status": "Round 4"
-  },
-  {
-   "manager": "Tim",
    "player": "Patrick Mahomes",
    "position": "QB",
    "team": "KC",
@@ -11477,9 +11457,9 @@
   },
   {
    "manager": "Tim",
-   "player": "Seth McGowan",
-   "position": "RB",
-   "team": "IND",
+   "player": "Antonio Williams",
+   "position": "WR",
+   "team": "WAS",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -11517,16 +11497,6 @@
   },
   {
    "manager": "Tim",
-   "player": "Brian Thomas Jr.",
-   "position": "WR",
-   "team": "JAX",
-   "drafted": "Round 7",
-   "years_kept": 0,
-   "cost": 6,
-   "status": "Round 6"
-  },
-  {
-   "manager": "Tim",
    "player": "RJ Harvey",
    "position": "RB",
    "team": "DEN",
@@ -11537,19 +11507,29 @@
   },
   {
    "manager": "Tim",
-   "player": "Kyler Murray",
-   "position": "QB",
-   "team": "MIN",
-   "drafted": "Round 7",
+   "player": "Michael Pittman Jr.",
+   "position": "WR",
+   "team": "PIT",
+   "drafted": "Round 9",
    "years_kept": 0,
-   "cost": 6,
-   "status": "Round 6"
+   "cost": 8,
+   "status": "Round 8"
   },
   {
    "manager": "Tim",
    "player": "Matthew Golden",
    "position": "WR",
    "team": "GB",
+   "drafted": "Round 10",
+   "years_kept": 0,
+   "cost": 9,
+   "status": "Round 9"
+  },
+  {
+   "manager": "Tim",
+   "player": "Ja'Kobi Lane",
+   "position": "WR",
+   "team": "BAL",
    "drafted": "Round 10",
    "years_kept": 0,
    "cost": 9,
@@ -11564,6 +11544,16 @@
    "years_kept": 0,
    "cost": 10,
    "status": "Round 10"
+  },
+  {
+   "manager": "Tim",
+   "player": "Jacory Croskey-Merritt",
+   "position": "RB",
+   "team": "WAS",
+   "drafted": "Round 12",
+   "years_kept": 0,
+   "cost": 11,
+   "status": "Round 11"
   },
   {
    "manager": "Tim",
@@ -11584,6 +11574,16 @@
    "years_kept": 0,
    "cost": 12,
    "status": "Round 12"
+  },
+  {
+   "manager": "Tim",
+   "player": "Emmett Johnson",
+   "position": "RB",
+   "team": "KC",
+   "drafted": "Round 14",
+   "years_kept": 0,
+   "cost": 13,
+   "status": "Round 13"
   },
   {
    "manager": "Tim",
@@ -11737,6 +11737,16 @@
   },
   {
    "manager": "Uncle Ben",
+   "player": "Dallas Goedert",
+   "position": "TE",
+   "team": "PHI",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
+  },
+  {
+   "manager": "Uncle Ben",
    "player": "Aaron Rodgers",
    "position": "QB",
    "team": "PIT",
@@ -11744,16 +11754,6 @@
    "years_kept": 0,
    "cost": 12,
    "status": "Round 12"
-  },
-  {
-   "manager": "Uncle Ben",
-   "player": "Terrance Ferguson",
-   "position": "TE",
-   "team": "LAR",
-   "drafted": "Round 15",
-   "years_kept": 0,
-   "cost": 14,
-   "status": "Round 14"
   },
   {
    "manager": "Uncle Ben",
