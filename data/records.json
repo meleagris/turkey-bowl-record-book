@@ -1,7 +1,7 @@
 {
  "generated_through": {
   "season": "2026",
-  "week": 10
+  "week": 11
  },
  "history": [
   {
@@ -39,12 +39,12 @@
   {
    "manager": "Emily",
    "seasons": 2,
-   "record": "10-14",
-   "win_pct": 0.417,
-   "points_for": 2987.44,
-   "points_against": 2997.98,
-   "ppg": 124.48,
-   "all_play_pct": 0.438,
+   "record": "10-15",
+   "win_pct": 0.4,
+   "points_for": 3068.84,
+   "points_against": 3111.3,
+   "ppg": 122.75,
+   "all_play_pct": 0.416,
    "playoff_record": "3-0",
    "playoff_appearances": 1,
    "championships": 1,
@@ -52,25 +52,25 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 3,
-   "trades": 5,
+   "trades": 6,
    "playoff_games": 3,
    "playoff_wins": 3,
    "playoff_win_pct": 1.0,
    "playoff_points": 508.86,
    "playoff_ppg": 169.62,
    "career_high": 204.66,
-   "career_low": 82.1,
+   "career_low": 81.4,
    "avg_finish": 1.0
   },
   {
    "manager": "Daniel",
    "seasons": 2,
-   "record": "20-4",
-   "win_pct": 0.833,
-   "points_for": 3526.36,
-   "points_against": 2992.24,
-   "ppg": 146.93,
-   "all_play_pct": 0.774,
+   "record": "20-5",
+   "win_pct": 0.8,
+   "points_for": 3636.78,
+   "points_against": 3121.34,
+   "ppg": 145.47,
+   "all_play_pct": 0.744,
    "playoff_record": "1-1",
    "playoff_appearances": 1,
    "championships": 0,
@@ -91,12 +91,12 @@
   {
    "manager": "Elisha",
    "seasons": 2,
-   "record": "16-8",
-   "win_pct": 0.667,
-   "points_for": 3034.22,
-   "points_against": 2904.24,
-   "ppg": 126.43,
-   "all_play_pct": 0.538,
+   "record": "16-9",
+   "win_pct": 0.64,
+   "points_for": 3126.68,
+   "points_against": 3038.54,
+   "ppg": 125.07,
+   "all_play_pct": 0.516,
    "playoff_record": "0-2",
    "playoff_appearances": 1,
    "championships": 0,
@@ -104,7 +104,7 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 3,
-   "trades": 7,
+   "trades": 10,
    "playoff_games": 2,
    "playoff_wins": 0,
    "playoff_win_pct": 0.0,
@@ -115,66 +115,14 @@
    "avg_finish": 4.0
   },
   {
-   "manager": "Lytton",
-   "seasons": 1,
-   "record": "6-4",
-   "win_pct": 0.6,
-   "points_for": 1494.84,
-   "points_against": 1336.2,
-   "ppg": 149.48,
-   "all_play_pct": 0.6,
-   "playoff_record": "0-0",
-   "playoff_appearances": 0,
-   "championships": 0,
-   "runner_ups": 0,
-   "thirds": 0,
-   "turkeys": 0,
-   "weekly_high_scores": 2,
-   "trades": 6,
-   "playoff_games": 0,
-   "playoff_wins": 0,
-   "playoff_win_pct": null,
-   "playoff_points": 0.0,
-   "playoff_ppg": null,
-   "career_high": 226.48,
-   "career_low": 111.12,
-   "avg_finish": null
-  },
-  {
-   "manager": "Uncle Ben",
-   "seasons": 2,
-   "record": "13-11",
-   "win_pct": 0.542,
-   "points_for": 2933.92,
-   "points_against": 2858.74,
-   "ppg": 122.25,
-   "all_play_pct": 0.486,
-   "playoff_record": "2-1",
-   "playoff_appearances": 1,
-   "championships": 0,
-   "runner_ups": 0,
-   "thirds": 1,
-   "turkeys": 0,
-   "weekly_high_scores": 0,
-   "trades": 5,
-   "playoff_games": 3,
-   "playoff_wins": 2,
-   "playoff_win_pct": 0.667,
-   "playoff_points": 312.52,
-   "playoff_ppg": 104.17,
-   "career_high": 173.5,
-   "career_low": 71.12,
-   "avg_finish": 3.0
-  },
-  {
    "manager": "Ellie",
    "seasons": 2,
-   "record": "13-11",
-   "win_pct": 0.542,
-   "points_for": 2982.76,
-   "points_against": 2917.84,
-   "ppg": 124.28,
-   "all_play_pct": 0.495,
+   "record": "14-11",
+   "win_pct": 0.56,
+   "points_for": 3124.22,
+   "points_against": 3043.4,
+   "ppg": 124.97,
+   "all_play_pct": 0.516,
    "playoff_record": "0-2",
    "playoff_appearances": 1,
    "championships": 0,
@@ -191,6 +139,58 @@
    "career_high": 161.92,
    "career_low": 90.9,
    "avg_finish": 6.0
+  },
+  {
+   "manager": "Uncle Ben",
+   "seasons": 2,
+   "record": "14-11",
+   "win_pct": 0.56,
+   "points_for": 3064.42,
+   "points_against": 2980.84,
+   "ppg": 122.58,
+   "all_play_pct": 0.493,
+   "playoff_record": "2-1",
+   "playoff_appearances": 1,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 1,
+   "turkeys": 0,
+   "weekly_high_scores": 0,
+   "trades": 7,
+   "playoff_games": 3,
+   "playoff_wins": 2,
+   "playoff_win_pct": 0.667,
+   "playoff_points": 312.52,
+   "playoff_ppg": 104.17,
+   "career_high": 173.5,
+   "career_low": 71.12,
+   "avg_finish": 3.0
+  },
+  {
+   "manager": "Lytton",
+   "seasons": 1,
+   "record": "6-5",
+   "win_pct": 0.545,
+   "points_for": 1627.36,
+   "points_against": 1499.04,
+   "ppg": 147.94,
+   "all_play_pct": 0.612,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "turkeys": 0,
+   "weekly_high_scores": 2,
+   "trades": 6,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 226.48,
+   "career_low": 111.12,
+   "avg_finish": null
   },
   {
    "manager": "Elo",
@@ -219,13 +219,39 @@
    "avg_finish": 5.0
   },
   {
+   "manager": "Tim",
+   "seasons": 1,
+   "record": "5-6",
+   "win_pct": 0.455,
+   "points_for": 1439.74,
+   "points_against": 1564.38,
+   "ppg": 130.89,
+   "all_play_pct": 0.455,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "turkeys": 0,
+   "weekly_high_scores": 1,
+   "trades": 7,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 162.84,
+   "career_low": 89.96,
+   "avg_finish": null
+  },
+  {
    "manager": "Elena",
    "seasons": 1,
-   "record": "4-6",
-   "win_pct": 0.4,
-   "points_for": 1369.98,
-   "points_against": 1448.66,
-   "ppg": 137.0,
+   "record": "5-6",
+   "win_pct": 0.455,
+   "points_for": 1499.08,
+   "points_against": 1559.08,
+   "ppg": 136.28,
    "all_play_pct": 0.545,
    "playoff_record": "0-0",
    "playoff_appearances": 0,
@@ -245,40 +271,14 @@
    "avg_finish": null
   },
   {
-   "manager": "Tim",
-   "seasons": 1,
-   "record": "4-6",
-   "win_pct": 0.4,
-   "points_for": 1276.9,
-   "points_against": 1431.86,
-   "ppg": 127.69,
-   "all_play_pct": 0.4,
-   "playoff_record": "0-0",
-   "playoff_appearances": 0,
-   "championships": 0,
-   "runner_ups": 0,
-   "thirds": 0,
-   "turkeys": 0,
-   "weekly_high_scores": 0,
-   "trades": 7,
-   "playoff_games": 0,
-   "playoff_wins": 0,
-   "playoff_win_pct": null,
-   "playoff_points": 0.0,
-   "playoff_ppg": null,
-   "career_high": 156.42,
-   "career_low": 89.96,
-   "avg_finish": null
-  },
-  {
    "manager": "Mitchel",
    "seasons": 1,
-   "record": "4-6",
-   "win_pct": 0.4,
-   "points_for": 1201.06,
-   "points_against": 1279.46,
-   "ppg": 120.11,
-   "all_play_pct": 0.4,
+   "record": "5-6",
+   "win_pct": 0.455,
+   "points_for": 1335.36,
+   "points_against": 1371.92,
+   "ppg": 121.4,
+   "all_play_pct": 0.438,
    "playoff_record": "0-0",
    "playoff_appearances": 0,
    "championships": 0,
@@ -286,7 +286,7 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 1,
-   "trades": 1,
+   "trades": 2,
    "playoff_games": 0,
    "playoff_wins": 0,
    "playoff_win_pct": null,
@@ -297,40 +297,14 @@
    "avg_finish": null
   },
   {
-   "manager": "Ellen",
-   "seasons": 1,
-   "record": "4-6",
-   "win_pct": 0.4,
-   "points_for": 1388.78,
-   "points_against": 1470.8,
-   "ppg": 138.88,
-   "all_play_pct": 0.482,
-   "playoff_record": "0-0",
-   "playoff_appearances": 0,
-   "championships": 0,
-   "runner_ups": 0,
-   "thirds": 0,
-   "turkeys": 0,
-   "weekly_high_scores": 0,
-   "trades": 3,
-   "playoff_games": 0,
-   "playoff_wins": 0,
-   "playoff_win_pct": null,
-   "playoff_points": 0.0,
-   "playoff_ppg": null,
-   "career_high": 200.68,
-   "career_low": 114.36,
-   "avg_finish": null
-  },
-  {
    "manager": "Matthew",
    "seasons": 2,
-   "record": "9-15",
-   "win_pct": 0.375,
-   "points_for": 3023.32,
-   "points_against": 3174.7,
-   "ppg": 125.97,
-   "all_play_pct": 0.486,
+   "record": "10-15",
+   "win_pct": 0.4,
+   "points_for": 3136.64,
+   "points_against": 3256.1,
+   "ppg": 125.47,
+   "all_play_pct": 0.475,
    "playoff_record": "0-0",
    "playoff_appearances": 0,
    "championships": 0,
@@ -338,7 +312,7 @@
    "thirds": 0,
    "turkeys": 1,
    "weekly_high_scores": 3,
-   "trades": 9,
+   "trades": 10,
    "playoff_games": 0,
    "playoff_wins": 0,
    "playoff_win_pct": null,
@@ -349,14 +323,14 @@
    "avg_finish": 8.0
   },
   {
-   "manager": "Devin",
+   "manager": "Ellen",
    "seasons": 1,
-   "record": "3-7",
-   "win_pct": 0.3,
-   "points_for": 1222.68,
-   "points_against": 1374.7,
-   "ppg": 122.27,
-   "all_play_pct": 0.318,
+   "record": "4-7",
+   "win_pct": 0.364,
+   "points_for": 1514.34,
+   "points_against": 1612.26,
+   "ppg": 137.67,
+   "all_play_pct": 0.479,
    "playoff_record": "0-0",
    "playoff_appearances": 0,
    "championships": 0,
@@ -364,7 +338,33 @@
    "thirds": 0,
    "turkeys": 0,
    "weekly_high_scores": 0,
-   "trades": 5,
+   "trades": 4,
+   "playoff_games": 0,
+   "playoff_wins": 0,
+   "playoff_win_pct": null,
+   "playoff_points": 0.0,
+   "playoff_ppg": null,
+   "career_high": 200.68,
+   "career_low": 114.36,
+   "avg_finish": null
+  },
+  {
+   "manager": "Devin",
+   "seasons": 1,
+   "record": "3-8",
+   "win_pct": 0.273,
+   "points_for": 1344.78,
+   "points_against": 1505.2,
+   "ppg": 122.25,
+   "all_play_pct": 0.322,
+   "playoff_record": "0-0",
+   "playoff_appearances": 0,
+   "championships": 0,
+   "runner_ups": 0,
+   "thirds": 0,
+   "turkeys": 0,
+   "weekly_high_scores": 0,
+   "trades": 6,
    "playoff_games": 0,
    "playoff_wins": 0,
    "playoff_win_pct": null,
@@ -407,16 +407,16 @@
    "manager": "Daniel",
    "user_id": "1128738502994202624",
    "complete": false,
-   "record": "9-1",
+   "record": "9-2",
    "wins": 9,
-   "win_pct": 0.9,
-   "points_for": 1585.78,
-   "points_against": 1268.54,
-   "ppg": 158.58,
-   "all_play": "85-25",
-   "all_play_pct": 0.773,
-   "luck": 1.27,
-   "lineup_efficiency": 0.942,
+   "win_pct": 0.818,
+   "points_for": 1696.2,
+   "points_against": 1397.64,
+   "ppg": 154.2,
+   "all_play": "87-34",
+   "all_play_pct": 0.719,
+   "luck": 1.09,
+   "lineup_efficiency": 0.944,
    "weekly_high_scores": 4,
    "weekly_low_scores": 0
   },
@@ -425,16 +425,34 @@
    "manager": "Ellie",
    "user_id": "1128748328549830656",
    "complete": false,
-   "record": "7-3",
+   "record": "8-3",
+   "wins": 8,
+   "win_pct": 0.727,
+   "points_for": 1473.32,
+   "points_against": 1357.42,
+   "ppg": 133.94,
+   "all_play": "68-53",
+   "all_play_pct": 0.562,
+   "luck": 1.82,
+   "lineup_efficiency": 0.908,
+   "weekly_high_scores": 0,
+   "weekly_low_scores": 1
+  },
+  {
+   "season": "2026",
+   "manager": "Uncle Ben",
+   "user_id": "1269327736048984064",
+   "complete": false,
+   "record": "7-4",
    "wins": 7,
-   "win_pct": 0.7,
-   "points_for": 1331.86,
-   "points_against": 1231.86,
-   "ppg": 133.19,
-   "all_play": "58-52",
-   "all_play_pct": 0.527,
-   "luck": 1.73,
-   "lineup_efficiency": 0.901,
+   "win_pct": 0.636,
+   "points_for": 1624.78,
+   "points_against": 1440.36,
+   "ppg": 147.71,
+   "all_play": "76-45",
+   "all_play_pct": 0.628,
+   "luck": 0.09,
+   "lineup_efficiency": 0.928,
    "weekly_high_scores": 0,
    "weekly_low_scores": 1
   },
@@ -443,53 +461,17 @@
    "manager": "Lytton",
    "user_id": "1133455527729745920",
    "complete": false,
-   "record": "6-4",
+   "record": "6-5",
    "wins": 6,
-   "win_pct": 0.6,
-   "points_for": 1494.84,
-   "points_against": 1336.2,
-   "ppg": 149.48,
-   "all_play": "66-44",
-   "all_play_pct": 0.6,
-   "luck": 0.0,
-   "lineup_efficiency": 0.899,
+   "win_pct": 0.545,
+   "points_for": 1627.36,
+   "points_against": 1499.04,
+   "ppg": 147.94,
+   "all_play": "74-47",
+   "all_play_pct": 0.612,
+   "luck": -0.73,
+   "lineup_efficiency": 0.898,
    "weekly_high_scores": 2,
-   "weekly_low_scores": 0
-  },
-  {
-   "season": "2026",
-   "manager": "Uncle Ben",
-   "user_id": "1269327736048984064",
-   "complete": false,
-   "record": "6-4",
-   "wins": 6,
-   "win_pct": 0.6,
-   "points_for": 1494.28,
-   "points_against": 1318.26,
-   "ppg": 149.43,
-   "all_play": "69-41",
-   "all_play_pct": 0.627,
-   "luck": -0.27,
-   "lineup_efficiency": 0.926,
-   "weekly_high_scores": 0,
-   "weekly_low_scores": 1
-  },
-  {
-   "season": "2026",
-   "manager": "Elisha",
-   "user_id": "1128743474339127296",
-   "complete": false,
-   "record": "6-4",
-   "wins": 6,
-   "win_pct": 0.6,
-   "points_for": 1381.88,
-   "points_against": 1364.5,
-   "ppg": 138.19,
-   "all_play": "60-50",
-   "all_play_pct": 0.545,
-   "luck": 0.55,
-   "lineup_efficiency": 0.905,
-   "weekly_high_scores": 1,
    "weekly_low_scores": 0
   },
   {
@@ -497,35 +479,35 @@
    "manager": "Matthew",
    "user_id": "1128883781034704896",
    "complete": false,
-   "record": "5-5",
-   "wins": 5,
-   "win_pct": 0.5,
-   "points_for": 1412.36,
-   "points_against": 1488.54,
-   "ppg": 141.24,
-   "all_play": "60-50",
-   "all_play_pct": 0.545,
-   "luck": -0.45,
-   "lineup_efficiency": 0.911,
+   "record": "6-5",
+   "wins": 6,
+   "win_pct": 0.545,
+   "points_for": 1525.68,
+   "points_against": 1569.94,
+   "ppg": 138.7,
+   "all_play": "63-58",
+   "all_play_pct": 0.521,
+   "luck": 0.27,
+   "lineup_efficiency": 0.902,
    "weekly_high_scores": 1,
    "weekly_low_scores": 1
   },
   {
    "season": "2026",
-   "manager": "Ellen",
-   "user_id": "1128753211101409280",
+   "manager": "Elisha",
+   "user_id": "1128743474339127296",
    "complete": false,
-   "record": "4-6",
-   "wins": 4,
-   "win_pct": 0.4,
-   "points_for": 1388.78,
-   "points_against": 1470.8,
-   "ppg": 138.88,
-   "all_play": "53-57",
-   "all_play_pct": 0.482,
-   "luck": -0.82,
-   "lineup_efficiency": 0.899,
-   "weekly_high_scores": 0,
+   "record": "6-5",
+   "wins": 6,
+   "win_pct": 0.545,
+   "points_for": 1474.34,
+   "points_against": 1498.8,
+   "ppg": 134.03,
+   "all_play": "61-60",
+   "all_play_pct": 0.504,
+   "luck": 0.45,
+   "lineup_efficiency": 0.902,
+   "weekly_high_scores": 1,
    "weekly_low_scores": 0
   },
   {
@@ -533,16 +515,16 @@
    "manager": "Elena",
    "user_id": "1128749478829289472",
    "complete": false,
-   "record": "4-6",
-   "wins": 4,
-   "win_pct": 0.4,
-   "points_for": 1369.98,
-   "points_against": 1448.66,
-   "ppg": 137.0,
-   "all_play": "60-50",
+   "record": "5-6",
+   "wins": 5,
+   "win_pct": 0.455,
+   "points_for": 1499.08,
+   "points_against": 1559.08,
+   "ppg": 136.28,
+   "all_play": "66-55",
    "all_play_pct": 0.545,
-   "luck": -1.45,
-   "lineup_efficiency": 0.905,
+   "luck": -1.0,
+   "lineup_efficiency": 0.911,
    "weekly_high_scores": 1,
    "weekly_low_scores": 1
   },
@@ -551,17 +533,17 @@
    "manager": "Tim",
    "user_id": "863269290936233984",
    "complete": false,
-   "record": "4-6",
-   "wins": 4,
-   "win_pct": 0.4,
-   "points_for": 1276.9,
-   "points_against": 1431.86,
-   "ppg": 127.69,
-   "all_play": "44-66",
-   "all_play_pct": 0.4,
+   "record": "5-6",
+   "wins": 5,
+   "win_pct": 0.455,
+   "points_for": 1439.74,
+   "points_against": 1564.38,
+   "ppg": 130.89,
+   "all_play": "55-66",
+   "all_play_pct": 0.455,
    "luck": 0.0,
-   "lineup_efficiency": 0.912,
-   "weekly_high_scores": 0,
+   "lineup_efficiency": 0.921,
+   "weekly_high_scores": 1,
    "weekly_low_scores": 1
   },
   {
@@ -569,34 +551,52 @@
    "manager": "Mitchel",
    "user_id": "1261876798367485952",
    "complete": false,
-   "record": "4-6",
-   "wins": 4,
-   "win_pct": 0.4,
-   "points_for": 1201.06,
-   "points_against": 1279.46,
-   "ppg": 120.11,
-   "all_play": "44-66",
-   "all_play_pct": 0.4,
-   "luck": 0.0,
-   "lineup_efficiency": 0.889,
+   "record": "5-6",
+   "wins": 5,
+   "win_pct": 0.455,
+   "points_for": 1335.36,
+   "points_against": 1371.92,
+   "ppg": 121.4,
+   "all_play": "53-68",
+   "all_play_pct": 0.438,
+   "luck": 0.18,
+   "lineup_efficiency": 0.899,
    "weekly_high_scores": 1,
    "weekly_low_scores": 1
+  },
+  {
+   "season": "2026",
+   "manager": "Ellen",
+   "user_id": "1128753211101409280",
+   "complete": false,
+   "record": "4-7",
+   "wins": 4,
+   "win_pct": 0.364,
+   "points_for": 1514.34,
+   "points_against": 1612.26,
+   "ppg": 137.67,
+   "all_play": "58-63",
+   "all_play_pct": 0.479,
+   "luck": -1.27,
+   "lineup_efficiency": 0.9,
+   "weekly_high_scores": 0,
+   "weekly_low_scores": 0
   },
   {
    "season": "2026",
    "manager": "Devin",
    "user_id": "1370631003596427264",
    "complete": false,
-   "record": "3-7",
+   "record": "3-8",
    "wins": 3,
-   "win_pct": 0.3,
-   "points_for": 1222.68,
-   "points_against": 1374.7,
-   "ppg": 122.27,
-   "all_play": "35-75",
-   "all_play_pct": 0.318,
-   "luck": -0.18,
-   "lineup_efficiency": 0.94,
+   "win_pct": 0.273,
+   "points_for": 1344.78,
+   "points_against": 1505.2,
+   "ppg": 122.25,
+   "all_play": "39-82",
+   "all_play_pct": 0.322,
+   "luck": -0.55,
+   "lineup_efficiency": 0.945,
    "weekly_high_scores": 0,
    "weekly_low_scores": 2
   },
@@ -605,18 +605,18 @@
    "manager": "Emily",
    "user_id": "1128779037096144896",
    "complete": false,
-   "record": "2-8",
+   "record": "2-9",
    "wins": 2,
-   "win_pct": 0.2,
-   "points_for": 1148.3,
-   "points_against": 1295.32,
-   "ppg": 114.83,
-   "all_play": "26-84",
-   "all_play_pct": 0.236,
+   "win_pct": 0.182,
+   "points_for": 1229.7,
+   "points_against": 1408.64,
+   "ppg": 111.79,
+   "all_play": "26-95",
+   "all_play_pct": 0.215,
    "luck": -0.36,
-   "lineup_efficiency": 0.887,
+   "lineup_efficiency": 0.889,
    "weekly_high_scores": 0,
-   "weekly_low_scores": 2
+   "weekly_low_scores": 3
   }
  ],
  "single_game": {
@@ -2579,6 +2579,12 @@
     "to": "2025 W14"
    },
    {
+    "manager": "Ellie",
+    "length": 5,
+    "from": "2026 W7",
+    "to": "2026 W11"
+   },
+   {
     "manager": "Matthew",
     "length": 4,
     "from": "2026 W3",
@@ -2589,12 +2595,6 @@
     "length": 4,
     "from": "2025 W14",
     "to": "2025 W17"
-   },
-   {
-    "manager": "Ellie",
-    "length": 4,
-    "from": "2026 W7",
-    "to": "2026 W10"
    }
   ],
   "longest_loss_streak": [
@@ -2605,22 +2605,22 @@
     "to": "2025 W13"
    },
    {
+    "manager": "Devin",
+    "length": 7,
+    "from": "2026 W5",
+    "to": "2026 W11"
+   },
+   {
     "manager": "Matthew",
     "length": 6,
     "from": "2025 W10",
     "to": "2025 W15"
    },
    {
-    "manager": "Devin",
-    "length": 6,
-    "from": "2026 W5",
-    "to": "2026 W10"
-   },
-   {
     "manager": "Emily",
-    "length": 5,
+    "length": 6,
     "from": "2026 W6",
-    "to": "2026 W10"
+    "to": "2026 W11"
    },
    {
     "manager": "Ellie",
@@ -2630,20 +2630,20 @@
    }
   ],
   "current": {
-   "Daniel": "W5",
-   "Uncle Ben": "L1",
-   "Elisha": "W4",
-   "Matthew": "L4",
-   "Emily": "L5",
-   "Ellie": "W4",
+   "Daniel": "L1",
+   "Uncle Ben": "W1",
+   "Elisha": "L1",
+   "Matthew": "W1",
+   "Emily": "L6",
+   "Ellie": "W5",
    "Elo": "W1",
    "TassioSS": "W2",
-   "Tim": "W2",
-   "Elena": "W1",
-   "Ellen": "L1",
-   "Lytton": "W1",
-   "Mitchel": "L2",
-   "Devin": "L6"
+   "Tim": "W3",
+   "Elena": "W2",
+   "Ellen": "L2",
+   "Lytton": "L1",
+   "Mitchel": "W1",
+   "Devin": "L7"
   }
  },
  "transactions": {
@@ -2693,7 +2693,7 @@
    {
     "season": "2026",
     "manager": "Daniel",
-    "spent": 166
+    "spent": 168
    },
    {
     "season": "2026",
@@ -2720,7 +2720,7 @@
    {
     "season": "2026",
     "manager": "Daniel",
-    "pickups": 44
+    "pickups": 50
    },
    {
     "season": "2026",
@@ -2730,7 +2730,7 @@
    {
     "season": "2026",
     "manager": "Tim",
-    "pickups": 32
+    "pickups": 34
    },
    {
     "season": "2025",
@@ -2824,6 +2824,13 @@
     "t": 0,
     "pf": 143.5,
     "pa": 116.56
+   },
+   "Elena": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 110.42,
+    "pa": 129.1
    }
   },
   "Uncle Ben": {
@@ -2910,6 +2917,13 @@
     "t": 0,
     "pf": 168.76,
     "pa": 170.88
+   },
+   "Devin": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 130.5,
+    "pa": 122.1
    }
   },
   "Elisha": {
@@ -2996,6 +3010,13 @@
     "t": 0,
     "pf": 143.48,
     "pa": 139.88
+   },
+   "Mitchel": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 92.46,
+    "pa": 134.3
    }
   },
   "Matthew": {
@@ -3042,11 +3063,11 @@
     "pa": 376.76
    },
    "Emily": {
-    "w": 0,
+    "w": 1,
     "l": 2,
     "t": 0,
-    "pf": 233.0,
-    "pa": 271.4
+    "pf": 346.32,
+    "pa": 352.8
    },
    "Elena": {
     "w": 1,
@@ -3136,10 +3157,10 @@
    },
    "Matthew": {
     "w": 2,
-    "l": 0,
+    "l": 1,
     "t": 0,
-    "pf": 271.4,
-    "pa": 233.0
+    "pf": 352.8,
+    "pa": 346.32
    },
    "Tim": {
     "w": 0,
@@ -3268,6 +3289,13 @@
     "t": 0,
     "pf": 136.86,
     "pa": 107.16
+   },
+   "Ellen": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 141.46,
+    "pa": 125.56
    }
   },
   "Elo": {
@@ -3442,6 +3470,13 @@
     "t": 0,
     "pf": 156.42,
     "pa": 130.3
+   },
+   "Lytton": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 162.84,
+    "pa": 132.52
    }
   },
   "Elena": {
@@ -3514,6 +3549,13 @@
     "t": 0,
     "pf": 170.88,
     "pa": 168.76
+   },
+   "Daniel": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 129.1,
+    "pa": 110.42
    }
   },
   "Ellen": {
@@ -3586,6 +3628,13 @@
     "t": 0,
     "pf": 139.88,
     "pa": 143.48
+   },
+   "Ellie": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 125.56,
+    "pa": 141.46
    }
   },
   "Lytton": {
@@ -3658,6 +3707,13 @@
     "t": 0,
     "pf": 226.48,
     "pa": 90.98
+   },
+   "Tim": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 132.52,
+    "pa": 162.84
    }
   },
   "Mitchel": {
@@ -3730,6 +3786,13 @@
     "t": 0,
     "pf": 90.98,
     "pa": 226.48
+   },
+   "Elisha": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "pf": 134.3,
+    "pa": 92.46
    }
   },
   "Devin": {
@@ -3802,6 +3865,13 @@
     "t": 0,
     "pf": 107.16,
     "pa": 136.86
+   },
+   "Uncle Ben": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "pf": 122.1,
+    "pa": 130.5
    }
   }
  },
@@ -3816,7 +3886,7 @@
   "Uncle Ben": "https://sleepercdn.com/avatars/thumbs/72d96729bcb8e5c193b65f32bbd79fc6",
   "Tim": "https://sleepercdn.com/uploads/818f0a1258b20c04cdd424cc8fc0614c.jpg",
   "Elena": "https://sleepercdn.com/uploads/4965de07098112357016376a6dc2bb5f.jpg",
-  "Ellen": "https://sleepercdn.com/uploads/2918207035979bb34ee0aec4fc22e8ea.jpg",
+  "Ellen": "https://sleepercdn.com/uploads/d7e6afed5167ca144f33866621b4bfca.jpg",
   "Lytton": "https://sleepercdn.com/uploads/bea1ee494a1d87570920b9440edc434d.jpg",
   "Mitchel": "https://sleepercdn.com/avatars/thumbs/d22e52781a5d7a94bcbf2aa70e748382",
   "Devin": "https://sleepercdn.com/uploads/4ad20a309b1d35cd83badb9f584fda93.jpg"
@@ -3839,7 +3909,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
    ],
    "champion": null,
    "runner_up": null,
@@ -3848,20 +3919,20 @@
    "standings": [
     {
      "manager": "Daniel",
-     "record": "9-1",
-     "win_pct": 0.9,
-     "pf": 1585.78,
-     "pa": 1268.54,
-     "diff": 317.24,
-     "ppg": 158.58,
+     "record": "9-2",
+     "win_pct": 0.818,
+     "pf": 1696.2,
+     "pa": 1397.64,
+     "diff": 298.56,
+     "ppg": 154.2,
      "high": 217.86,
      "low": 83.7,
-     "sd": 35.76,
-     "all_play": "85-25",
-     "all_play_pct": 0.773,
-     "luck": 1.27,
-     "lineup_efficiency": 0.942,
-     "bench_points": 97.36,
+     "sd": 36.9,
+     "all_play": "87-34",
+     "all_play_pct": 0.719,
+     "luck": 1.09,
+     "lineup_efficiency": 0.944,
+     "bench_points": 100.66,
      "scores": [
       217.86,
       171.88,
@@ -3872,7 +3943,8 @@
       153.34,
       143.5,
       192.9,
-      83.7
+      83.7,
+      110.42
      ],
      "seed": 1,
      "place": 1,
@@ -3880,20 +3952,20 @@
     },
     {
      "manager": "Ellie",
-     "record": "7-3",
-     "win_pct": 0.7,
-     "pf": 1331.86,
-     "pa": 1231.86,
-     "diff": 100.0,
-     "ppg": 133.19,
+     "record": "8-3",
+     "win_pct": 0.727,
+     "pf": 1473.32,
+     "pa": 1357.42,
+     "diff": 115.9,
+     "ppg": 133.94,
      "high": 155.36,
      "low": 90.9,
-     "sd": 20.8,
-     "all_play": "58-52",
-     "all_play_pct": 0.527,
-     "luck": 1.73,
-     "lineup_efficiency": 0.901,
-     "bench_points": 146.88,
+     "sd": 19.89,
+     "all_play": "68-53",
+     "all_play_pct": 0.562,
+     "luck": 1.82,
+     "lineup_efficiency": 0.908,
+     "bench_points": 149.0,
      "scores": [
       90.9,
       155.36,
@@ -3904,60 +3976,29 @@
       144.7,
       115.74,
       135.18,
-      136.86
+      136.86,
+      141.46
      ],
      "seed": 2,
      "place": 2,
      "made_playoffs": false
     },
     {
-     "manager": "Lytton",
-     "record": "6-4",
-     "win_pct": 0.6,
-     "pf": 1494.84,
-     "pa": 1336.2,
-     "diff": 158.64,
-     "ppg": 149.48,
-     "high": 226.48,
-     "low": 111.12,
-     "sd": 37.87,
-     "all_play": "66-44",
-     "all_play_pct": 0.6,
-     "luck": 0.0,
-     "lineup_efficiency": 0.899,
-     "bench_points": 167.2,
-     "scores": [
-      111.12,
-      122.7,
-      126.6,
-      152.92,
-      186.68,
-      180.98,
-      148.92,
-      124.04,
-      114.4,
-      226.48
-     ],
-     "seed": 3,
-     "place": 3,
-     "made_playoffs": false
-    },
-    {
      "manager": "Uncle Ben",
-     "record": "6-4",
-     "win_pct": 0.6,
-     "pf": 1494.28,
-     "pa": 1318.26,
-     "diff": 176.02,
-     "ppg": 149.43,
+     "record": "7-4",
+     "win_pct": 0.636,
+     "pf": 1624.78,
+     "pa": 1440.36,
+     "diff": 184.42,
+     "ppg": 147.71,
      "high": 173.5,
      "low": 100.74,
-     "sd": 22.59,
-     "all_play": "69-41",
-     "all_play_pct": 0.627,
-     "luck": -0.27,
-     "lineup_efficiency": 0.926,
-     "bench_points": 119.68,
+     "sd": 22.18,
+     "all_play": "76-45",
+     "all_play_pct": 0.628,
+     "luck": 0.09,
+     "lineup_efficiency": 0.928,
+     "bench_points": 125.58,
      "scores": [
       150.48,
       128.14,
@@ -3968,60 +4009,62 @@
       139.9,
       159.7,
       171.82,
-      168.76
+      168.76,
+      130.5
+     ],
+     "seed": 3,
+     "place": 3,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Lytton",
+     "record": "6-5",
+     "win_pct": 0.545,
+     "pf": 1627.36,
+     "pa": 1499.04,
+     "diff": 128.32,
+     "ppg": 147.94,
+     "high": 226.48,
+     "low": 111.12,
+     "sd": 36.29,
+     "all_play": "74-47",
+     "all_play_pct": 0.612,
+     "luck": -0.73,
+     "lineup_efficiency": 0.898,
+     "bench_points": 185.1,
+     "scores": [
+      111.12,
+      122.7,
+      126.6,
+      152.92,
+      186.68,
+      180.98,
+      148.92,
+      124.04,
+      114.4,
+      226.48,
+      132.52
      ],
      "seed": 4,
      "place": 4,
      "made_playoffs": false
     },
     {
-     "manager": "Elisha",
-     "record": "6-4",
-     "win_pct": 0.6,
-     "pf": 1381.88,
-     "pa": 1364.5,
-     "diff": 17.38,
-     "ppg": 138.19,
-     "high": 180.4,
-     "low": 96.38,
-     "sd": 26.06,
-     "all_play": "60-50",
-     "all_play_pct": 0.545,
-     "luck": 0.55,
-     "lineup_efficiency": 0.905,
-     "bench_points": 145.42,
-     "scores": [
-      96.38,
-      166.2,
-      136.36,
-      103.78,
-      156.42,
-      123.28,
-      141.44,
-      180.4,
-      134.14,
-      143.48
-     ],
-     "seed": 5,
-     "place": 5,
-     "made_playoffs": false
-    },
-    {
      "manager": "Matthew",
-     "record": "5-5",
-     "win_pct": 0.5,
-     "pf": 1412.36,
-     "pa": 1488.54,
-     "diff": -76.18,
-     "ppg": 141.24,
+     "record": "6-5",
+     "win_pct": 0.545,
+     "pf": 1525.68,
+     "pa": 1569.94,
+     "diff": -44.26,
+     "ppg": 138.7,
      "high": 197.06,
      "low": 93.82,
-     "sd": 28.09,
-     "all_play": "60-50",
-     "all_play_pct": 0.545,
-     "luck": -0.45,
-     "lineup_efficiency": 0.911,
-     "bench_points": 138.48,
+     "sd": 27.95,
+     "all_play": "63-58",
+     "all_play_pct": 0.521,
+     "luck": 0.27,
+     "lineup_efficiency": 0.902,
+     "bench_points": 165.38,
      "scores": [
       166.42,
       136.56,
@@ -4032,60 +4075,62 @@
       133.28,
       118.24,
       93.82,
-      130.3
+      130.3,
+      113.32
+     ],
+     "seed": 5,
+     "place": 5,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Elisha",
+     "record": "6-5",
+     "win_pct": 0.545,
+     "pf": 1474.34,
+     "pa": 1498.8,
+     "diff": -24.46,
+     "ppg": 134.03,
+     "high": 180.4,
+     "low": 92.46,
+     "sd": 28.31,
+     "all_play": "61-60",
+     "all_play_pct": 0.504,
+     "luck": 0.45,
+     "lineup_efficiency": 0.902,
+     "bench_points": 161.02,
+     "scores": [
+      96.38,
+      166.2,
+      136.36,
+      103.78,
+      156.42,
+      123.28,
+      141.44,
+      180.4,
+      134.14,
+      143.48,
+      92.46
      ],
      "seed": 6,
      "place": 6,
      "made_playoffs": false
     },
     {
-     "manager": "Ellen",
-     "record": "4-6",
-     "win_pct": 0.4,
-     "pf": 1388.78,
-     "pa": 1470.8,
-     "diff": -82.02,
-     "ppg": 138.88,
-     "high": 200.68,
-     "low": 114.36,
-     "sd": 26.53,
-     "all_play": "53-57",
-     "all_play_pct": 0.482,
-     "luck": -0.82,
-     "lineup_efficiency": 0.899,
-     "bench_points": 155.32,
-     "scores": [
-      200.68,
-      114.36,
-      135.52,
-      116.16,
-      168.22,
-      124.78,
-      131.4,
-      134.82,
-      122.96,
-      139.88
-     ],
-     "seed": 7,
-     "place": 7,
-     "made_playoffs": false
-    },
-    {
      "manager": "Elena",
-     "record": "4-6",
-     "win_pct": 0.4,
-     "pf": 1369.98,
-     "pa": 1448.66,
-     "diff": -78.68,
-     "ppg": 137.0,
+     "record": "5-6",
+     "win_pct": 0.455,
+     "pf": 1499.08,
+     "pa": 1559.08,
+     "diff": -60.0,
+     "ppg": 136.28,
      "high": 182.34,
      "low": 76.7,
-     "sd": 35.52,
-     "all_play": "60-50",
+     "sd": 33.78,
+     "all_play": "66-55",
      "all_play_pct": 0.545,
-     "luck": -1.45,
-     "lineup_efficiency": 0.905,
-     "bench_points": 144.54,
+     "luck": -1.0,
+     "lineup_efficiency": 0.911,
+     "bench_points": 146.24,
      "scores": [
       115.0,
       140.84,
@@ -4096,27 +4141,28 @@
       148.18,
       146.68,
       96.72,
-      170.88
+      170.88,
+      129.1
      ],
-     "seed": 8,
-     "place": 8,
+     "seed": 7,
+     "place": 7,
      "made_playoffs": false
     },
     {
      "manager": "Tim",
-     "record": "4-6",
-     "win_pct": 0.4,
-     "pf": 1276.9,
-     "pa": 1431.86,
-     "diff": -154.96,
-     "ppg": 127.69,
-     "high": 156.42,
+     "record": "5-6",
+     "win_pct": 0.455,
+     "pf": 1439.74,
+     "pa": 1564.38,
+     "diff": -124.64,
+     "ppg": 130.89,
+     "high": 162.84,
      "low": 89.96,
-     "sd": 19.94,
-     "all_play": "44-66",
-     "all_play_pct": 0.4,
+     "sd": 21.68,
+     "all_play": "55-66",
+     "all_play_pct": 0.455,
      "luck": 0.0,
-     "lineup_efficiency": 0.912,
+     "lineup_efficiency": 0.921,
      "bench_points": 123.72,
      "scores": [
       152.24,
@@ -4128,27 +4174,28 @@
       129.74,
       116.56,
       121.46,
-      156.42
+      156.42,
+      162.84
      ],
-     "seed": 9,
-     "place": 9,
+     "seed": 8,
+     "place": 8,
      "made_playoffs": false
     },
     {
      "manager": "Mitchel",
-     "record": "4-6",
-     "win_pct": 0.4,
-     "pf": 1201.06,
-     "pa": 1279.46,
-     "diff": -78.4,
-     "ppg": 120.11,
+     "record": "5-6",
+     "win_pct": 0.455,
+     "pf": 1335.36,
+     "pa": 1371.92,
+     "diff": -36.56,
+     "ppg": 121.4,
      "high": 177.26,
      "low": 76.3,
-     "sd": 33.46,
-     "all_play": "44-66",
-     "all_play_pct": 0.4,
-     "luck": 0.0,
-     "lineup_efficiency": 0.889,
+     "sd": 32.03,
+     "all_play": "53-68",
+     "all_play_pct": 0.438,
+     "luck": 0.18,
+     "lineup_efficiency": 0.899,
      "bench_points": 150.2,
      "scores": [
       136.34,
@@ -4160,7 +4207,41 @@
       154.26,
       177.26,
       96.82,
-      90.98
+      90.98,
+      134.3
+     ],
+     "seed": 9,
+     "place": 9,
+     "made_playoffs": false
+    },
+    {
+     "manager": "Ellen",
+     "record": "4-7",
+     "win_pct": 0.364,
+     "pf": 1514.34,
+     "pa": 1612.26,
+     "diff": -97.92,
+     "ppg": 137.67,
+     "high": 200.68,
+     "low": 114.36,
+     "sd": 25.49,
+     "all_play": "58-63",
+     "all_play_pct": 0.479,
+     "luck": -1.27,
+     "lineup_efficiency": 0.9,
+     "bench_points": 168.52,
+     "scores": [
+      200.68,
+      114.36,
+      135.52,
+      116.16,
+      168.22,
+      124.78,
+      131.4,
+      134.82,
+      122.96,
+      139.88,
+      125.56
      ],
      "seed": 10,
      "place": 10,
@@ -4168,19 +4249,19 @@
     },
     {
      "manager": "Devin",
-     "record": "3-7",
-     "win_pct": 0.3,
-     "pf": 1222.68,
-     "pa": 1374.7,
-     "diff": -152.02,
-     "ppg": 122.27,
+     "record": "3-8",
+     "win_pct": 0.273,
+     "pf": 1344.78,
+     "pa": 1505.2,
+     "diff": -160.42,
+     "ppg": 122.25,
      "high": 151.2,
      "low": 106.04,
-     "sd": 14.67,
-     "all_play": "35-75",
-     "all_play_pct": 0.318,
-     "luck": -0.18,
-     "lineup_efficiency": 0.94,
+     "sd": 13.92,
+     "all_play": "39-82",
+     "all_play_pct": 0.322,
+     "luck": -0.55,
+     "lineup_efficiency": 0.945,
      "bench_points": 78.42,
      "scores": [
       131.6,
@@ -4192,7 +4273,8 @@
       114.24,
       106.04,
       125.28,
-      107.16
+      107.16,
+      122.1
      ],
      "seed": 11,
      "place": 11,
@@ -4200,20 +4282,20 @@
     },
     {
      "manager": "Emily",
-     "record": "2-8",
-     "win_pct": 0.2,
-     "pf": 1148.3,
-     "pa": 1295.32,
-     "diff": -147.02,
-     "ppg": 114.83,
+     "record": "2-9",
+     "win_pct": 0.182,
+     "pf": 1229.7,
+     "pa": 1408.64,
+     "diff": -178.94,
+     "ppg": 111.79,
      "high": 140.68,
-     "low": 82.1,
-     "sd": 18.8,
-     "all_play": "26-84",
-     "all_play_pct": 0.236,
+     "low": 81.4,
+     "sd": 20.49,
+     "all_play": "26-95",
+     "all_play_pct": 0.215,
      "luck": -0.36,
-     "lineup_efficiency": 0.887,
-     "bench_points": 146.78,
+     "lineup_efficiency": 0.889,
+     "bench_points": 154.18,
      "scores": [
       136.68,
       95.28,
@@ -4224,7 +4306,8 @@
       118.34,
       110.54,
       118.36,
-      82.1
+      82.1,
+      81.4
      ],
      "seed": 12,
      "place": 12,
@@ -4237,8 +4320,8 @@
      "round": 1,
      "name": "Quarterfinal",
      "week": 15,
-     "t1": "Uncle Ben",
-     "t2": "Elisha",
+     "t1": "Lytton",
+     "t2": "Matthew",
      "s1": null,
      "s2": null,
      "winner": null
@@ -4248,8 +4331,8 @@
      "round": 1,
      "name": "Quarterfinal",
      "week": 15,
-     "t1": "Matthew",
-     "t2": "Lytton",
+     "t1": "Elisha",
+     "t2": "Uncle Ben",
      "s1": null,
      "s2": null,
      "winner": null
@@ -4314,8 +4397,8 @@
      "round": 1,
      "name": "Toilet Bowl",
      "week": 15,
-     "t1": "Tim",
-     "t2": "Elena",
+     "t1": "Mitchel",
+     "t2": "Tim",
      "s1": null,
      "s2": null,
      "winner": null
@@ -4325,8 +4408,8 @@
      "round": 1,
      "name": "Toilet Bowl",
      "week": 15,
-     "t1": "Ellen",
-     "t2": "Mitchel",
+     "t1": "Elena",
+     "t2": "Ellen",
      "s1": null,
      "s2": null,
      "winner": null
@@ -4403,7 +4486,7 @@
     {
      "label": "Highest scoring average",
      "who": "Daniel",
-     "value": 158.58,
+     "value": 154.2,
      "detail": "Points per game"
     },
     {
@@ -4421,31 +4504,31 @@
     {
      "label": "Best all-play record",
      "who": "Daniel",
-     "value": "85-25",
+     "value": "87-34",
      "detail": "Record against the whole league every week"
     },
     {
      "label": "Luckiest team",
      "who": "Ellie",
-     "value": "+1.7 wins",
+     "value": "+1.8 wins",
      "detail": "Wins above what the scores earned"
     },
     {
      "label": "Unluckiest team",
-     "who": "Elena",
-     "value": "-1.4 wins",
+     "who": "Ellen",
+     "value": "-1.3 wins",
      "detail": "Wins below what the scores earned"
     },
     {
      "label": "Most weeks at #1",
      "who": "Daniel",
-     "value": 10,
+     "value": 11,
      "detail": "Weeks holding the top power ranking"
     },
     {
      "label": "Most weeks in the top 3",
      "who": "Daniel",
-     "value": 10,
+     "value": 11,
      "detail": "Weeks ranked 3rd or better"
     },
     {
@@ -4457,25 +4540,25 @@
     {
      "label": "Most consistent",
      "who": "Devin",
-     "value": 14.67,
+     "value": 13.92,
      "detail": "Smallest week-to-week swing"
     },
     {
      "label": "Most volatile",
-     "who": "Lytton",
-     "value": 37.87,
+     "who": "Daniel",
+     "value": 36.9,
      "detail": "Biggest week-to-week swing"
     },
     {
      "label": "Best lineup setter",
-     "who": "Daniel",
-     "value": "94.2%",
+     "who": "Devin",
+     "value": "94.5%",
      "detail": "Points scored out of the most possible"
     },
     {
      "label": "Most points left on the bench",
      "who": "Lytton",
-     "value": 167.2,
+     "value": 185.1,
      "detail": "Season total"
     },
     {
@@ -4487,8 +4570,8 @@
     {
      "label": "Lowest scoring week, league-wide",
      "who": "Whole league",
-     "value": 1523.86,
-     "detail": "Week 9"
+     "value": 1475.98,
+     "detail": "Week 11"
     }
    ],
    "weekly_high_scores": [
@@ -4561,6 +4644,13 @@
       "Lytton"
      ],
      "points": 226.48
+    },
+    {
+     "week": 11,
+     "managers": [
+      "Tim"
+     ],
+     "points": 162.84
     }
    ],
    "weekly_prize": 5,
@@ -4592,6 +4682,11 @@
     },
     {
      "manager": "Elisha",
+     "weeks": 1.0,
+     "dollars": 5.0
+    },
+    {
+     "manager": "Tim",
      "weeks": 1.0,
      "dollars": 5.0
     }
@@ -5195,6 +5290,66 @@
      "winner_points": 83.7,
      "loser": "Emily",
      "loser_points": 82.1,
+     "tie": false
+    },
+    {
+     "week": 11,
+     "type": "regular",
+     "round": null,
+     "winner": "Tim",
+     "winner_points": 162.84,
+     "loser": "Lytton",
+     "loser_points": 132.52,
+     "tie": false
+    },
+    {
+     "week": 11,
+     "type": "regular",
+     "round": null,
+     "winner": "Ellie",
+     "winner_points": 141.46,
+     "loser": "Ellen",
+     "loser_points": 125.56,
+     "tie": false
+    },
+    {
+     "week": 11,
+     "type": "regular",
+     "round": null,
+     "winner": "Mitchel",
+     "winner_points": 134.3,
+     "loser": "Elisha",
+     "loser_points": 92.46,
+     "tie": false
+    },
+    {
+     "week": 11,
+     "type": "regular",
+     "round": null,
+     "winner": "Uncle Ben",
+     "winner_points": 130.5,
+     "loser": "Devin",
+     "loser_points": 122.1,
+     "tie": false
+    },
+    {
+     "week": 11,
+     "type": "regular",
+     "round": null,
+     "winner": "Elena",
+     "winner_points": 129.1,
+     "loser": "Daniel",
+     "loser_points": 110.42,
+     "tie": false
+    },
+    {
+     "week": 11,
+     "type": "regular",
+     "round": null,
+     "winner": "Matthew",
+     "winner_points": 113.32,
+     "loser": "Emily",
+     "loser_points": 81.4,
      "tie": false
     }
    ],
@@ -6174,7 +6329,7 @@
       "manager": "Tim",
       "player": "Daniel Jones",
       "position": "QB",
-      "team": "IND",
+      "team": null,
       "keeper": false
      },
      {
@@ -9121,12 +9276,12 @@
    "rank": 1,
    "manager": "Daniel",
    "move": 0,
-   "power": 93.6,
-   "ppg": 158.58,
-   "last3": 140.03,
-   "win_pct": 0.9,
-   "all_play_pct": 0.773,
-   "record": "9-1",
+   "power": 92.7,
+   "ppg": 154.2,
+   "last3": 129.01,
+   "win_pct": 0.818,
+   "all_play_pct": 0.719,
+   "record": "9-2",
    "scores": [
     217.86,
     171.88,
@@ -9137,9 +9292,11 @@
     153.34,
     143.5,
     192.9,
-    83.7
+    83.7,
+    110.42
    ],
    "ranks": [
+    1,
     1,
     1,
     1,
@@ -9156,12 +9313,12 @@
    "rank": 2,
    "manager": "Uncle Ben",
    "move": 0,
-   "power": 88.4,
-   "ppg": 149.43,
-   "last3": 166.76,
-   "win_pct": 0.6,
-   "all_play_pct": 0.627,
-   "record": "6-4",
+   "power": 92.0,
+   "ppg": 147.71,
+   "last3": 157.03,
+   "win_pct": 0.636,
+   "all_play_pct": 0.628,
+   "record": "7-4",
    "scores": [
     150.48,
     128.14,
@@ -9172,7 +9329,8 @@
     139.9,
     159.7,
     171.82,
-    168.76
+    168.76,
+    130.5
    ],
    "ranks": [
     7,
@@ -9184,19 +9342,20 @@
     4,
     2,
     2,
+    2,
     2
    ]
   },
   {
    "rank": 3,
    "manager": "Lytton",
-   "move": 2,
-   "power": 84.9,
-   "ppg": 149.48,
-   "last3": 154.97,
-   "win_pct": 0.6,
-   "all_play_pct": 0.6,
-   "record": "6-4",
+   "move": 0,
+   "power": 89.5,
+   "ppg": 147.94,
+   "last3": 157.8,
+   "win_pct": 0.545,
+   "all_play_pct": 0.612,
+   "record": "6-5",
    "scores": [
     111.12,
     122.7,
@@ -9207,7 +9366,8 @@
     148.92,
     124.04,
     114.4,
-    226.48
+    226.48,
+    132.52
    ],
    "ranks": [
     6,
@@ -9219,54 +9379,20 @@
     3,
     3,
     5,
+    3,
     3
    ]
   },
   {
    "rank": 4,
-   "manager": "Elisha",
-   "move": -1,
-   "power": 81.5,
-   "ppg": 138.19,
-   "last3": 152.67,
-   "win_pct": 0.6,
-   "all_play_pct": 0.545,
-   "record": "6-4",
-   "scores": [
-    96.38,
-    166.2,
-    136.36,
-    103.78,
-    156.42,
-    123.28,
-    141.44,
-    180.4,
-    134.14,
-    143.48
-   ],
-   "ranks": [
-    11,
-    7,
-    8,
-    8,
-    8,
-    9,
-    8,
-    5,
-    3,
-    4
-   ]
-  },
-  {
-   "rank": 5,
    "manager": "Ellie",
-   "move": -1,
-   "power": 77.0,
-   "ppg": 133.19,
-   "last3": 129.26,
-   "win_pct": 0.7,
-   "all_play_pct": 0.527,
-   "record": "7-3",
+   "move": 1,
+   "power": 85.7,
+   "ppg": 133.94,
+   "last3": 137.83,
+   "win_pct": 0.727,
+   "all_play_pct": 0.562,
+   "record": "8-3",
    "scores": [
     90.9,
     155.36,
@@ -9277,7 +9403,8 @@
     144.7,
     115.74,
     135.18,
-    136.86
+    136.86,
+    141.46
    ],
    "ranks": [
     12,
@@ -9289,124 +9416,20 @@
     5,
     6,
     4,
-    5
-   ]
-  },
-  {
-   "rank": 6,
-   "manager": "Elena",
-   "move": 3,
-   "power": 73.4,
-   "ppg": 137.0,
-   "last3": 138.09,
-   "win_pct": 0.4,
-   "all_play_pct": 0.545,
-   "record": "4-6",
-   "scores": [
-    115.0,
-    140.84,
-    182.34,
-    114.68,
-    177.96,
-    76.7,
-    148.18,
-    146.68,
-    96.72,
-    170.88
-   ],
-   "ranks": [
-    10,
-    8,
-    3,
     5,
-    3,
-    6,
-    7,
-    8,
-    9,
-    6
+    4
    ]
   },
   {
-   "rank": 7,
-   "manager": "Ellen",
-   "move": 1,
-   "power": 70.7,
-   "ppg": 138.88,
-   "last3": 132.55,
-   "win_pct": 0.4,
-   "all_play_pct": 0.482,
-   "record": "4-6",
-   "scores": [
-    200.68,
-    114.36,
-    135.52,
-    116.16,
-    168.22,
-    124.78,
-    131.4,
-    134.82,
-    122.96,
-    139.88
-   ],
-   "ranks": [
-    2,
-    3,
-    5,
-    9,
-    9,
-    7,
-    6,
-    9,
-    8,
-    7
-   ]
-  },
-  {
-   "rank": 8,
-   "manager": "Matthew",
-   "move": -2,
-   "power": 70.4,
-   "ppg": 141.24,
-   "last3": 114.12,
-   "win_pct": 0.5,
-   "all_play_pct": 0.545,
-   "record": "5-5",
-   "scores": [
-    166.42,
-    136.56,
-    159.8,
-    140.48,
-    197.06,
-    136.4,
-    133.28,
-    118.24,
-    93.82,
-    130.3
-   ],
-   "ranks": [
-    3,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    4,
-    6,
-    8
-   ]
-  },
-  {
-   "rank": 9,
+   "rank": 5,
    "manager": "Tim",
-   "move": 1,
-   "power": 66.9,
-   "ppg": 127.69,
-   "last3": 131.48,
-   "win_pct": 0.4,
-   "all_play_pct": 0.4,
-   "record": "4-6",
+   "move": 4,
+   "power": 78.0,
+   "ppg": 130.89,
+   "last3": 146.91,
+   "win_pct": 0.455,
+   "all_play_pct": 0.455,
+   "record": "5-6",
    "scores": [
     152.24,
     134.0,
@@ -9417,7 +9440,8 @@
     129.74,
     116.56,
     121.46,
-    156.42
+    156.42,
+    162.84
    ],
    "ranks": [
     4,
@@ -9429,19 +9453,168 @@
     10,
     10,
     10,
+    9,
+    5
+   ]
+  },
+  {
+   "rank": 6,
+   "manager": "Elena",
+   "move": 0,
+   "power": 77.5,
+   "ppg": 136.28,
+   "last3": 132.23,
+   "win_pct": 0.455,
+   "all_play_pct": 0.545,
+   "record": "5-6",
+   "scores": [
+    115.0,
+    140.84,
+    182.34,
+    114.68,
+    177.96,
+    76.7,
+    148.18,
+    146.68,
+    96.72,
+    170.88,
+    129.1
+   ],
+   "ranks": [
+    10,
+    8,
+    3,
+    5,
+    3,
+    6,
+    7,
+    8,
+    9,
+    6,
+    6
+   ]
+  },
+  {
+   "rank": 7,
+   "manager": "Elisha",
+   "move": -3,
+   "power": 76.0,
+   "ppg": 134.03,
+   "last3": 123.36,
+   "win_pct": 0.545,
+   "all_play_pct": 0.504,
+   "record": "6-5",
+   "scores": [
+    96.38,
+    166.2,
+    136.36,
+    103.78,
+    156.42,
+    123.28,
+    141.44,
+    180.4,
+    134.14,
+    143.48,
+    92.46
+   ],
+   "ranks": [
+    11,
+    7,
+    8,
+    8,
+    8,
+    9,
+    8,
+    5,
+    3,
+    4,
+    7
+   ]
+  },
+  {
+   "rank": 8,
+   "manager": "Matthew",
+   "move": 0,
+   "power": 74.3,
+   "ppg": 138.7,
+   "last3": 112.48,
+   "win_pct": 0.545,
+   "all_play_pct": 0.521,
+   "record": "6-5",
+   "scores": [
+    166.42,
+    136.56,
+    159.8,
+    140.48,
+    197.06,
+    136.4,
+    133.28,
+    118.24,
+    93.82,
+    130.3,
+    113.32
+   ],
+   "ranks": [
+    3,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    4,
+    6,
+    8,
+    8
+   ]
+  },
+  {
+   "rank": 9,
+   "manager": "Ellen",
+   "move": -2,
+   "power": 72.9,
+   "ppg": 137.67,
+   "last3": 129.47,
+   "win_pct": 0.364,
+   "all_play_pct": 0.479,
+   "record": "4-7",
+   "scores": [
+    200.68,
+    114.36,
+    135.52,
+    116.16,
+    168.22,
+    124.78,
+    131.4,
+    134.82,
+    122.96,
+    139.88,
+    125.56
+   ],
+   "ranks": [
+    2,
+    3,
+    5,
+    9,
+    9,
+    7,
+    6,
+    9,
+    8,
+    7,
     9
    ]
   },
   {
    "rank": 10,
    "manager": "Mitchel",
-   "move": -3,
-   "power": 63.6,
-   "ppg": 120.11,
-   "last3": 121.69,
-   "win_pct": 0.4,
-   "all_play_pct": 0.4,
-   "record": "4-6",
+   "move": 0,
+   "power": 66.3,
+   "ppg": 121.4,
+   "last3": 107.37,
+   "win_pct": 0.455,
+   "all_play_pct": 0.438,
+   "record": "5-6",
    "scores": [
     136.34,
     99.8,
@@ -9452,7 +9625,8 @@
     154.26,
     177.26,
     96.82,
-    90.98
+    90.98,
+    134.3
    ],
    "ranks": [
     5,
@@ -9464,6 +9638,7 @@
     11,
     7,
     7,
+    10,
     10
    ]
   },
@@ -9471,12 +9646,12 @@
    "rank": 11,
    "manager": "Devin",
    "move": 0,
-   "power": 57.4,
-   "ppg": 122.27,
-   "last3": 112.83,
-   "win_pct": 0.3,
-   "all_play_pct": 0.318,
-   "record": "3-7",
+   "power": 61.4,
+   "ppg": 122.25,
+   "last3": 118.18,
+   "win_pct": 0.273,
+   "all_play_pct": 0.322,
+   "record": "3-8",
    "scores": [
     131.6,
     139.76,
@@ -9487,7 +9662,8 @@
     114.24,
     106.04,
     125.28,
-    107.16
+    107.16,
+    122.1
    ],
    "ranks": [
     9,
@@ -9499,6 +9675,7 @@
     9,
     11,
     11,
+    11,
     11
    ]
   },
@@ -9506,12 +9683,12 @@
    "rank": 12,
    "manager": "Emily",
    "move": 0,
-   "power": 49.9,
-   "ppg": 114.83,
-   "last3": 103.67,
-   "win_pct": 0.2,
-   "all_play_pct": 0.236,
-   "record": "2-8",
+   "power": 48.7,
+   "ppg": 111.79,
+   "last3": 93.95,
+   "win_pct": 0.182,
+   "all_play_pct": 0.215,
+   "record": "2-9",
    "scores": [
     136.68,
     95.28,
@@ -9522,7 +9699,8 @@
     118.34,
     110.54,
     118.36,
-    82.1
+    82.1,
+    81.4
    ],
    "ranks": [
     8,
@@ -9534,54 +9712,35 @@
     12,
     12,
     12,
+    12,
     12
    ]
   }
  ],
  "playoff_odds": {
-  "Elena": {
-   "make": 0.22,
-   "bye": 0.0,
-   "first": 0.0
-  },
-  "Elisha": {
-   "make": 0.876,
-   "bye": 0.129,
-   "first": 0.001
-  },
   "Tim": {
-   "make": 0.082,
-   "bye": 0.0,
-   "first": 0.0
-  },
-  "Lytton": {
-   "make": 0.955,
-   "bye": 0.29,
-   "first": 0.008
-  },
-  "Devin": {
-   "make": 0.004,
-   "bye": 0.0,
-   "first": 0.0
-  },
-  "Mitchel": {
-   "make": 0.023,
+   "make": 0.229,
    "bye": 0.0,
    "first": 0.0
   },
   "Ellen": {
-   "make": 0.179,
+   "make": 0.054,
    "bye": 0.0,
    "first": 0.0
   },
-  "Daniel": {
-   "make": 1.0,
-   "bye": 0.994,
-   "first": 0.971
+  "Ellie": {
+   "make": 0.995,
+   "bye": 0.491,
+   "first": 0.046
   },
-  "Matthew": {
-   "make": 0.723,
-   "bye": 0.017,
+  "Lytton": {
+   "make": 0.898,
+   "bye": 0.126,
+   "first": 0.005
+  },
+  "Elena": {
+   "make": 0.405,
+   "bye": 0.0,
    "first": 0.0
   },
   "Emily": {
@@ -9589,31 +9748,51 @@
    "bye": 0.0,
    "first": 0.0
   },
-  "Ellie": {
-   "make": 0.959,
-   "bye": 0.264,
-   "first": 0.008
+  "Mitchel": {
+   "make": 0.04,
+   "bye": 0.0,
+   "first": 0.0
+  },
+  "Devin": {
+   "make": 0.0,
+   "bye": 0.0,
+   "first": 0.0
+  },
+  "Elisha": {
+   "make": 0.588,
+   "bye": 0.021,
+   "first": 0.0
+  },
+  "Matthew": {
+   "make": 0.798,
+   "bye": 0.02,
+   "first": 0.0
   },
   "Uncle Ben": {
-   "make": 0.979,
-   "bye": 0.305,
-   "first": 0.012
+   "make": 0.993,
+   "bye": 0.357,
+   "first": 0.025
+  },
+  "Daniel": {
+   "make": 1.0,
+   "bye": 0.985,
+   "first": 0.924
   }
  },
  "last_week": {
-  "week": 10,
+  "week": 11,
   "top": [
    {
-    "manager": "Lytton",
-    "points": 226.48
+    "manager": "Tim",
+    "points": 162.84
    },
    {
-    "manager": "Elena",
-    "points": 170.88
+    "manager": "Ellie",
+    "points": 141.46
    },
    {
-    "manager": "Uncle Ben",
-    "points": 168.76
+    "manager": "Mitchel",
+    "points": 134.3
    }
   ]
  },
@@ -9723,66 +9902,73 @@
  "runs": [
   {
    "manager": "Daniel",
-   "games": 26,
+   "games": 27,
    "best": 9,
    "worst": 1,
-   "now": "W5"
+   "now": "L1"
   },
   {
    "manager": "Elisha",
-   "games": 26,
+   "games": 27,
    "best": 6,
-   "worst": 3,
-   "now": "W4"
-  },
-  {
-   "manager": "Matthew",
-   "games": 25,
-   "best": 4,
-   "worst": 6,
-   "now": "L4"
-  },
-  {
-   "manager": "Emily",
-   "games": 27,
-   "best": 4,
-   "worst": 5,
-   "now": "L5"
-  },
-  {
-   "manager": "Ellie",
-   "games": 26,
-   "best": 4,
-   "worst": 5,
-   "now": "W4"
-  },
-  {
-   "manager": "Uncle Ben",
-   "games": 27,
-   "best": 3,
    "worst": 3,
    "now": "L1"
   },
   {
-   "manager": "Lytton",
-   "games": 10,
-   "best": 3,
-   "worst": 2,
+   "manager": "Ellie",
+   "games": 27,
+   "best": 5,
+   "worst": 5,
+   "now": "W5"
+  },
+  {
+   "manager": "Matthew",
+   "games": 26,
+   "best": 4,
+   "worst": 6,
    "now": "W1"
   },
   {
+   "manager": "Emily",
+   "games": 28,
+   "best": 4,
+   "worst": 6,
+   "now": "L6"
+  },
+  {
+   "manager": "Uncle Ben",
+   "games": 28,
+   "best": 3,
+   "worst": 3,
+   "now": "W1"
+  },
+  {
+   "manager": "Tim",
+   "games": 11,
+   "best": 3,
+   "worst": 3,
+   "now": "W3"
+  },
+  {
+   "manager": "Lytton",
+   "games": 11,
+   "best": 3,
+   "worst": 2,
+   "now": "L1"
+  },
+  {
    "manager": "Mitchel",
-   "games": 10,
+   "games": 11,
    "best": 3,
    "worst": 4,
-   "now": "L2"
+   "now": "W1"
   },
   {
    "manager": "Devin",
-   "games": 10,
+   "games": 11,
    "best": 3,
-   "worst": 6,
-   "now": "L6"
+   "worst": 7,
+   "now": "L7"
   },
   {
    "manager": "Elo",
@@ -9799,25 +9985,18 @@
    "now": "W2"
   },
   {
-   "manager": "Tim",
-   "games": 10,
+   "manager": "Elena",
+   "games": 11,
    "best": 2,
-   "worst": 3,
+   "worst": 4,
    "now": "W2"
   },
   {
-   "manager": "Elena",
-   "games": 10,
-   "best": 2,
-   "worst": 4,
-   "now": "W1"
-  },
-  {
    "manager": "Ellen",
-   "games": 10,
+   "games": 11,
    "best": 2,
    "worst": 4,
-   "now": "L1"
+   "now": "L2"
   }
  ],
  "rivals": [
@@ -10011,6 +10190,16 @@
   },
   {
    "manager": "Daniel",
+   "player": "Tommy DeVito",
+   "position": "QB",
+   "team": "NE",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Daniel",
    "player": "Rome Odunze",
    "position": "WR",
    "team": "CHI",
@@ -10021,9 +10210,9 @@
   },
   {
    "manager": "Daniel",
-   "player": "Jalon Daniels",
+   "player": "Geno Smith",
    "position": "QB",
-   "team": "TB",
+   "team": "NYJ",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -10031,9 +10220,9 @@
   },
   {
    "manager": "Daniel",
-   "player": "Geno Smith",
-   "position": "QB",
-   "team": "NYJ",
+   "player": "Dawson Knox",
+   "position": "TE",
+   "team": "BUF",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -10101,19 +10290,19 @@
   },
   {
    "manager": "Daniel",
-   "player": "Jauan Jennings",
-   "position": "WR",
-   "team": "MIN",
-   "drafted": "Round 13",
+   "player": "Chris Rodriguez Jr.",
+   "position": "RB",
+   "team": "JAX",
+   "drafted": "Round 12",
    "years_kept": 0,
-   "cost": 12,
-   "status": "Round 12"
+   "cost": 11,
+   "status": "Round 11"
   },
   {
    "manager": "Daniel",
-   "player": "Rachaad White",
-   "position": "RB",
-   "team": "WAS",
+   "player": "Jauan Jennings",
+   "position": "WR",
+   "team": "MIN",
    "drafted": "Round 13",
    "years_kept": 0,
    "cost": 12,
@@ -10128,16 +10317,6 @@
    "years_kept": 0,
    "cost": 13,
    "status": "Round 13"
-  },
-  {
-   "manager": "Daniel",
-   "player": "Terrance Ferguson",
-   "position": "TE",
-   "team": "LAR",
-   "drafted": "Round 15",
-   "years_kept": 0,
-   "cost": 14,
-   "status": "Round 14"
   },
   {
    "manager": "Daniel",
@@ -10160,20 +10339,10 @@
    "status": "Not keepable"
   },
   {
-   "manager": "Daniel",
-   "player": "Puka Nacua",
-   "position": "WR",
-   "team": "LAR",
-   "drafted": "Round 1",
-   "years_kept": 0,
-   "cost": null,
-   "status": "Not keepable"
-  },
-  {
    "manager": "Devin",
-   "player": "Derrick Henry",
-   "position": "RB",
-   "team": "BAL",
+   "player": "Justin Herbert",
+   "position": "QB",
+   "team": "LAC",
    "drafted": "Round 3",
    "years_kept": 0,
    "cost": 2,
@@ -10181,9 +10350,9 @@
   },
   {
    "manager": "Devin",
-   "player": "Justin Herbert",
-   "position": "QB",
-   "team": "LAC",
+   "player": "Tee Higgins",
+   "position": "WR",
+   "team": "CIN",
    "drafted": "Round 3",
    "years_kept": 0,
    "cost": 2,
@@ -10224,6 +10393,16 @@
    "player": "Mack Hollins",
    "position": "WR",
    "team": "NE",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Devin",
+   "player": "Michael Carter",
+   "position": "RB",
+   "team": "TEN",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -10304,16 +10483,6 @@
    "player": "Keenan Allen",
    "position": "WR",
    "team": "SF",
-   "drafted": "Round 15",
-   "years_kept": 0,
-   "cost": 14,
-   "status": "Round 14"
-  },
-  {
-   "manager": "Devin",
-   "player": "Tank Dell",
-   "position": "WR",
-   "team": "HOU",
    "drafted": "Round 15",
    "years_kept": 0,
    "cost": 14,
@@ -10531,6 +10700,36 @@
   },
   {
    "manager": "Elisha",
+   "player": "Darren Waller",
+   "position": "TE",
+   "team": "CAR",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Deshaun Watson",
+   "position": "QB",
+   "team": "CLE",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Justice Hill",
+   "position": "RB",
+   "team": "BAL",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Elisha",
    "player": "D'Andre Swift",
    "position": "RB",
    "team": "CHI",
@@ -10541,19 +10740,9 @@
   },
   {
    "manager": "Elisha",
-   "player": "Tony Pollard",
-   "position": "RB",
-   "team": "TEN",
-   "drafted": "Round 8",
-   "years_kept": 0,
-   "cost": 7,
-   "status": "Round 7"
-  },
-  {
-   "manager": "Elisha",
-   "player": "Rhamondre Stevenson",
-   "position": "RB",
-   "team": "NE",
+   "player": "Quentin Johnston",
+   "position": "WR",
+   "team": "LAC",
    "drafted": "Round 8",
    "years_kept": 0,
    "cost": 7,
@@ -10568,16 +10757,6 @@
    "years_kept": 0,
    "cost": 8,
    "status": "Round 8"
-  },
-  {
-   "manager": "Elisha",
-   "player": "KC Concepcion Jr.",
-   "position": "WR",
-   "team": "CLE",
-   "drafted": "Round 11",
-   "years_kept": 0,
-   "cost": 10,
-   "status": "Round 10"
   },
   {
    "manager": "Elisha",
@@ -10601,9 +10780,19 @@
   },
   {
    "manager": "Elisha",
-   "player": "Hunter Henry",
-   "position": "TE",
-   "team": "NE",
+   "player": "Rachaad White",
+   "position": "RB",
+   "team": "WAS",
+   "drafted": "Round 13",
+   "years_kept": 0,
+   "cost": 12,
+   "status": "Round 12"
+  },
+  {
+   "manager": "Elisha",
+   "player": "Aaron Rodgers",
+   "position": "QB",
+   "team": "PIT",
    "drafted": "Round 13",
    "years_kept": 0,
    "cost": 12,
@@ -10631,9 +10820,9 @@
   },
   {
    "manager": "Elisha",
-   "player": "Amon-Ra St. Brown",
+   "player": "Ja'Marr Chase",
    "position": "WR",
-   "team": "DET",
+   "team": "CIN",
    "drafted": "Round 1",
    "years_kept": 0,
    "cost": null,
@@ -10641,9 +10830,9 @@
   },
   {
    "manager": "Elisha",
-   "player": "Ja'Marr Chase",
+   "player": "Jaxon Smith-Njigba",
    "position": "WR",
-   "team": "CIN",
+   "team": "SEA",
    "drafted": "Round 1",
    "years_kept": 0,
    "cost": null,
@@ -10681,16 +10870,6 @@
   },
   {
    "manager": "Ellen",
-   "player": "Kalif Raymond",
-   "position": "WR",
-   "team": "CHI",
-   "drafted": "Undrafted",
-   "years_kept": 0,
-   "cost": 5,
-   "status": "Round 5"
-  },
-  {
-   "manager": "Ellen",
    "player": "Mike Gesicki",
    "position": "TE",
    "team": "CIN",
@@ -10718,6 +10897,16 @@
    "years_kept": 0,
    "cost": 6,
    "status": "Round 6"
+  },
+  {
+   "manager": "Ellen",
+   "player": "Tony Pollard",
+   "position": "RB",
+   "team": "TEN",
+   "drafted": "Round 8",
+   "years_kept": 0,
+   "cost": 7,
+   "status": "Round 7"
   },
   {
    "manager": "Ellen",
@@ -10801,9 +10990,9 @@
   },
   {
    "manager": "Ellen",
-   "player": "Jaxon Smith-Njigba",
+   "player": "Amon-Ra St. Brown",
    "position": "WR",
-   "team": "SEA",
+   "team": "DET",
    "drafted": "Round 1",
    "years_kept": 0,
    "cost": null,
@@ -10838,6 +11027,16 @@
    "years_kept": 0,
    "cost": 4,
    "status": "Round 4"
+  },
+  {
+   "manager": "Ellie",
+   "player": "Roman Wilson",
+   "position": "WR",
+   "team": "PIT",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
   },
   {
    "manager": "Ellie",
@@ -11001,9 +11200,9 @@
   },
   {
    "manager": "Emily",
-   "player": "Germie Bernard",
-   "position": "WR",
-   "team": "PIT",
+   "player": "Kimani Vidal",
+   "position": "RB",
+   "team": "LAC",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -11011,9 +11210,9 @@
   },
   {
    "manager": "Emily",
-   "player": "Deshaun Watson",
-   "position": "QB",
-   "team": "CLE",
+   "player": "Germie Bernard",
+   "position": "WR",
+   "team": "PIT",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -11063,7 +11262,7 @@
    "manager": "Emily",
    "player": "Daniel Jones",
    "position": "QB",
-   "team": "IND",
+   "team": null,
    "drafted": "Round 9",
    "years_kept": 0,
    "cost": 8,
@@ -11088,6 +11287,16 @@
    "years_kept": 0,
    "cost": 9,
    "status": "Round 9"
+  },
+  {
+   "manager": "Emily",
+   "player": "KC Concepcion Jr.",
+   "position": "WR",
+   "team": "CLE",
+   "drafted": "Round 11",
+   "years_kept": 0,
+   "cost": 10,
+   "status": "Round 10"
   },
   {
    "manager": "Emily",
@@ -11154,6 +11363,16 @@
    "player": "Konata Mumpfield",
    "position": "WR",
    "team": "LAR",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
+  },
+  {
+   "manager": "Lytton",
+   "player": "Rashod Bateman",
+   "position": "WR",
+   "team": "BAL",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -11311,19 +11530,9 @@
   },
   {
    "manager": "Matthew",
-   "player": "Jordan Watkins",
+   "player": "Chimere Dike",
    "position": "WR",
-   "team": "SF",
-   "drafted": "Undrafted",
-   "years_kept": 0,
-   "cost": 5,
-   "status": "Round 5"
-  },
-  {
-   "manager": "Matthew",
-   "player": "Kaelon Black",
-   "position": "RB",
-   "team": "SF",
+   "team": "TEN",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -11343,7 +11552,7 @@
    "manager": "Matthew",
    "player": "Brandon Aiyuk",
    "position": "WR",
-   "team": "SF",
+   "team": null,
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -11378,6 +11587,16 @@
    "years_kept": 0,
    "cost": 6,
    "status": "Round 6"
+  },
+  {
+   "manager": "Matthew",
+   "player": "Makai Lemon",
+   "position": "WR",
+   "team": "PHI",
+   "drafted": "Round 9",
+   "years_kept": 0,
+   "cost": 8,
+   "status": "Round 8"
   },
   {
    "manager": "Matthew",
@@ -11441,9 +11660,9 @@
   },
   {
    "manager": "Mitchel",
-   "player": "Tee Higgins",
-   "position": "WR",
-   "team": "CIN",
+   "player": "Derrick Henry",
+   "position": "RB",
+   "team": "BAL",
    "drafted": "Round 3",
    "years_kept": 0,
    "cost": 2,
@@ -11488,16 +11707,6 @@
    "years_kept": 0,
    "cost": 4,
    "status": "Round 4"
-  },
-  {
-   "manager": "Mitchel",
-   "player": "TreVeyon Henderson",
-   "position": "RB",
-   "team": "NE",
-   "drafted": "Round 6",
-   "years_kept": 0,
-   "cost": 5,
-   "status": "Round 5"
   },
   {
    "manager": "Mitchel",
@@ -11591,6 +11800,16 @@
   },
   {
    "manager": "Mitchel",
+   "player": "Tank Dell",
+   "position": "WR",
+   "team": "HOU",
+   "drafted": "Round 15",
+   "years_kept": 0,
+   "cost": 14,
+   "status": "Round 14"
+  },
+  {
+   "manager": "Mitchel",
    "player": "Ashton Jeanty",
    "position": "RB",
    "team": "LV",
@@ -11598,16 +11817,6 @@
    "years_kept": 0,
    "cost": null,
    "status": "Not keepable"
-  },
-  {
-   "manager": "Tim",
-   "player": "A.J. Brown",
-   "position": "WR",
-   "team": "NE",
-   "drafted": "Round 3",
-   "years_kept": 0,
-   "cost": 2,
-   "status": "Round 2"
   },
   {
    "manager": "Tim",
@@ -11644,16 +11853,6 @@
    "player": "Michael Penix Jr.",
    "position": "QB",
    "team": "ATL",
-   "drafted": "Undrafted",
-   "years_kept": 0,
-   "cost": 5,
-   "status": "Round 5"
-  },
-  {
-   "manager": "Tim",
-   "player": "Tre' Harris",
-   "position": "WR",
-   "team": "LAC",
    "drafted": "Undrafted",
    "years_kept": 0,
    "cost": 5,
@@ -11741,6 +11940,16 @@
   },
   {
    "manager": "Tim",
+   "player": "Mike Washington Jr.",
+   "position": "RB",
+   "team": "LV",
+   "drafted": "Round 12",
+   "years_kept": 0,
+   "cost": 11,
+   "status": "Round 11"
+  },
+  {
+   "manager": "Tim",
    "player": "Fernando Mendoza",
    "position": "QB",
    "team": "LV",
@@ -11798,6 +12007,16 @@
    "years_kept": 0,
    "cost": 3,
    "status": "Round 3"
+  },
+  {
+   "manager": "Uncle Ben",
+   "player": "Joe Milton",
+   "position": "QB",
+   "team": "PHI",
+   "drafted": "Undrafted",
+   "years_kept": 0,
+   "cost": 5,
+   "status": "Round 5"
   },
   {
    "manager": "Uncle Ben",
@@ -11861,13 +12080,13 @@
   },
   {
    "manager": "Uncle Ben",
-   "player": "Makai Lemon",
-   "position": "WR",
-   "team": "PHI",
-   "drafted": "Round 9",
+   "player": "Rhamondre Stevenson",
+   "position": "RB",
+   "team": "NE",
+   "drafted": "Round 8",
    "years_kept": 0,
-   "cost": 8,
-   "status": "Round 8"
+   "cost": 7,
+   "status": "Round 7"
   },
   {
    "manager": "Uncle Ben",
@@ -11908,16 +12127,6 @@
    "years_kept": 0,
    "cost": 10,
    "status": "Round 10"
-  },
-  {
-   "manager": "Uncle Ben",
-   "player": "Aaron Rodgers",
-   "position": "QB",
-   "team": "PIT",
-   "drafted": "Round 13",
-   "years_kept": 0,
-   "cost": 12,
-   "status": "Round 12"
   },
   {
    "manager": "Uncle Ben",
